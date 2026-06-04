@@ -1,0 +1,29 @@
+{
+  "id": "FEAT-001",
+  "type": "feat",
+  "description": "Extract all chess diagram images from the English PDF and save them to disk, organized by chapter and diagram number. Then create a new PDF generation script that replaces [Diagramma X.Y] placeholders with the actual extracted images, and includes full-page chapter divider images and chapter icons.",
+  "status": "in_progress",
+  "steps": [
+    "Step 1: Create an image extraction script (extract_images.py) that uses PyMuPDF (fitz) to extract all chess diagram images from the English PDF. For each chapter N (using the chapter_ranges_0indexed from context.json), scan pages in order and collect images matching chess diagram criteria: (380<=w<=470 and 380<=h<=470) OR (800<=w<=870 and 350<=h<=500). Save each image as extracted_images/diagrams/diagram_N_Y.png (where N is chapter, Y is sequential number within chapter). Also extract the 26 full-page chapter divider images (w>=900 and h>=900, pages [10,18,22,33,46,58,67,75,93,105,109,120,128,137,159,163,171,176,191,208,215,222,229,245,256,277] 1-indexed) and save as extracted_images/dividers/divider_chN.png. Also extract the 15 chapter icons (140<=w<=230 and 140<=h<=230) and save as extracted_images/icons/icon_pageN.png.",
+    "Step 2: Run the extraction script and verify all 256 chess diagram images are extracted (matching the 256 [Diagramma] placeholders exactly per chapter).",
+    "Step 3: Create a new PDF generation script (generate_pdf_with_images.py) based on the existing generate_pdf.py. The key changes are: (a) Instead of rendering [Diagramma X.Y] as a styled text box, insert the corresponding image file (extracted_images/diagrams/diagram_N_Y.png) centered on the page with appropriate width (e.g., 80mm for small diagrams, full page width for wide diagrams). (b) Before each chapter that has a full-page divider, add a full-page with the divider image (extracted_images/dividers/divider_chN.png) scaled to fill the A4 page. (c) Add chapter icons at the start of chapters that have them. Keep all existing text formatting (title page, TOC, chapter headers, section headers, body text, step headers). The font loading, header/footer, and TOC logic should remain unchanged.",
+    "Step 4: In the PDF generation, when a [Diagramma X.Y] placeholder is encountered in the text, calculate appropriate image dimensions: for images that were originally wide (800-870px width), render them at ~170mm width (nearly full page width minus margins). For square images (380-470px), render them at ~80mm width. Center them horizontally on the page. Add a small caption below showing 'Diagramma X.Y' in italic.",
+    "Step 5: Run the new generate_pdf_with_images.py script and verify: (a) The output PDF contains all 256 chess diagram images embedded, (b) Full-page chapter dividers appear before chapters, (c) The file size is significantly larger than the text-only version (should be >2MB), (d) The page count is reasonable (expect ~220-260 pages with images)."
+  ],
+  "acceptance_criteria": [
+    "All 256 chess diagram images are extracted from the English PDF to extracted_images/diagrams/",
+    "The new generate_pdf_with_images.py script runs without errors",
+    "The output PDF contains all 256 diagrams embedded at the correct text positions (replacing [Diagramma X.Y] placeholders)",
+    "Full-page chapter dividers are included in the output PDF",
+    "The output PDF file size is >2MB (indicating images are embedded)",
+    "The Uzbek text content is preserved correctly with proper formatting"
+  ],
+  "verification": [
+    "Run: python3 extract_images.py && ls extracted_images/diagrams/ | wc -l  (should show 256 files)",
+    "Run: python3 generate_pdf_with_images.py  (should complete without errors)",
+    "Run: python3 -c \"import fitz; doc=fitz.open(\\\"Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf\\\"); print(f'Pages: {len(doc)}'); total_imgs=sum(len(doc[p].get_images()) for p in range(len(doc))); print(f'Total images: {total_imgs}')\"  (should show >256 images)",
+    "Run: ls -la \"Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf\" | awk '{print $5}'  (should be >2000000 bytes)"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}

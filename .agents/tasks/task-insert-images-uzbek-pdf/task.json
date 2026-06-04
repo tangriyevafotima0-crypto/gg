@@ -1,0 +1,7 @@
+{
+  "task_id": "task-insert-images-uzbek-pdf",
+  "task_description": "Extract all diagrams, tables, and images from the English chess book PDF and insert them into the Uzbek translation PDF at corresponding positions, then commit and push to the repository.",
+  "status": "in_progress",
+  "feature_order": ["FEAT-001"],
+  "blocked_reason": null
+}
