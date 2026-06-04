@@ -27,7 +27,7 @@ CHAPTERS = [
     ("08_attack_and_defend.txt", "8-bob. Donalarni qanday hujum qilish va himoya qilish", 8),
     ("09_the_queen.txt", "9-bob. Farzin", 9),
     ("10_the_king.txt", "10-bob. Shoh", 10),
-    ("11_check.txt", "11-bob. Shoh", 11),
+    ("11_check.txt", "11-bob. Shah", 11),
     ("12_checkmate.txt", "12-bob. Mat", 12),
     ("13_the_knight.txt", "13-bob. Ot", 13),
     ("14_the_pawn.txt", "14-bob. Piyoda", 14),
@@ -243,12 +243,13 @@ class BookPDF(FPDF):
                 i += 1
                 continue
 
-            # Check for diagram references
-            match = DIAGRAM_PATTERN.match(line)
-            if match:
-                ch_num = match.group(1)
-                diag_num = match.group(2)
-                self._insert_diagram(ch_num, diag_num)
+            # Check for diagram references (use finditer to catch ALL on a line)
+            matches = list(DIAGRAM_PATTERN.finditer(line))
+            if matches:
+                for m in matches:
+                    ch_num = m.group(1)
+                    diag_num = m.group(2)
+                    self._insert_diagram(ch_num, diag_num)
                 i += 1
                 continue
 
@@ -332,8 +333,8 @@ class BookPDF(FPDF):
 
         if needed_space > available:
             self.add_page()
-
-        self.ln(4)
+        else:
+            self.ln(4)
 
         if os.path.exists(diagram_path):
             y_pos = self.get_y()
