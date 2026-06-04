@@ -1,0 +1,154 @@
+1a. Here's check again: It is important to make sure that your child understands what
+"check" means and can spot check on a chessboard.
+If you feel that a quick review would help, simply show them a few positions that are
+check and then ask them to show you a few.
+1 b. Moving out of check: Now review the step in Chapter 11, "Check;' which goes over
+how to move the king out of check.
+Let your child know that moving the king away is one way to handle check. There are
+two others.
+Step 2: You can take the attacker to get out of check
+Beginners often forget that they might be able to take the attacker when they are in
+check. A child's first instinct is often to move the king. For this reason, it is a good idea to
+spend some time on this section and show many examples.
+First start with positions where the king can
+simply take the piece which has it in check.
+Set up the following position:
+Diagram 24. 1
+
+Discuss this position with your child. Many beginners will assume that this is checkmate,
+because the king cannot move away.
+Help your child to see that the king can just take the queen, because it isn't protected
+by any other piece.
+Now set up this position:
+Children often just move away when their
+king is attacked. It is a natural response.
+The queen is very powerful when next to
+the king. It can seem impossible that the
+king could just take it.
+It's important to show many examples.
+Then, when it comes up in a game, your
+child will ask, "Is that queen actually pro­
+tected? No? I can take it!"
+-Laura and Bill
+Diagram 24.2
+Point out that the white queen is checking
+the black king, but that nothing is protect­
+ing the queen. The black king can just take
+it.
+Set up more examples showing how the
+king can get out of check by taking the at­
+tacker.
+Also show positions where another piece
+can take the attacker. Here are a couple of
+examples:
+Here the rook can just take the queen.
+Diagram 24.3
+
+In this position the knight can take the
+bishop.
+Diagram 24.4
+Step 3: Mini-game: Can you take the attacker?
+Set up various positions where your child can take the attacker.
+Here are a few examples:
+Diagram 24.5 Diagram 24.6
+In this position, Black's rook is checking Here Black's king is in check by White's
+White's king. Ask, "Can White take the at­ powerful queen. Ask your child if the
+tacker?" black king can take the queen.
+
+Diagram 24.7 Diagram 24.8
+The black bishop is checking the white The black knight has put the white king in
+king. What can White do about it? check. Can White take the attacker?
+Here the white rook is attacking the black
+king. Can Black take the attacker?
+Diagram 24.9
+
+Step 4: Here's how you can block to get out of check
+Explain to your child that you can block an attack on the king to get the king out of
+check.
+Set up this example:
+Ask your child to show you how the black
+king is in check. Go over with your child
+that the king can't move out of check.
+Diagram 24. 10
+Show them that the only way to get the
+king out of check in diagram 24.10 is to
+block the attack with the rook, by putting it
+between the king and the attacker:
+Diagram 24. 11
+
+Set up more positions like this. Here's an example:
+Here the black queen is checking the white
+king. Can White block to get out of check?
+Diagram 24. 12
+Step 5: Mini-game: You block to get out of check
+Now set up more positions and have your child find the correct blocking move to get
+out of check.
+Here are two examples:
+Diagram 24.13 Diagram 24. 14
+
+Step 6: Mini-game: Show me the three ways a king can get out of check
+Have your child set up positions that show you the three ways a king can get out of
+check.
+Make sure they show you all three ways:
+Moving the king out of check
+•
+Taking the attacker
+•
+Blocking the check
+•
+Step 7: Mini-game: How should you get the king out of check?
+Now quiz your child on different positions, showing different ways to get out of check.
+Here are some sample positions:
+Diagram 24. 15 Diagram 24. 76
+Here the white king must move to get Here Black must block to get out of check.
+out of check.
+
+Here White must take the queen to get out
+of check.
+Diagram 24. 7 7
+Once they have this down, show examples where the king has choices. Here are three
+positions:
+Diagram 24. 7 8 Diagram 24. 7 9
+Here Black can either move the king or Here the king can take the rook, or move
+block with the bishop. away.
+
+Here White can block with the rook or the
+king can move.
+Diagram 24.20
+You can also come up with positions where
+all options are available. Here's an example:
+Here Black can block the check with the
+rook, take the rook with the bishop, or
+move away.
+Diagram 24.21
+??
+. . , ,,
+• • •
+Problem:
+My child tends to only move the king to get out of check when there are better options.
+
+Solution:
+Set up a lot of examples where they can block or take. Discuss with them the advantag­
+es of both. Sometimes moving the king out of check is the best solution. You just want
+them to know that there are options.
+Problem:
+My child has trouble finding how the king is in check.
+Solution:
+Review Chapter 11, "Check:' It is important that they can see this easily for these mini­
+games.
+Problem:
+My child has trouble seeing attacks on the long diagonal.
+Solution:
+This is a common issue for beginners. If you spot this problem, give them many exam­
+ples where a piece is attacking on a long diagonal. Show them positions where pieces
+are attacked by a bishop or queen, and positions where the king is in check along the
+diagonal.
+Problem:
+My child didn't see that a pawn could take an attacker.
+Solution:
+Show them many examples where a pawn takes the attacker to get out of check.
+Problem:
+My child continually moves the king into check.
+Solution:
+Review Chapter 11, "Check:' Make sure that your child understands when the king is in
+check and when it isn't. Spend some time on the various mini-games in that chapter.

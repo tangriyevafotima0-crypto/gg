@@ -1,0 +1,19 @@
+{
+  "project_type": "Book translation project - PDF text extraction, translation to Uzbek, PDF generation",
+  "language": "Python",
+  "build_system": "pip (direct installs: pdfplumber, fpdf2, PyPDF2)",
+  "test_framework": "Manual verification - checking translation quality and PDF output",
+  "build_command": "python3 generate_pdf.py",
+  "test_command": "python3 -c \"import pdfplumber; pdf=pdfplumber.open('output.pdf'); print(len(pdf.pages))\"",
+  "verification_instructions": "1. Run the PDF generation script. 2. Open the output PDF and verify it contains all chapters translated. 3. Verify Uzbek text renders correctly with proper Unicode support.",
+  "snapshot_or_generated_files": "The final translated PDF: 'Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf'",
+  "setup_instructions": "pip install pdfplumber fpdf2 PyPDF2",
+  "environment_constraints": "OPEN_INTERNET network mode - full access available. Python 3.11 available. Libraries already installed: pdfplumber, fpdf2, PyPDF2.",
+  "contribution_requirements": "Complete translation of all 26 chapters + preface + afterword. Multi-stage quality review required.",
+  "key_patterns": "The source PDF has 288 pages, 261 with extractable text. 26 chapters covering chess teaching techniques for children. Contains diagrams (referenced as 'Diagram X.Y') which will be noted as placeholders in the translation.",
+  "relevant_files": [
+    "/projects/sandbox/gg/Chess Is Childs Play Teaching Techniques That Work (Laura Sherman, Bill Kilpatrick) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "/projects/sandbox/gg/extracted_text.txt"
+  ],
+  "directory_structure": "/projects/sandbox/gg/ - root directory with source PDF and extracted text file"
+}

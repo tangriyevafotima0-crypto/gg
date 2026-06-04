@@ -1,0 +1,142 @@
+Explain to your child that in chess there are times when neither side can win. It isn't
+important to go over many examples of this. Basically, if you can't checkmate the other
+player, you can't win.
+In other games, this might be called a tie, but in chess we call this a "draw:'
+Here is an example that is clearly a draw:
+Diagram 26. 1
+Show your child that, since a king cannot attack another king (without putting itself in
+danger), there is no way for either side to checkmate the other.
+Go over how this would be a draw. No one wins, no one loses.
+A draw can also be agreed upon by two players. One player offers a draw and the other
+accepts it.
+Step 2: This is stalemate
+
+Explain to your child that when one side cannot make a legal move and that side's king
+is not in check, it's a draw. This special kind of draw is called "stalemate:'
+This can be a confusing concept, so make sure to provide lots of examples of stalemate
+(as well as examples of positions that are not).
+Here is a good place to start:
+Diagram 26.2
+Beginners will often hit this position in a game. If it's White's turn, White cannot make a
+legal move. Explain to your child that this is stalemate because there are no legal moves
+yet White is not in check.
+However, if it is Black's move, it isn't stale­
+mate. Black can move.
+Once they see that, show them this position:
+Diagram 26.3
+
+Explain that this is not stalemate because White does have a legal move (White can
+move the pawn).lt is important that your child understands that stalemate isn't just that
+the king cannot move, but that one side cannot make any legal move.
+Here are more examples of stalemate:
+Diagram 26.4 Diagram 26.5
+Here it is Black's turn. Go over all the pos­ This is not checkmate because the white
+sible squares where the king could go, king is not in check. This is stalemate be­
+and make sure your child sees why the cause the white king is not in check yet
+king can't go to any of them. White has no legal moves.
+Diagram 26.5 is similar to the other positions you went over with your child in the chap­
+ter called,"Checkmate:'lt's good to point out stalemates where the king is in the corner,
+because there are fewer squares where it can go.
+Discuss the positions with your child. Ask them who was ahead. Who has more pieces
+and who would have won had it not been stalemate? In these positions, the side that
+stalemated the other player should have won.
+Stalemate can happen a lot when someone tries to get too many queens. Beginners
+love to load up the board with queens. It can be hard not to stalemate the other player
+when you have so much firepower, when the other side has little or none!
+
+Step 3: Mini-game: Is this stalemate?
+Now show your child positions and ask,"ls this stalemate?" Make sure to include a lot of
+examples that aren't stalemate, such as positions where:
+The king is in check and can move.
+•
+One side is in checkmate.
+•
+One side cannot move their king, but they can make another legal move.
+•
+The positions shouldn't involve many pieces and should just show the basic themes. The
+important thing is that your child learns to spot when there is a stalemate.
+When your child can spot this very quickly, without errors, you know they have this con­
+cept down.
+Even so, this is a mini-game to revisit again and again.
+Step 4: Mini-game: Is this check, checkmate, or stalemate?
+Show your child various positions, similar to the ones in the mini-game from Step 3, and
+have them tell you which are check, checkmate, and stalemate.
+Here are some examples:
+Diagram 26.6 Diagram 26.7
+This is checkmate. This is stalemate.
+
+Diagram 26.8
+This is check.
+When your child does the Checkmate Checklist, they will notice that the king can move
+out of check. As a side note, you could point out that when the white king moves to the
+one square where it can go, Black can checkmate on the next move. See if they can spot
+that mate.
+Diagram 26.9 Diagram 26.10
+This is checkmate. This is stalemate.
+
+Diagram 26.11 Diagram 26. 12
+This is check. White can move out of check, This is checkmate.
+so it is not checkmate.
+You'll want to come up with many examples like this. It is okay if the themes are repeat­
+ed over and over. The common ones will come up in many of their games.
+If your child wants to come up with examples of their own and quiz you, encourage this.
+It would help them tremendously to compose these positions and figure out with you if
+they are check, checkmate, or stalemate.
+In the end, your child needs to learn how to identify check, checkmate, and stalemate
+quickly, so work on increasing the speed of this mini-game.
+This is another mini-game that you can review over and over with benefit.
+??
+. ' Ill
+• • •
+Problem:
+My child doesn't understand what stalemate is.
+
+Solution:
+Review the first step of the Checkmate Checklist. Discuss it with them. Make sure they
+understand that check is an important part of checkmate.
+Next, show them an example where one side cannot move. Have them pretend that
+they are playing Black here and that it is their turn:
+Diagram 26. 13
+Now ask your child, "Are you in check?" Make sure they see that it isn't check. If they feel
+it is, do a rapid review of Chapter 1 1, "Check:' Once they see that this isn't check, con­
+tinue.
+Now point to each square around the black king and ask, "Can the black king move
+here?" Make sure they understand that the king has no legal move. If they have trouble
+spotting whether the king is in check, review "Step 3: Is this check?" from Chapter 1 1,
+"Check;' to be sure they can quickly identify when the king is in check.
+You might also review "Step 6: Can the king go here?" in Chapter 1 1, "Check:'
+Once they understand that the king isn't in check and that it can't move, simply tell
+them that this is stalemate and is a draw.
+Set up this position in another corner and ask, "Is this stalemate?" Have them explain to
+you why it is stalemate.
+
+Problem:
+My child confuses checkmate with stalemate.
+Solution:
+This is a common confusion with beginning chess players.
+The key difference is that when a king is in checkmate, it must be in check. And if the
+king is in check, it cannot be stalemate.
+Show your child many examples of both checkmate and stalemate. It helps to create
+positions that are very similar, and show why one position is checkmate and why one is
+stalemate.
+For instance, this is stalemate:
+Diagram 26. 14
+Make sure that your child sees that the king is not in check here, but cannot move (and
+Black doesn't have any other pieces to move).
+
+Now show them this position:
+Diagram 26. 7 5
+Tell them that this one is checkmate and the other is stalemate. Ask them to tell you the
+difference between the two positions. Why is the second one checkmate?
+Show them more positions like this. When you feel that they have this down, have your
+child show you examples of checkmate and stalemate, explaining to you the difference
+between the two.
+Problem:
+My child has trouble telling check and checkmate apart.
+Solution:
+Review Chapter 25, "More About Checkmate;' focusing on the mini-games there. Give
+your child many examples of positions that are just check and positions that are check­
+mate. Go over why one is checkmate and the other is not.
+This takes a lot of practice, and these mini-games should be revisited again and again.
+As your child gains experience, they will see new nuances in these positions and mini­
+games, and will learn more from them.

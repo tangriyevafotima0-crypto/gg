@@ -1,0 +1,26 @@
+{
+  "id": "FEAT-003",
+  "type": "feat",
+  "description": "Perform multi-stage quality review of the translation. Three passes: (1) Accuracy - verify meaning is preserved correctly from English to Uzbek, (2) Fluency - ensure natural Uzbek language flow, (3) Consistency - verify terminology is consistent throughout the entire book. Fix any issues found during each pass.",
+  "status": "pending",
+  "steps": [
+    "Create a review script at /projects/sandbox/gg/review_translation.py that performs automated checks",
+    "Pass 1 - Accuracy: Compare each Uzbek chapter against its English source. Verify key concepts, instructions, and examples are accurately conveyed. Fix any mistranslations or omissions.",
+    "Pass 2 - Fluency: Read through the Uzbek text checking for awkward phrasing, unnatural sentence structures, or word-for-word translations that don't sound natural in Uzbek. Improve where needed.",
+    "Pass 3 - Consistency: Check that chess terminology is used consistently throughout (Shoh, Farzin, Tura, Fil, Ot, Piyoda, etc.). Verify section headers are translated consistently. Fix any inconsistencies.",
+    "Document all changes made during review in a review_notes.txt file",
+    "Save the final reviewed translations back to chapters_uz/ (overwriting previous versions)"
+  ],
+  "acceptance_criteria": [
+    "All three review passes completed",
+    "Terminology is consistent across all chapters",
+    "Translation reads naturally without awkward constructions",
+    "No meaning is lost or distorted from the original"
+  ],
+  "verification": [
+    "Run the review script and confirm no critical issues remain",
+    "Spot-check at least 3 chapters for natural Uzbek flow"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}

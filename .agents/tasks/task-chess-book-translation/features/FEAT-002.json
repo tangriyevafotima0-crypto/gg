@@ -1,0 +1,30 @@
+{
+  "id": "FEAT-002",
+  "type": "feat",
+  "description": "Translate the entire book from English to Uzbek language, chapter by chapter. Create translated text files for each chapter. The translation must be complete, accurate, and natural-sounding in Uzbek. Chess terminology should be translated consistently throughout (e.g., rook=tura, bishop=fil, knight=ot, queen=farzin/vazir, king=shoh, pawn=piyoda, check=shox, checkmate=shox va mot, stalemate=pat, castling=qal'a). Maintain the book's instructional tone appropriate for parents teaching children.",
+  "status": "pending",
+  "steps": [
+    "Create directory /projects/sandbox/gg/chapters_uz/ for Uzbek translations",
+    "Translate each chapter file from chapters_en/ to Uzbek, saving to chapters_uz/ with same naming convention",
+    "Translation order: preface, bios, then chapters 1-26, then afterword",
+    "For each chapter, translate ALL content including: main text, Coffee Talk anecdotes, Coach's Corner tips, troubleshooting sections, step descriptions, mini-game instructions",
+    "Maintain consistent chess terminology throughout: King=Shoh, Queen=Farzin, Rook=Tura, Bishop=Fil, Knight=Ot, Pawn=Piyoda, Check=Shoh (yoki Shah), Checkmate=Shoh va mot (yoki Mat), Stalemate=Pat, Castling=Qal'a qilish, Chessboard=Shaxmat taxtasi",
+    "Keep diagram references as-is (e.g., 'Diagramma 5.1') since they reference images in the original book",
+    "Translate section headers like 'Coffee Talk' to 'Qahva suhbati', 'Coach's Corner' to 'Murabbiy maslahati', 'Troubleshooting' to 'Muammolarni hal qilish'",
+    "The translation should feel natural in Uzbek - not a word-for-word translation but conveying the same meaning in natural Uzbek prose",
+    "This is the most critical and time-consuming feature - each chapter must be fully translated without skipping any content"
+  ],
+  "acceptance_criteria": [
+    "All chapter files exist in chapters_uz/ directory with complete translations",
+    "No English text remains in the Uzbek files (except proper nouns, diagram references)",
+    "Chess terminology is consistent across all chapters",
+    "Translation reads naturally in Uzbek language"
+  ],
+  "verification": [
+    "Verify all expected files exist in chapters_uz/",
+    "Verify each file has substantial content (not empty or placeholder)",
+    "Verify no large blocks of English remain in the Uzbek files"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}

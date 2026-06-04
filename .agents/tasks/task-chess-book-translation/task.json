@@ -1,0 +1,7 @@
+{
+  "task_id": "task-chess-book-translation",
+  "task_description": "Translate the English book 'Chess Is Child's Play' by Laura Sherman and Bill Kilpatrick into Uzbek language. Extract text from PDF, translate all 26 chapters completely, perform multi-stage quality review, and generate a final translated PDF.",
+  "status": "in_progress",
+  "feature_order": ["FEAT-001", "FEAT-002", "FEAT-003", "FEAT-004"],
+  "blocked_reason": null
+}

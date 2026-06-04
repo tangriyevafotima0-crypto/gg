@@ -1,0 +1,407 @@
+--�he pawn's movements are surprisingly complicated, because there are
+so many parts to explain.
+Many people make the mistake of starting with the pawn when teaching, because it is
+the weakest piece on the board.
+This sets up the first lesson for failure, as it can be too much for a beginner.
+Looking back over all the pieces, you'll probably better understand why it is best to
+teach the pieces in this order. The rook is a great place to start, because the movements
+are straight. It's pretty easy to grasp immediately.
+The bishop introduces the concept of diagonal movement, which might take some prac­
+tice. The nice thing about the bishop is that it just has one type of movement (diagonal).
+Then the queen uses both straight and diagonal movements, which your child now un­
+derstands, so it is a logical piece to teach next.
+The king is easier to explain, but there are nuances that are complex (check, checkmate,
+and the fact that a king can't move next to the other king). So it's best to go over the
+king after learning about the queen, rather than before.
+The knight has a complex movement, so it comes next. It is still easier than the pawn,
+because it only has one set of rules about how it moves.
+So now that your child has mastered the rook, the bishop, the queen, the king, and the
+knight, it is time to teach them about the pawn.
+Step 1: Here's how you move the pawn at the start of the game
+The diagrams are set up so that White is at the bottom of the board and Black is at the
+top.
+Explain to your child that the white pawns start on the second row and the black pawns
+start on the seventh row. From the pawn's starting place, it can move either one or two
+
+squares forward, like so:
+Diagram 14.1 Diagram 14.2
+Make sure they understand that this choice is only available for each pawn's first move.
+Each pawn has this option for its first move.
+Step 1 a: You move the pawn to start: Put a white pawn on the second row and have
+your child make the first move. They are simply moving the pawn one or two squares
+forward.
+After they make this move, move the pawn to a different spot on the second row and
+have them make its first move again.
+Next place a black pawn on the seventh row and have them make a starting move for
+Black (again moving it forward one or two squares).
+Step 2: This is how the pawn moves after the first move
+Show your child that after the first move the pawn can only move one square forward
+as its basic movement.
+It can never move sideways or backwards. A pawn only ever moves forwards.
+Have them practice this, by moving the pawn down the board, one square at a time,
+until they only have one square left. Have them stop at this point.
+
+Step 3: Something cool happens now
+Tell your child that when the pawn reaches the other side, something really cool hap­
+pens. You can make a big deal about this.
+This is one of the most popular moves in chess with kids. The little pawn is replaced by
+another piece!
+3a. Defining "Promotion": Tell your child that the word "promotion;' in chess, means that
+when a pawn reaches the last row it can turn into a queen, rook, bishop, or knight. (It
+cannot turn into a king or stay a pawn.)
+You may never have two kings of the same color on a chessboard.
+You may, however, have two queens (or more) of one color.
+Some sets come with an extra queen for both sides. That is because if a player gets to
+the last row and promotes a pawn, they will usually choose to promote it to a queen. If
+they already have a queen in play, they will need another.
+There is a common misconception that you may only promote a pawn into a piece that
+was taken off the board. This isn't true. The rule is that you may promote a pawn into any
+piece, except for the king.
+3b: I promote the pawn: March the pawn down the board, and when it reaches the last
+row turn it into a queen. This is done by taking the pawn off the board and replacing it
+with the other piece.
+Then send another pawn down the board and turn it into a rook. Turn another one into
+a bishop and another into a knight.
+Coffee Talk
+That's not a pawn
+One two-year-old girl was learning about the pieces. She would identify
+the bishop, knight, queen, king, and rook as "not a pawn:'
+She was making a point about how much she really liked the pawns!
+
+Step 4: You move the pawn
+Have your child start with a pawn on the second row. Have them move the pawn down
+the board. Make sure they take their hand off the pawn with each move. When they hit
+the last square, ask them to promote their pawn into any piece they like.
+Most of the time your child would want another queen, but there are times when a dif­
+ferent piece might be better.
+Have them play with this as much as they like.
+Step 5: The pawn takes differently than it moves
+Show your child that when a pawn takes, it takes on a diagonal. It attacks and takes one
+square forward, diagonally. It never takes backwards. And it never takes pieces directly
+in front of it.
+This is a bit tricky, because it is the only piece that moves differently than it takes. This is
+why the pawn is sometimes difficult for a child to master.
+Here are two examples of how the pawn takes:
+The white pawn can take the black bishop.
+Diagram 74.3 Diagram 74.4
+
+In diagram 14.5 the black pawn can take the white rook, because it moves in the oppo­
+site direction from the white pawns.
+Diagram 14.5 Diagram 14.6
+Show your child many examples of how a pawn can take other pieces (knights, rooks,
+bishops, queens, or other pawns).
+After a few examples, have your child take a piece with the pawn, giving them practice.
+Step 6: Pawns get stopped
+Because a pawn takes differently than
+it moves, an odd situation comes up.
+Set up this position (one black pawn
+and one white pawn):
+Diagram 14.7
+
+Explain to your child that when the pawns are facing each other like this, the white
+pawn cannot move. It can't move forward, because the black pawn is in its way. It also
+cannot take the black pawn, because it doesn't take that way. It is stopped.
+Point out that the black pawn is also stopped for the same reason.
+Coffee Talk
+Sumo wrestlers
+One parent described blocked pawns as being like sumo wrestlers. They sit
+facing each other, unable to pass the other.
+Her five-year-old daughter thought the image of two hulking men, sitting
+in the middle of the chessboard, was hilarious!
+It's important to spend some time on this concept. Most beginners will find this strange
+and will want to take the pawn ahead of them.
+Pieces can block a pawn as well, if they
+are in front of a pawn. Show this ex­
+ample:
+Diagram 14.8
+
+Now set up the following position (two black pawns and one white pawn):
+Diagram 14.9
+Show your child that the white pawn can now move, because it can take the black pawn
+one square diagonally. This is the only move that pawn can make.
+Have your child take the black pawn.
+Now you will have this position:
+Point out to your child that the white
+pawn can now move forward.
+The black pawn can move too, since
+the white pawn is no longer block­
+ing it.
+Diagram 14. 10
+
+Set up more positions like this, giving them lots of examples of how the pawn can be
+stopped from moving forward, but can take.
+Make sure to use pieces as well as pawns in your examples. Diagrams 14.11 and 14.13
+are two examples:
+Diagram 14.11 Diagram 74.72
+Here it is White's turn to move. Ask your child if the white pawn can do anything.
+Diagram 14. 13 Diagram 14.14
+Here it is Black's turn. Ask your child what the black pawn can do here.
+
+Step 7: Mini-game: Can the pawn take this piece?
+Now quiz your child on when a pawn can take and when it cannot.
+Start by setting up simple positions
+where a pawn can take a piece of the
+opposite color. Ask your child, "Can
+the pawn take this piece?"
+Then add in a few that are clearly not
+correct. Start with obvious incorrect
+setups, like this:
+Diagram 7 4. 15
+Also set up positions where a piece
+is directly in front of the pawn.
+As they get the answers correct, you
+can make the positions more com­
+plex by adding in additional pieces.
+For instance, you can set up this po­
+sition:
+Here the black pawn can take either
+White's pawn or bishop (but not the
+pawn directly in front of it).
+If your child hesitates, point to each
+piece and ask, "Can the black pawn
+take this piece?" Diagram 14.16
+
+Keep quizzing your child, increasing the speed as they answer the questions correctly
+(or slowing down if they start making mistakes), until they really understand how the
+pawn takes.
+Step 8: Mini-game: Can the pawn move like this?
+Now you want to quiz them on correct and incorrect pawn moves, putting together
+moving forward and taking diagonally. Start by asking a few obvious moves that are
+correct, like moving the pawn one square forward on an empty board, asking, "Can the
+pawn move like this?"
+Have a pawn take a piece one square diagonally and ask, "Can the pawn move like this?"
+Then throw in an incorrect move (like moving the pawn backward one square) and ask,
+"Can the pawn move like this?"
+Make a few correct moves and then move the pawn incorrectly (perhaps sideways) and
+ask the same question.
+Balance the correct moves and incorrect moves. Make sure to include these incorrect
+moves:
+Moving the pawn backwards.
+•
+Moving the pawn forward more than one square (except from its starting
+•
+square).
+Moving the pawn sideways.
+•
+Taking a pawn directly in front of it.
+•
+Taking a piece two squares away.
+•
+Moving one square diagonally, when there is nothing there to take.
+•
+These are common errors that beginners will make when they are learning about the
+pawn. As they get the answers correct, speed up the game. When they can answer the
+questions quickly, you can move on to the next mini-game.
+Step 9: Mini-game: What are all the ways the pawn can move?
+In this quiz, you want to set up different positions and quiz your child on all the ways
+that the pawn can move.
+
+For instance, you can set up this position:
+Ask your child to tell you all the ways
+the white pawn can move. They are
+likely to see that they can take the
+knight, but might miss that they can
+also move the pawn straight ahead.
+Diagram 14.17
+Set up lots of positions like this and quiz your child. Make sure some positions are ones
+where the pawn is blocked from moving forward. Here is an example:
+Here the white pawn cannot move
+forward, as it is blocked by the rook.
+However, make sure your child sees
+that the pawn is able to take the
+knight.
+Diagram 14.18
+
+Here is another position you can quiz them on:
+When you give this position, remind
+your child that the pawn is standing
+on its starting square.
+There is no value in trying to "trick"
+your child, but it is important to make
+sure they remember that they can
+move the pawn one or two squares
+at the start.
+As they begin to get more and more
+answers correct, speed up the game,
+until they really have this down.
+Diagram 14.19
+Step 1 0: Mini-game: Pawns vs. pawns
+The following three mini-games have been popular teaching tools for decades among
+chess coaches. We didn't create these
+mini-games, but wanted to share
+them with you, as they are fun and
+instructional.
+Put the pawns out on the board on
+their starting squares like so:
+Diagram 14.20
+
+The idea is to practice moving the pawns forward, as well as taking the other player's
+pawns on the diagonal.
+When you do this exercise, make sure to capture some of your child's pawns and help
+them to take yours. Keep it as even as you can. You can give your child hints along the
+way.
+Allow at least one of their pawns to get to the end of the board, so that they can practice
+promoting it into a piece. Continue the game, using the new piece as well as the pawns.
+You can stop playing at any time, restarting the game, if it becomes unbalanced.
+There is no set place to end this game. If you wind up way ahead, feel free to start over.
+The only real purpose is to practice all the aspects of the pawn.
+Step 11: Mini-game: Five pawns vs. a rook
+Set up this position:
+This exercise shows the power of the
+rook, and the type of value it has in chess
+games.
+-Laura
+These pawns are easy to stop if you attack
+them from the side. But if you just try to
+attack a group of pawns head-on with a
+rook, there can be problems. It's a good
+lesson to learn about the rook.
+-Bill
+Diagram 14.21
+The side with the rook goes first. Your child should play this mini-game from both sides.
+
+Step 12: Mini-game: Nine pawns vs. a queen
+Set up the position below:
+What makes this a good game is that one
+side gets so many pawns.
+I sometimes liken these pawns to ants.
+One ant usually isn't so scary, but an army
+can be!
+Here the queen should win, but it isn't
+easy. The queen takes as many pawns as
+it can, while not allowing the other pawns
+to get too far down the board.
+-Bill
+Diagram 14.22
+Note: Since your set only has 8 pawns, you will need to "borrow" a white one for this ex­
+ercise to make a ninth black pawn.
+Ask your child if they would rather have 9 pawns or a queen. Allow them to take the side
+they prefer.
+The queen gets to go first.
+If the side with the pawns is able to promote a pawn into a queen and hold onto it for at
+least a turn (that is, not immediately lose it), that side wins. Otherwise, if the queen can
+take all the pawns, that side wins.
+This is a powerful little exercise. There is quite a bit of strategy that your child can learn
+here.
+Make sure to switch sides and allow your child to play the side with the queen as well as
+the side with the pawns.
+
+Step 13: Optional: An odd little rule
+This is another rule about pawns that comes up, but not too often. It is included here so
+you have all the rules regarding the pawn's movement.
+Unless your child will be playing with strong players in a chess club, you shouldn't go
+over this step with them.
+Basic explanation
+"En passant"is French for "in passing:' It is a rule that is often misunderstood (and is very
+confusing for beginners).
+What kids say
+En passant is a tricky concept for children. Our students will often ask to
+go over"that weird French thing" with them a few times.
+It's a concept that takes a while for most children to get.
+Here's how it works. Say you have
+this position:
+Note: White has a pawn on their fifth
+row. Black has a pawn one file (col­
+umn) over on their starting row.
+Diagram 14.23
+
+If Black were to move their pawn up two squares, like so:
+Diagram 14.24
+White could actually take it! It would look like this:
+Here White took Black's pawn en
+passant.
+Diagram 14.25
+
+You only have one chance
+In the above example, White can only take the black pawn right after Black moved it two
+squares forward. That's White's only chance.
+In a game situation, if White makes a different move, the option to take this particular
+pawn en passant would be lost.
+The logic
+It's a bizarre-looking move, but when you think about it, it's quite logical.
+The first thing to remember is that a pawn always takes one square forward, on the di­
+agonal. That rule still applies to this situation.
+Also, you can consider that the black pawn was taken "in passing:' It started on its sec­
+ond row and landed on the fourth, but was taken as it was passing through the third
+row.
+Why this rule exists
+The rules of chess have evolved over time. There was a time when pawns could only
+move one square at a time.
+When the rule changed to allow a
+player to choose between moving
+the pawn one or two squares on the
+first move, there was one problem.
+In this setup, the fifth-row pawn
+would never get a chance to take the
+second-row one.
+Diagram 14.26
+
+To avoid this situation, en passant was developed, giving the player one chance (and
+only one chance) to take the pawn.
+?? � : 1Tr ' o " u blesh'je$o Q' t ! m ,,g " 'r.1 psl' • ' �¥- � · · • ' ,- 1 �
+, ·. � \
+. . , ,, ' . .
+• • •
+Problem:
+My child continues to try to take pieces in front of the pawn.
+Solution:
+This is a common error and one that is solved by practice. Remind your child that a pawn
+takes differently than it moves. Then show them many examples of how it can take and
+how it moves. Make sure to show them how a pawn gets stopped, too.
+Set up positions like this:
+Diagram 14.27
+Quiz your child on what the pawn can do in diagram 14.27.
+
+Here's another:
+Diagram 14.28
+Ask your child what choices the white pawn has.
+Give them lots of positions like this and make sure they see that they can't take the
+pawn directly in front of them.
+Problem:
+My child moves the pawn backwards and sideways.
+Solution:
+Remind your child that a pawn can never go backwards or sideways, that it only moves
+forwards.
+If you feel this might be a point they will forget, make a little mini-game of asking them
+things like,"Can a pawn move sideways? How about forwards one square? How about
+backwards?"
+Then you can have them "quiz" you, using the same questions.
+Next, show your child how a pawn moves and then give them examples of how the
+pawn cannot move. Give them lots of examples of correct moves and incorrect moves.
+
+Now go back to the Step 8 mini-game, "Can the pawn move like this?"Then quiz them
+more on this section.
+Problem:
+My child wants to move the pawn more than one square at a time.
+Solution:
+Remind them that they can only move the pawn two squares on the pawn's first move.
+It only has that choice once.
+Have your child move the pawn down the board, one square at a time. Make sure they
+are using proper form each time (taking their hand off the pawn with each move).
+Next, quiz them on correct and incorrect pawn moves with this one concept in mind.
+Move the pawn one square forward, asking, "Can the pawn move like this?"Then move
+the pawn three squares, and ask again.
+Problem:
+My child has trouble seeing all the different ways a pawn can move.
+Solution:
+Start with simple positions where the pawn only has one choice. Give many examples
+of these, working with your child to find the move, until they can confidently do it on
+their own.
+Then set up positions where the pawn has two choices. Work with your child again to
+help them solve the puzzle until they can do it on their own.
+If you see that they have trouble spotting a particular move pattern, work on that with
+examples, showing that movement.
+Then you can start showing them puzzles with more possibilities.
+Problem:
+My child is frustrated with the "Nine pawns vs. the queen" mini-game.
+Solution:
+Although this is a mini-game, it is also an exercise. It is important that your child experi­
+ence winning this mini-game. Work with your child, allowing them to take back moves,
+so that they can win.
+
+Give them pointers. Help them to understand that the pawns are more valuable when
+they are protecting one another. Show your child that if they send a pawn all the way
+down the board by itself, it won't survive.
+When they play the side with the queen, help them realize that they need to pay atten­
+tion to the pawns, making sure they don't get too far. However, in order to win this, they
+need to take a pawn with almost every turn.
