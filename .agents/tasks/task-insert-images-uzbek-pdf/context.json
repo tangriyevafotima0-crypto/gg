@@ -1,0 +1,46 @@
+{
+  "project_type": "Book translation project - PDF generation with embedded images from source PDF",
+  "language": "Python",
+  "build_system": "pip (PyMuPDF/fitz for image extraction, fpdf2 for PDF generation)",
+  "test_framework": "Manual verification - checking generated PDF has correct images at correct positions",
+  "build_command": "python3 generate_pdf_with_images.py",
+  "test_command": "python3 -c \"import fitz; doc=fitz.open(\\\"Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf\\\"); print(f'Pages: {len(doc)}'); imgs=[i for p in range(len(doc)) for i in doc[p].get_images()]; print(f'Images: {len(imgs)}')\"",
+  "verification_instructions": "1. Run the PDF generation script. 2. Verify the output PDF has ~256 chess diagram images embedded. 3. Verify full-page chapter dividers appear. 4. Check file size is significantly larger than the text-only version (should be >5MB with images).",
+  "snapshot_or_generated_files": "The final PDF: 'Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf' and extracted images in 'extracted_images/' directory",
+  "setup_instructions": "pip install PyMuPDF fpdf2",
+  "environment_constraints": "OPEN_INTERNET network mode. Python 3.11. PyMuPDF (fitz) and fpdf2 already installed.",
+  "contribution_requirements": "All 256 chess diagrams from the English PDF must be extracted and placed at corresponding [Diagramma X.Y] positions in the Uzbek PDF. Full-page chapter dividers should also be included.",
+  "key_patterns": "The English PDF (288 pages) contains: 256 chess diagram images (small ~392-458px square and wide ~826x478px), 26 full-page chapter divider diagrams (~978x1280px), 15 chapter opener icons (~188x196px), 56 decorative/notation blocks (~862x118px). The Uzbek text in chapters_uz/ has exactly 256 [Diagramma X.Y] placeholders matching the chess diagrams. Chapter page ranges in the English PDF are defined by full-page divider positions. The existing generate_pdf.py uses fpdf2 with DejaVu fonts and treats diagram placeholders as styled text boxes.",
+  "relevant_files": [
+    "/projects/sandbox/gg/Chess Is Childs Play Teaching Techniques That Work (Laura Sherman, Bill Kilpatrick) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "/projects/sandbox/gg/generate_pdf.py",
+    "/projects/sandbox/gg/chapters_uz/",
+    "/projects/sandbox/gg/fonts/DejaVuSans.ttf",
+    "/projects/sandbox/gg/fonts/DejaVuSans-Bold.ttf",
+    "/projects/sandbox/gg/fonts/DejaVuSans-Oblique.ttf"
+  ],
+  "directory_structure": "/projects/sandbox/gg/ - root with English PDF, Uzbek PDF, generate_pdf.py, chapters_uz/ (translated text), chapters_en/ (English text), fonts/ (DejaVu TTF files). Branch: feat/uzbek-translation",
+  "english_pdf_structure": {
+    "total_pages": 288,
+    "chapter_divider_pages_1indexed": [10, 18, 22, 33, 46, 58, 67, 75, 93, 105, 109, 120, 128, 137, 159, 163, 171, 176, 191, 208, 215, 222, 229, 245, 256, 277],
+    "chapter_ranges_0indexed": {
+      "1": [10, 17], "2": [18, 21], "3": [22, 32], "4": [33, 45],
+      "5": [46, 57], "6": [58, 66], "7": [67, 74], "8": [75, 92],
+      "9": [93, 104], "10": [105, 108], "11": [109, 119], "12": [120, 127],
+      "13": [128, 136], "14": [137, 158], "15": [159, 162], "16": [163, 170],
+      "17": [171, 175], "18": [176, 190], "19": [191, 207], "20": [208, 214],
+      "21": [215, 221], "22": [222, 228], "23": [229, 244], "24": [245, 255],
+      "25": [256, 276], "26": [277, 287]
+    },
+    "image_categories": {
+      "chess_diagrams_small": "380-470 x 380-470 px (210 images)",
+      "chess_diagrams_wide": "800-870 x 350-500 px (46 images)",
+      "full_page_dividers": "900+ x 900+ px (28 images, incl cover/back)",
+      "notation_blocks": "800-870 x 100-220 px (56 images)",
+      "chapter_icons": "140-230 x 140-230 px (15 images)",
+      "page_backgrounds": "587x744 px (284 full-page textured backgrounds)",
+      "thin_separators": "826x8, 826x10 etc (horizontal lines)"
+    },
+    "diagram_extraction_strategy": "For each chapter N, scan pages in chapter_ranges_0indexed[N] in page order. Collect images where (380<=w<=470 and 380<=h<=470) OR (800<=w<=870 and 350<=h<=500). These are chess diagrams numbered sequentially as N.1, N.2, N.3... matching [Diagramma N.Y] placeholders in chapters_uz/"
+  }
+}
