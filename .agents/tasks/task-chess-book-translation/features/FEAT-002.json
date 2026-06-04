@@ -2,7 +2,7 @@
   "id": "FEAT-002",
   "type": "feat",
   "description": "Translate the entire book from English to Uzbek language, chapter by chapter. Create translated text files for each chapter. The translation must be complete, accurate, and natural-sounding in Uzbek. Chess terminology should be translated consistently throughout (e.g., rook=tura, bishop=fil, knight=ot, queen=farzin/vazir, king=shoh, pawn=piyoda, check=shox, checkmate=shox va mot, stalemate=pat, castling=qal'a). Maintain the book's instructional tone appropriate for parents teaching children.",
-  "status": "in_progress",
+  "status": "completed",
   "steps": [
     "Create directory /projects/sandbox/gg/chapters_uz/ for Uzbek translations",
     "Translate each chapter file from chapters_en/ to Uzbek, saving to chapters_uz/ with same naming convention",
@@ -26,5 +26,5 @@
     "Verify no large blocks of English remain in the Uzbek files"
   ],
   "blocked_reason": null,
-  "findings": ""
+  "findings": "All 29 chapters translated successfully to Uzbek. Total output: 284,063 bytes across 29 files. Chess terminology consistently applied throughout. Diagram references maintained as [Diagramma X.Y]. Section headers translated per guidelines. Proper nouns (author names, place names, website URLs) kept in original form."
 }
