@@ -1,0 +1,168 @@
+Turadan keyin o'rgatiladigan keyingi dona - fil. U diagonal tushunchasini tanishtiradi.
+
+Diagonalni aniqlash
+
+"Diagonal" so'zi yosh o'quvchilar tomonidan har doim ham to'liq tushunilmaydi.
+
+Qadam 1: Diagonal nima ekanligini tushuntiring
+
+Garchi siz ularga shaxmat taxtasida diagonal nima ekanligini ko'rsatsangiz-da, siz qo'llaringizdan foydalanib tushunchani tushunishlariga yordam berishingiz mumkin.
+
+Mana yaxshi tushuntirish: Bir qo'lingizni to'g'ri yuqoriga ko'tarib, "Bu qo'l yuqoriga qaraydi" deng, keyin bir qo'lingizni yon tomonga to'g'ri ko'tarib, "Bu qo'l yon tomonga qaraydi" deng. Keyin yuqoriga qaragan qo'lni pastga qiya qilib, "Endi bu diagonal" deng.
+
+Keyin siz ikkala qo'lingiz bilan "X" shaklini yasab, bular ikki diagonal ekanligini tushuntirishingiz mumkin. Shuningdek, "X" harfi ko'pchilik bolalarga erta yoshdan tanish. "X" ning har bir chizig'i - diagonal.
+
+Shaxmat darslaringiz davomida siz bu so'zni ko'p ishlatasiz, shuning uchun farzandingizga uni to'liq tushunishga yordam berish muhim. Siz bu atamani ularning xotirasida yangilashingiz kerak bo'lishi mumkin.
+
+Agar juda chalkash bo'lsa, bir muddat bu so'zni butunlay tashlab qo'yishingiz mumkin. Siz fil qiya yuradi deyishingiz mumkin. Farzandingiz diagonal yoki qiya so'zini bilmasdan, fil qanday yurishini, filni diagonal bo'ylab yurgizish harakatini o'rganishi mumkin.
+
+Sizning namoyishingiz va o'z kuzatishlari va harakatlari bilan mashq qilish orqali ular filni diagonallar bo'ylab to'g'ri yurgiza olishadi.
+
+Qisqasi, "diagonal" so'zi fillarni diagonallar bo'ylab yurgizish harakatiga to'siq bo'lishi shart emas, lekin agar ular tushunsa, so'z qimmatli.
+
+Qadam 2: Fil shunday yuradi
+
+Taxtangizni filni taxtaning markaziga qo'yib joylashtiring.
+
+2a. Farzandingizga qanday yurishini ayting:
+Farzandingizga fil diagonal bo'ylab yurishini tushuntiring.
+
+[Diagramma 7.1]
+
+2b. Men kataklarga ishora qilaman:
+Bu markaz katakdan fil bora oladigan barcha kataklarga ishora qiling. Barcha diagonallardagi barcha kataklarni ko'rsating.
+
+Farzandingizning qiziqishini saqlab qolish uchun tegishli tezlikda ko'rsatganingizga ishonch hosil qiling. Siz barcha kataklarga ishora qilish va barmoqni diagonallar bo'ylab tortish texnikasini birlashtirishingiz mumkin.
+
+2c. Men filni yurgizaman:
+Filni diagonallardan biri bo'ylab yurgizing. Qisqa yurish bilan boshlash yaxshi fikr (ehtimol ikki yoki uch katak uzoqlikda).
+
+Keyin donani qo'yib yuborganingizdan so'ng, filni olib boshqa diagonallardan biri bo'ylab yurgizing, ehtimol bir katak. Har bir qadamda nima qilayotganingizni farzandingizga ayting.
+
+Yo'nalish va yurish uzunligini o'zgartirishda davom eting, shunda ular fil bilan nima qilish mumkinligini ko'rsinlar.
+
+Filni bir necha marta yurgizganingizdan keyin, kataklarga yana ishora qiling, fil qayerga yurishi mumkinligini ko'rsatib.
+
+Qadam 3: Mini-o'yin: Men yurgizaman, sen yurgizasan
+
+Bu mini-o'yinda siz farzandingiz bilan bitta fildan foydalanib navbatma-navbat yurish qilasiz. Siz birinchi yurishni qilasiz. Keyin ulardan filni yurgizishlarini so'rang.
+
+Agar ular qayerga borish kerakligi haqida noaniq yoki ikkilanib tursalar, taklif berishingiz mumkin. Qisqa masofadagi katakka ishora qiling. Masofa qancha uzoq bo'lsa, ular uchun to'g'ri harakatni bajarish shuncha qiyin.
+
+Ular bir nechta to'g'ri yurish qilganlarida, keyingi bosqichga o'ting.
+
+Qahva suhbati
+Kafellar
+
+Besh yoshli o'g'il bola bir kechqurun vanna qabul qilayotgan edi. Onasi u kafellarga qarab, filning yurishlarini ko'rsatganida hayratga tushdi.
+
+Keyinroq u oshxona kafellarida fil kabi yura boshladi!
+
+Qadam 4: Fil shunday yurishi mumkin, bunday yura olmaydi
+
+Fil bilan bir nechta to'g'ri yurishlar qiling. Keyin bir nechtasini noto'g'ri aralashtiring. Masalan, filni oldinga uch katak yurgizing va "Fil bunday yura olmaydi" deng.
+
+Yana bir nechta to'g'ri va noto'g'ri yurishlar qiling.
+
+Qadam 5: Mini-o'yin: Fil bu yerga borishi mumkinmi?
+
+Fil bilan turli yurishlar qiling va farzandingizdan so'rang: "Fil bu yerga borishi mumkinmi?" Birinchi bir nechtasini to'g'ri yurish qiling, keyin filni oldinga bir nechta katak yurgizing va xuddi shu savolni so'rang.
+
+Sekin boshlang va agar farzandingizda biron chalkashlik bo'lsa, ularga bir nechta to'g'ri yurish va bir nechta noto'g'ri yurish ko'rsating. Agar ular ikkilanishda davom etsalar, "Men yurgizaman, sen yurgizasan" mini-o'yiniga qayting.
+
+Farzandingiz siz ko'rsatgan kataklarga fil yurishi mumkin yoki mumkin emasligini ishonchli ayta olganida, o'yinni tezlashtiring. Filni imkon qadar tez yurgizing va ular sizga ergashib borishayotganini ko'ring. Tezroq tezlikka mos ravishda savolni o'zgartiring. Siz so'rashingiz mumkin: "Fil bu yerga borishi mumkinmi? Bu yerga-chi? Va bu yerga?"
+
+Ular buni haqiqatan ham tushunganlarida, taxminan 20 soniyada 10 ta to'g'ri javob berishlari kerak (xatosiz va ikkilanishsiz).
+
+Qadam 6: Shaxmatda ikki xil fil bor
+
+Farzandingizga shaxmatda ikkita fil borligini tushuntiring. Fillardan biri faqat och rangli kataklarda yuradi va "och katakli fil" deb ataladi.
+
+Boshqa fil to'q kataklarda yuradi va "to'q katakli fil" deb ataladi.
+
+Taxtaga qora och katakli fil va oq to'q katakli fil qo'ying. Ikki fil bilan "Men yurgizaman, sen yurgizasan" ning bir necha yurishini o'ynang.
+
+Filningizni ularnikining yoniga qo'ying, shunda ular siz muhokama qilmoqchi bo'lgan fikrni ko'ra olsinlar.
+
+Farzandingiz fillarning yon tomonga yura olmasligini bir lahzaga unutib, sizning filni olishga harakat qilishi mumkin. Agar shunday bo'lsa, fil qanday yurishini tezkor ko'rib chiqing va keyin bu mini-o'yinning yana bir necha yurishini o'ynang.
+
+Endi farzandingiz bilan bu mini-o'yinda hech bir fil boshqasini ola olmasligi haqida gaplashing. Ular bilan muhokama qiling va ulardan bu qanday haqiqat ekanligiga haqiqatan ham qarab ko'rishlarini so'rang. Bu ko'pchilik yangi boshlovchilar uchun kutilmagan.
+
+[Diagramma 7.2]
+
+Ulardan ikki fil qayerga borishi mumkinligini ko'rishlarini so'rang. To'q katakli fil hech qachon och kataklarga bora olmasligini va och katakli fil hech qachon to'q kataklarga bora olmasligini ko'rishlariga yordam bering.
+
+Farzandingiz bu fikrni haqiqatan ham ko'rgunlariga qadar bu mini-o'yinni o'ynashda davom eting.
+
+Qahva suhbati
+Ishtiyoq tez tarqaladi
+
+Bir ona menga uch yoshli qizi maktabdan keyin shaxmat haqida gaplashishni to'xtata olmaganini aytdi.
+
+U fil yurishini endigina o'zlashtirgandi va yangi topgan bilimini onasi bilan baham ko'lishni xohlayotgan edi.
+
+Qadam 7: Mini-o'yin: Men yurgizaman, sen yurgizasan, turalar va fillar bilan
+
+Bu pozitsiyani joylashtiring:
+
+Ko'pchilik mini-o'yinlardagi kabi, Oq birinchi yuradi.
+
+Boshida ko'p bolalar fil va tura yurishlarini aralashtirishadi. Bu mashq bu donalarni ajratadi va ularga ikkala dona yurishini o'zlashtirishda mashq beradi.
+
+[Diagramma 7.3]
+
+Bu mini-o'yinning yagona diqqat markazi dona yurishi. Agar ular sizning donalaringizni olishni xohlasalar, yaxshi, lekin hozircha ularnikini olishdan (yoki o'zingiznikini xavf ostiga qo'yishdan) saqlaning.
+
+Keyingi bobda, "Hujum va himoya," biz bu mini-o'yinga qaytamiz.
+
+Muammolar va yechimlar
+
+Muammo:
+Farzandim filni yo'l bo'ylab yurgizmaydi, balki uni taxtada egib yoki boshqa chiziq bo'ylab yurgizadi.
+
+Yechim:
+Avval ular stol bo'ylab qulay yeta olishlarini tekshiring. Agar qo'llari juda qisqa bo'lsa, to'g'ri katakka yetish ular uchun imkonsiz bo'lishi mumkin.
+
+Agar ular taxtaning narigi tomoniga yetishda muammo ko'rmasalar, ulardan diagonal bo'ylab fil bora oladigan barcha kataklarga ishora qilishlarini so'rang. Filni turli pozitsiyalarda qo'yib buni bajarishlarini so'rang (masalan, filni taxtaning o'rtasiga, chetga yaqin, chetda va burchakda qo'ying).
+
+Keyin "Men yurgizaman, sen yurgizasan" o'ynang, lekin qisqaroq fil harakatlaridan foydalaning.
+
+Ularga filni ikki yoki uch katak to'g'ri yurgizishni o'zlashtirishga imkoniyat bering. Keyin ularni to'rt katakka borishga rag'batlantiring va shu bilan biroz o'ynashlariga ruxsat bering. Asta-sekin besh, olti yoki yetti katakka borishi mumkin bo'lgan nuqtaga ko'taring.
+
+Fil tugaydigan katakka barmoqingizni qo'yishingiz kerak bo'lishi mumkin. Ularning sizning harakatlaringizni nusxa ko'chirishi ham juda yaxshi fikr. Odatda, bola qancha yosh bo'lsa, bu donani o'zlashtirish shuncha qiyin.
+
+Muammo:
+Farzandim filni yurgiza oladi, lekin tez bajara olmaydi.
+
+Yechim:
+Ko'proq mashq qiling. Ular qila oladigan tezlikda ishlang va keyin asta-sekin oshiring. Ular nima qila olishlarini kuzating va o'sha tezlikka rioya qiling.
+
+Ba'zan bola doimiy ravishda tasdiqlash uchun sizga qaraydi. Bu yumshoqlik bilan qaytarish kerak bo'lgan odat. Agar ular sizga so'roqli qarasalar, so'rang: "Sen qanday o'ylaysan? To'g'rimi?" Har bir taxmin bilan bosh irg'ab tasdiqlashga harakat qilmang.
+
+Keyingi donaga o'tishdan oldin ular fil yurishi bilan ishonchli bo'lishlari muhim. Garchi ular kitob davomida har bir dona yurishini mashq qilishda davom etsalar-da, hozir diagonal harakatga qulay ekanliklarini his qilishlari eng yaxshi.
+
+Muammo:
+Farzandim mini-o'yinlarga ko'p hollarda to'g'ri javob beradi, lekin ba'zan xato qiladi.
+
+Yechim:
+Diqqatli bo'ling. Ular qilishga harakat qilayotgan eng oddiy harakatlarga e'tibor bering. Siz tez orada ularning nega bu xatolarni qilayotganini tushunasiz. Agar ular ko'pincha to'g'ri javob bersalar, lekin vaqti-vaqti bilan xatolik qilsalar, buning turli sabablari bo'lishi mumkin.
+
+Masalan, agar ular och yoki charchagan bo'lsa, har qanday shaxmat mashqini mukammal bajarish ular uchun qiyinroq bo'ladi.
+
+Agar ular doimiy ravishda bir xil xato qilsalar, bu vaqti-vaqti bilan xato qilishdan juda farq qiladi. Yurishlar doimiy ravishda noto'g'ri bo'lganda, ularga bajarolmaydigan eng asosiy ko'nikma bilan yordam beradigan oldingi mini-o'yinni toping.
+
+Masalan, agar ular "Fil bu yerga borishi mumkinmi?" bilan qiynalayotgan bo'lsa, "Men yurgizaman, sen yurgizasan" ga qayting, filni tez yurgiza olgunlariga qadar o'sha mini-o'yinni davom eting.
+
+Agar farzandingiz xato qilib, darhol tuzatsa, mashq bilan davom eting. Ular shunchaki o'z ishonchlarini shakllantirmoqda va ko'nikmani mashq qilmoqda.
+
+Muammo:
+Farzandim filni tura kabi yurgizmoqchi.
+
+Yechim:
+Bolalar uchun bu ikki donani aralashtirish odatiy hol. Uni o'zlashtirishga biroz mashq kerak. Ularga ikkala dona yurishining misollarini ko'rsating va "Men yurgizaman, sen yurgizasan" mini-o'yinini mashq qiling.
+
+Itlar ucha olmaydi
+
+Farzandingizdan qush qanday harakatlanishini so'rang. Keyin it qanday harakatlanishini so'rang. Ular ikki hayvon turlicha harakatlanishini ko'rishadi.
+
+Shaxmat donalari ham o'ziga xos harakatlarga ega ekanligini tushuntiring. Itlar ucha olmaydi va fil tura kabi yura olmaydi.

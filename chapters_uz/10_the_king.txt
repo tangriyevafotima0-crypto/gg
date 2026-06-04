@@ -1,0 +1,41 @@
+Qadam 1: Shoh shunday yuradi
+
+1a. Farzandingizga qanday yurishini ayting: Shoh har qanday yo'nalishda bitta katak yurishi mumkin.
+
+[Diagramma 10.1]
+
+Shuningdek, ularga shoh unchalik uzoqqa yura olmasa-da, u taxtadagi eng muhim dona ekanligini bildiring. Farzandingizga ularning vazifasi shohni himoya qilish va boshqa o'yinchining shohiga hujum qilish ekanligini tushuntiring.
+
+Bu yerda shoh yoki mat haqida tushuntirish berish vasvasasi bo'lishi mumkin (agar siz bu atamalarni bilsangiz), lekin bunday qilmang, chunki bular ancha ilg'or tushunchalar. Biz ularga kelgusi boblarda to'xtalamiz.
+
+1b. Men kataklarga ishora qilaman: Shoh yurishi mumkin bo'lgan barcha kataklarga ishora qiling.
+
+1c. Men shohni yurgizaman: Shohni bir vaqtda bitta katak qilib yurgizing, har bir yurishdan keyin donani qo'yib yuborishga ishonch hosil qilib. Uni oldinga, diagonal, yon tomonga va orqaga yurgizing. Bu tez namoyish bo'lishi kerak.
+
+Qadam 2: Mini-o'yin: Men yurgizaman, sen yurgizasan
+
+Shoh bilan yurish qiling va keyin farzandingiz ham yurish qilsin. Boshqa mini-o'yinlardagi kabi navbatma-navbat yurgizing. Farzandingiz shohning oldinga, orqaga va yon tomonlarga bo'lgani kabi diagonal bo'ylab ham yurishi mumkinligini ko'rsatishlariga ishonch hosil qiling.
+
+Qadam 3: Shoh shunday yurishi mumkin, bunday yura olmaydi
+
+Shoh harakatda cheklangani uchun, u bir vaqtda faqat bitta katak yurishi mumkinligi g'oyasini mustahkamlash muhim.
+
+Bir nechta to'g'ri shoh yurishlari qiling va keyin shohni ikki katak sakrating va farzandingizga shoh bunday yura olmasligini ayting.
+
+Qo'shimcha to'g'ri va noto'g'ri yurishlar qiling. Bu tez mashq bo'lishi kerak.
+
+Qadam 4: Mini-o'yin: Shoh shunday yurishi mumkinmi?
+
+Bir nechta to'g'ri yurish qiling, keyin shohni ikki katak yurgizing va so'rang: "Shoh bunday yurishi mumkinmi?" To'g'ri va noto'g'ri yurishlar haqida so'rashda davom eting. Ular to'liq o'zlashtirganlaricha o'yinni tezlashtiring.
+
+Qadam 5: Shoh ham olishi mumkin
+
+Bu pozitsiyani joylashtiring:
+
+[Diagramma 10.2]
+
+Shohning harakati shunchalik cheklanganligi sababli, yangi boshlovchilar u ham dona olishi mumkinligini unutishi mumkin.
+
+Farzandingizga shoh ham dona olishi mumkinligini ko'rsating. Bu yerda shoh filni olishi mumkin.
+
+Farzandingiz uchun boshqa misollar joylashtiring. Siz tura, fil yoki farzindan foydalanishingiz mumkin, lekin boshqa shohdan emas. Nima uchun ekanligini keyinroq batafsil ko'rib chiqamiz.

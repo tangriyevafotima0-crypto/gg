@@ -1,0 +1,93 @@
+Turni taxtaning markaziga qo'ying va bora oladigan barcha kataklarga ishora qiling.
+
+Endi bu pozitsiyani joylashtiring:
+
+[Diagramma 21.1]
+
+Farzandingizga oq tura harakati oq piyoda tomonidan to'silganini ko'rsating. Bora oladigan barcha kataklarga ishora qiling. Endi turni yanada ko'proq to'sish uchun boshqa oq dona qo'ying.
+
+Farzandingiz o'z donalari boshqa donalarining harakatiga to'siq bo'lishi mumkinligini tushunishi muhim. Dona qanchalik ko'p to'silgan bo'lsa, u siz uchun shunchalik kam qimmatli, chunki ko'p ish qila olmaydi.
+
+Shunga o'xshash pozitsiyaga yetguningizcha donalar qo'shishda davom eting:
+
+[Diagramma 21.2]
+
+Endi tura yurishi mumkin bo'lgan kataklarga ishora qiling.
+
+Bu mashqni farzin va fil bilan ham bajaring. Donani taxtaning markazida boshlang va keyin harakatni tobora ko'proq cheklab, farzandingizga dona qanday to'silishini ko'rsating.
+
+Shuningdek, farzandingizga piyoda qanchalik oson to'silishini eslatib qo'ying.
+
+Garchi ot donalarni sakrab o'tishi mumkin bo'lsa-da, u ham to'silib qolishi mumkin. Bu pozitsiyani joylashtiring:
+
+21.3-diagrammada ot yura olmaydi!
+
+[Diagramma 21.3]
+
+Qadam 2: Mini-o'yin: Dona borishi mumkin bo'lgan kataklarga ishora qiling
+
+Oldingi bosqichdagiga o'xshash pozitsiyalar joylashtiring, boshqa donalar uchun, bir o'yinchining donalari o'z donasiga to'siq bo'lgan joyda. Farzandingizdan o'sha dona borishi mumkin bo'lgan kataklarga ishora qilishlarini so'rang.
+
+Dona ko'p kataklarga borishi mumkin bo'lgan va faqat bir nechtasiga (yoki umuman) borishi mumkin bo'lgan pozitsiyalar joylashtiring.
+
+Qadam 3: Mini-o'yin: Shoh borishi mumkin bo'lgan kataklarga ishora qiling
+
+Shoh harakatlari ham to'silishi mumkin. Bu tushuntirish kerak bo'lgan muhim tushuncha. Shohingiz harakati cheklanganda, mat bo'lish ancha oson.
+
+Shoh harakati o'z donalari tomonidan to'silgan turli pozitsiyalar joylashtiring. Farzandingizdan shoh borishi mumkin bo'lgan kataklarga ishora qilishlarini so'rang.
+
+Mana ba'zi misollar:
+
+[Diagramma 21.4] [Diagramma 21.5]
+
+[Diagramma 21.6] [Diagramma 21.7]
+
+Ko'plab misollar joylashtiring va farzandingizdan shoh borishi mumkin bo'lgan kataklarga ishora qilishlarini so'rang (21.7-diagrammada shoh o'z donalari tomonidan qamab qo'yilgan).
+
+Siz bu yerda faqat farzandingizni shoh borishi mumkin bo'lgan katakleryi sezishga o'rgatmoqchisiz. Ular buni aniq va juda tez bajara olganlarida, davom eting.
+
+Qadam 4: Qaysi dona yurishi mumkin?
+
+Boshlang'ich pozitsiyani joylashtiring.
+
+O'yin boshida yurishi mumkin bo'lgan yagona donalar otlar va piyodalar. Farzandingizga fillar, turalar, farzin va shoh to'silganligini ko'rishga yordam bering.
+
+[Diagramma 21.8]
+
+To'sish o'yin boshiga qanday aloqador ekanligini ko'rib chiqish yaxshi. Bu yangi ma'lumot bilan donalarni tez chiqarish muhimligini mustahkamlashga yordam beradi.
+
+Farzandingizdan 21.8-diagrammada oq tura yurishi mumkinligini so'rang. Ularning tura hech qayerga bora olmasligini ko'rishlariga ishonch hosil qiling.
+
+Endi farzandingizdan yura olmaydigan boshqa dona topishlarini so'rang. Va yana biri. Ulardan to'silgan barcha donalarni topishlarini so'rang.
+
+Keyin farzandingizdan yura oladigan donalarni ko'rsatishlarini so'rang.
+
+Farzandingiz bilan och katakli filni qanday chiqarish mumkinligini aniqlang. Ulardan o'sha filni chiqarish uchun yurgizish mumkin bo'lgan ikki piyodani ko'rishlarini so'rang.
+
+Keling, shoh oldidagi piyodani yurgizishga qaraylik:
+
+[Diagramma 21.9]
+
+Farzandingizdan fil hozir yurishi mumkin bo'lgan barcha kataklarga ishora qilishlarini so'rang. Ularga bu dona qanday faol bo'lishi mumkinligini ko'rishga erishtiing.
+
+Keyin farzandingizdan hozir yurishi mumkin bo'lgan yana bir dona topishlarini so'rang. Ularga farzinning hozir borishi mumkin bo'lgan joylari borligini ko'rishga erishtiing.
+
+Garchi shoh yurishi mumkin bo'lsa-da, farzandingizga ehtimol qal'a qilishni xohlashlarini eslatib qo'ying, shuning uchun shohni yurgizmaslik kerak.
+
+Muammolar va yechimlar
+
+Muammo:
+"Shoh borishi mumkin bo'lgan kataklarga ishora qiling" mini-o'yinida farzandim shoh qilishi mumkin bo'lgan ba'zi yurishlarni o'tkazib yuboryapti.
+
+Yechim:
+Shoh faqat bitta katakka yurishi mumkin bo'lgan pozitsiyaga qayting. Shunga o'xshash bir nechta pozitsiya toping va keyin shoh ikki katakka yurishi mumkin bo'lgan pozitsiyaga o'ting.
+
+Rivojlanganingizda, shohni taxtaning chetiga yoki markaziga qo'ya boshlashingiz mumkin. Lekin tushuningki, shoh borishi mumkin bo'lgan ko'proq joylar bo'lganda bu mini-o'yin qiyinlashishini.
+
+Muammo:
+"Shoh borishi mumkin bo'lgan kataklarga ishora qiling" mini-o'yinida farzandim ikki katak uzoqdagi yurishlarni tanlayapti.
+
+Yechim:
+Agar farzandingiz shoh yonidagi katakka, keyin ikki katak uzoqdagi katakka ishora qilsa, ular ikki yurish oldiga fikrlayotgan bo'lishi mumkin. Farzandingizga siz hozir shoh uchun tanlovlarni qidirayotganingizni, keyingi yurish uchun emas (garchi yurishlar ketma-ketligini tasavvur qilish ajoyib bo'lsa-da) eslatib qo'ying.
+
+Agar ular shoh qanday yurishida chalkashsa, u bir vaqtda ikki katak yuradi deb o'ylasa, shunchaki shoh yurishlarini ular bilan ko'rib chiqing.

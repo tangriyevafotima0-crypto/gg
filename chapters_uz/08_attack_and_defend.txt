@@ -1,0 +1,283 @@
+Hozirgacha farzandingiz o'z donalariga hujum qilinishi va olinishi mumkinligini sezgan.
+
+Ko'pchilik bolalar darhol o'z donasini boshqa o'yinchining donasini olish bilan tahdid qiladigan katakka yurgizish mumkinligini tushunmaydi. Bu oddiy va kuchli yurishni - "hujum"ni o'rganish keyingi qadam.
+
+Qadam 1: Keling, turaga hujum qilaylik
+
+Bu pozitsiyani joylashtiring:
+
+Boshida bola donalari olinganida, ular odatda buni yoqtirmaydi.
+
+Lekin ular boshqa o'yinchining donasini olishlari mumkinligini ko'rganlarida, buni yaxshi ko'rishadi!
+-Bill
+
+[Diagramma 8.1]
+
+Farzandingizga fil turaga hujum qila oladigan katak borligini ayting. Farzandingiz bilan birgalikda o'sha katakni topishga harakat qiling.
+
+Avval ular buni darhol topa olishlarini ko'ring. Ba'zilari topadi. Agar topmasa, bir yondashuv - ulardan fil bora oladigan barcha kataklarga ishora qilishlarini so'rash. Har bir katak uchun, farzandingizdan fil turaga hujum qilayotganini tekshirishlarini so'rang.
+
+Agar ular katakni topishda qiynalsalar, filni yurgizib ularga hujum diagonalini ko'rsating.
+
+[Diagramma 8.2]
+
+Yana bir nechta pozitsiya joylashtiring va farzandingizga boshqa o'yinchiga hujum qilish uchun donasini qanday yurgizishni aniqlashga imkon bering.
+
+Ba'zan ikkita to'g'ri javob bo'ladi, 8.3-diagrammadagi kabi:
+
+[Diagramma 8.3]
+
+Farzandingizdan filni qora turaga hujum qiladigan qilib yurgizishlarini so'rang. Keyin farzandingiz filni turaga hujum qilish uchun yurgizishi mumkin bo'lgan boshqa katakni topa olishini ko'ring.
+
+[Diagramma 8.4]
+
+Qadam 2: Endi filga hujum qilaylik
+
+Bu pozitsiyani joylashtiring:
+
+Farzandingizdan turni filga hujum qila oladigan qilib yurgizishlarini so'rang.
+
+[Diagramma 8.5]
+
+Endi farzandingiz turaning filga hujum qilishi mumkin bo'lgan boshqa katakni topsin.
+
+Eslatma: Bu ikki katak 8.6-diagrammada belgilangan.
+
+Shunga o'xshash ko'proq pozitsiyalar joylashtiring.
+
+[Diagramma 8.6]
+
+Qadam 3: Donalar bir-biriga hujum qilishi mumkin
+
+Endi bu pozitsiyani yana joylashtiring:
+
+Farzandingizga kimning navbatiga qarab, tura filga hujum qilishi yoki fil turaga hujum qilishi mumkinligini ko'rsating.
+
+Bu nafaqat siz boshqa o'yinchining donalariga hujum qilishingiz, balki ular ham siznikiga hujum qilishi mumkinligi g'oyasiga eshik ochadi.
+
+Farzandingizdan donalar bir-biriga hujum qilishining barcha usullarini ko'rsatishlarini so'rang.
+
+[Diagramma 8.7]
+
+Shunga o'xshash boshqa pozitsiya joylashtiring. Faqat tura va fildan foydalanishni unutmang, chunki bular farzandingiz hozirgi bosqichda biladigan donalar.
+
+Qadam 4: Donani xavfdan chiqarish mumkin
+
+Bu pozitsiyani joylashtiring:
+
+[Diagramma 8.8]
+
+Farzandingiz 3-qadamni o'zlashtirgandan keyin, ularga donani xavfdan qanday chiqarishni o'rgatishingiz mumkin. 8.8-diagrammani joylashtirgandan keyin, ularning donasiga hujum qilinayotganini ko'rsating. Ulardan donasini olinishining oldini qanday olish mumkinligini so'rang.
+
+Bu yerdagi to'g'ri javob - tura yurishishi kerak.
+
+Eslatma: Bu misolda tura har qanday yurish qilishi mumkin va u endi fil tomonidan hujum qilinmaydi. Turaning qayerga borishiga e'tibor berishi kerak bo'lgan boshqa pozitsiyalar bor, lekin bu yerda xavfli kataklar yo'q.
+
+Boshqa joyga yurish - hujumdan qochishning yaxshi usuli. Biz bu kitobda keyinroq boshqa usullarni ko'rib chiqamiz.
+
+Shunga o'xshash yana bir nechta pozitsiya joylashtiring va farzandingizdan turni xavfdan chiqarishlarini so'rang.
+
+Endi bu pozitsiyani joylashtiring:
+
+Farzandingizdan qora filni xavfdan qanday chiqarish mumkinligini so'rang. Yana, bu pozitsiya bilan fil qiladigan har qanday yurish uni xavfdan chiqaradi.
+
+[Diagramma 8.9]
+
+Keyingi qadam sifatida bu pozitsiyani joylashtirishingiz mumkin:
+
+[Diagramma 8.10]
+
+Endi fil qilishi mumkin bo'lgan bitta yurish bor, u uni xavfdan chiqarmaydi. Agar u 8.11-diagrammada ko'rsatilgan joyga yursa, u hali ham olinishi mumkin.
+
+Buni farzandingizga ko'rsatganingizga va donaning yangi katakda xavfsiz ekanligini tekshirishlari kerakligini ko'rishlariga ishonch hosil qiling.
+
+Shunga o'xshash ko'proq misollar joylashtiring va farzandingizdan xavfdan qanday chiqish mumkinligini so'rang.
+
+[Diagramma 8.11]
+
+Qadam 5: Donalar bir vaqtning o'zida bir-biriga hujum qilishi mumkin
+
+Bu yerda, 8.12-diagrammada, oq fil qora filga hujum qilmoqda va aksincha. Bu kimning navbatiga bog'liq. Agar Oqning navbati bo'lsa, Oq Qoraning filini olishi mumkin. Agar Qoraning navbati bo'lsa, Qora Oqnikini olishi mumkin.
+
+Buni ko'rsatish yaxshi, chunki sizga qaytarib hujum qila oladigan donaga hujum qilish qiyinroq, chunki bu sizga hujum qilganingiz zahoti hujumga tushishingizni anglatadi.
+
+Farzandingizga "fil filga hujum qilish uchun yuradi" va keyin "tura turaga hujum qilish uchun yuradi" bilan buning bir nechta misollarini ko'rsating.
+
+[Diagramma 8.12]
+
+Qo'llab-quvvatlashni aniqlash
+
+Bitta dona boshqasini qo'llab-quvvatlasa, bu hujumchi donani olgandan keyin u hujumchini qaytarib olishi mumkinligini anglatadi.
+
+Qadam 6: Bitta dona boshqasini qo'llab-quvvatlashi mumkin
+
+4-qadamda biz dona hujumni qanday bartaraf etishi mumkinligi haqida gaplashdik. Xavfdan chiqishning yana bir yo'li - donangizni boshqa dona bilan qo'llab-quvvatlash. Bu misolni joylashtiring:
+
+[Diagramma 8.13]
+
+8.13-diagrammada turalar fillarni qo'llab-quvvatlamoqda.
+
+Agar Qoraning navbati bo'lsa, Qora oq filni olishi va oq tura qaytarib olishi mumkin edi.
+
+Yoki agar Oqning navbati bo'lsa, oq fil qorani olishi va qora tura Oqning filini qaytarib olishi mumkin edi.
+
+Shunga o'xshash ko'proq misollar joylashtiring, bitta dona boshqasini qanday qo'llab-quvvatlashini ko'rsatib.
+
+[Diagramma 8.14]
+
+Qadam 7: Mini-o'yin: Hujum va himoya
+
+Bu pozitsiyani joylashtiring:
+
+Barcha donalarni yurgizishni o'rgangan bolalar ham bu mini-o'yindan zavq olishadi. Men ular bu maxsus mashqni mashq qilganlarida, to'liq o'yin o'ynaganlarida himoyasiz donalarni kamroq yo'qotishga moyil bo'lishlarini payqadim.
+-Laura
+
+Bu mini-o'yinda ko'p narsa bor. U bolaning shaxmat ta'limi uchun bebaho bo'lgan asosiy ko'nikmalarni ajratadi.
+-Bill
+
+[Diagramma 8.15]
+
+Taxtada faqat ikki turdagi donalar bo'lsa-da, bu mini-o'yin imkoniyatlarga boy! Farzandingiz qachon dona olish mumkinligini va qachon ularning donasi olinishi mumkinligini sezishni o'rganadi.
+
+"Mening turamga hujum qila olasanmi?" kabi savollar bering ularga yordam berish uchun. Yoki "Hujum qilayotgan donamni topa olasanmi?" donangizni ularning birortasiga hujum qilayotgan qilib yurgizganingizda.
+
+Qadam 8: Turalar fillardan qimmatroq
+
+Shaxmatda turli donalarning turli qiymatlari bor. Ba'zilari boshqalaridan qimmatroq.
+
+Bu pozitsiyani joylashtiring:
+
+Farzandingizga bu yerda Oq Qoraning filini olishi mumkinligini ko'rsating.
+
+[Diagramma 8.16]
+
+Va keyin Qora oq filni olishi mumkin.
+
+[Diagramma 8.17]
+
+[Diagramma 8.18]
+
+Farzandingizga siz hozirgina filga fil almashganingizni ko'rsating. Agar ular sizning filingizni olsa va siz ularning filini olsangiz, bu teng almashish.
+
+Endi tura odatda fildan qimmatroq ekanligini tushuntiring. Tura odatda ko'proq ish qila oladi va kuchliroq, shuning uchun u o'yinchi uchun qimmatroq. Birinchidan, tura ham to'q kataklarga, ham och kataklarga borishi mumkin, fil esa buni qila olmaydi.
+
+Farzandingizga yaxshi bo'lmaydigan almashuvlarni ko'rsating. Bu pozitsiyani joylashtiring:
+
+Bu yerda Oq qora filni olishi mumkin, lekin bu yaxshi yurish mi?
+
+[Diagramma 8.19]
+
+Farzandingizga bu qanday bo'lishini ko'rsating:
+
+Bu yerda Oq qora filni oldi.
+
+[Diagramma 8.20]
+
+Va Qora oq turani oldi. Farzandingizga taxtadan olingan donalarni ko'rsating. Oq fil oldi va Qora tura oldi. Kim yaxshiroq almashdi?
+
+Farzandingizga shunga o'xshash ko'proq misollar ko'rsating va keyin turli pozitsiyalarda ulardan so'rang, almashuvlarni ko'rsatib, ular almashish qilishadimi yoki yo'qligini so'rang.
+
+"Donalarning qiymati" bobida biz qaysi donalar boshqalarga nisbatan qimmatroq yoki arzonroq ekanligini muhokama qilamiz. Hozircha narsalarni oddiy saqlang. Boshqa donalarning qiymatlari haqida gaplashmang. Tura fildan qimmatroq ekanligini ta'kidlang.
+
+[Diagramma 8.21]
+
+Qadam 9: Mini-o'yin: Dona qiymatini hisobga olib hujum va himoya
+
+Bu pozitsiyani yana joylashtiring:
+
+Bu mini-o'yinni farzandingiz bilan o'ynang, ular almashish qachon foydalari uchun va qachon foydalari uchun emasligini ko'rishlariga ishonch hosil qilib.
+
+Bu mini-o'yinni ko'p o'ynash mumkin, farzandingiz uchun katta foyda bilan.
+
+Ular sizga hujum qilishlariga, donalarini qo'llab-quvvatlashlariga, yaxshi almashuvlar qilishlariga va donalarini qachon xavfdan chiqarish kerakligini bilishlariga ishonch hosil qiling.
+
+[Diagramma 8.22]
+
+Qahva suhbati
+Qayta-qayta
+
+Bir ona o'g'lining "Hujum va himoya" mini-o'yinini qanchalik yaxshi ko'rishiga hayron qoldi. U buni qayta-qayta o'ynashni xohladi. Ona u haqiqatan ham hujum rejalari yaratishni, kelajakdagi yurishlar nuqtai nazaridan fikrlashni boshlaganini aytdi.
+
+Muammolar va yechimlar
+
+Muammo:
+Farzandim boshqa o'yinchining donasiga qanday hujum qilishni ko'rishda qiynaladi.
+
+Yechim:
+Agar ular bu bilan qiynalayotgan bo'lsa, avval bir qator misollar ko'rsatishdan boshlang. Bir vaqtning o'zida faqat ikkita dona ishlatayotganingizga ishonch hosil qiling. Tura va fil bilan pozitsiyalar joylashtiring va keyin filning turaga qanday hujum qilishini ko'rsating.
+
+Ularga bir nechta misol ko'rsatganingizdan keyin, ularga o'xshash pozitsiya bering (agar hozirgina ko'rsatgan pozitsiyangiz bo'lmasa) va turaga hujum qilishlarini so'rang.
+
+Albatta, farzandingiz filni va turni yurgizishda hech qanday qiyinchiligi yo'qligiga ishonch hosil qilishni xohlaysiz. Agar ular diagonal harakatni tushunmasalar, bu mashq qiyin bo'ladi.
+
+Muammo:
+Farzandim donasini men ola oladigan joyga yurgizadi.
+
+Yechim:
+O'yinning bu tomoni biroz mashq talab qiladi. Boshida taklif qilingan donani olmang. Aksincha, farzandingizga ularning donasi olinishi mumkinligini ayting.
+
+Farzandingizga donasini qanday olishingiz mumkinligini ko'rsatganingizga ishonch hosil qiling. Ba'zan farzandingizni donalariga hujum qilinayotganini va olinishi mumkinligini sezishga o'rgatish uchun shu yetarli.
+
+Agar ular donalarini xavf ostiga qo'yishda davom etsalar, donalari olinishi mumkinligini sezgunlariga qadar sizning donalaringiz bora oladigan barcha kataklarga ishora qilishlarini so'rang. Tajribali shaxmatchi barcha donalar yura oladigan barcha katakleryi juda tez ko'radi, lekin yangi boshlovchi uchun bu ko'nikma vaqt olishi mumkin.
+
+Hujum qilingan donani qo'llab-quvvatlash usullarini taklif qilish ham yaxshi fikr.
+
+Siz vaqti-vaqti bilan donani olib, ularga donalari olinishi mumkinligini ko'rsatishingiz ham mumkin, agar ular ehtiyot bo'lmasalar. Olib, keyin yurishni qaytarib olishga ruxsat bering.
+
+Muammo:
+Farzandim mening yurishlarimga qaramasdan yurish qiladi.
+
+Yechim:
+Bunga e'tibor bering, chunki bu yangi boshlovchilar orasida keng tarqalgan odat. Ular o'z yurishlari va g'oyalariga shunchalik kirishib ketishadiki, boshqa o'yinchining yurishlariga qarashni unutishadi.
+
+Agar farzandingizning ko'zlari sizning yurishingizni kuzatmayotganini ko'rsangiz, ulardan so'rang: "Mening oxirgi yurishim nima edi?" Agar ular sizning yurishingizga e'tibor bermagan bo'lsa, bu ularni biroz hayratga solishi mumkin.
+
+Ularga yurishingizni ko'rsating. Agar siz ularning donalaridan biriga hujum qilayotgan bo'lsangiz, boshqa o'yinchi nima qilayotganini ko'rishning muhimligini ko'rsatib aytishingiz mumkin.
+
+Muammo:
+Farzandim doimiy yutqazadi va asabiylashmoqda.
+
+Yechim:
+Bolalar o'yinlarda ham yutganda, ham yutqazganda ko'proq rivojlanadi. Agar ularga "yutish"ga haddan tashqari ko'p yordam berilsa, o'yindagi haqiqiy qiyinchiliklar haqida noto'g'ri tasavvur paydo bo'ladi.
+
+Agar ular tez, yomon va tez-tez yutqazsalar, asabiylashishi yoki o'yinni o'ynamaslikka qaror qilishi mumkin.
+
+O'rgatayotganda yutish va yutqazishni muvozanatlash tavsiya etiladi.
+
+Muammo:
+Farzandim yutqazganida boshqa o'yinchiga g'azablanadi.
+
+Yechim:
+Farzandingizga yaxshi sportchi bo'lishni o'rgatish uchun imkoniyatdan foydalaning. Shaxmatchilar juda yaxshi odob-axloqqa ega bo'lishlari kerak.
+
+Ularga yutishlaridan yoki yutqazishlaridan qat'i nazar, boshqa o'yinchining qo'lini siqib, "Yaxshi o'yin bo'ldi" deyishni o'rgating. Har bir o'yindan keyin ular bilan buni qilish odatiga kirishing.
+
+Shuningdek, agar ular sizni yutsa, hech qachon xafa bo'lmasligingizga ishonch hosil qilishni xohlaysiz. Farzandingiz sizni lochin kabi kuzatadi va sizning xulq-atvoringiz va munosabatingizni nusxalaydi.
+
+Muammo:
+Farzandim buni zerikarli deb o'ylaydi va davom etishni xohlaydi.
+
+Yechim:
+Agar ular sizga donalarga hujum qilish, ularni himoya qilish va xavfdan chiqish mumkinligini ko'rsatgan bo'lsalar, davom etishlari mumkin. Agar bu elementlarni o'zlashtirganlari bo'lsa, ularni bu mini-o'yinni o'ynashda ushlab turmang.
+
+Biroq, agar ular sizga bu fikrlarni ko'rsata olmasa, bir necha narsa bo'layotgan bo'lishi mumkin.
+
+Agar siz ularga juda ko'p yutishga imkon bersangiz va ular haqiqatan ham narsalarni o'zlari aniqlamayotgan bo'lsa, ular zerikishi mumkin. Ichkarida ular haqiqatan ham yutmayotganlarini bilishadi.
+
+Vaqti-vaqti bilan ularga to'g'ri yurishlarni ko'rsatish yaxshi, lekin ularga o'z g'oyalarini sinab ko'rishga va o'zlari yurish qilishga ruxsat bering. Ularni narsalarni sinab ko'rishga rag'batlantiring. Ularga xato qilishga va ulardan saboq olishga ruxsat bering.
+
+Agar ular donalarni yurgizishda qiynalayotgan bo'lsa va endi siz strategiyani tanishtirmoqchi bo'lsangiz, ular "zerikishi" mumkin. Bu shunchaki siz boshqa boblarni juda tez o'tganingizni va biroz takrorlash kerakligini anglatadi. Bu mini-o'yinni o'ynashdan oldin ko'p hollarda donalarni to'g'ri yurgiza olishlariga ishonch hosil qiling.
+
+Muammo:
+Farzandim hali ham vaqti-vaqti bilan donalarni noto'g'ri yurgizadi.
+
+Yechim:
+Bu normal va kutilgan narsa. Bu mini-o'yinni bir muddat o'ynashingiz kerak bo'lishining sabablaridan biri shundaki, bu ikki dona ko'pincha aralashtiriladi. Ular harakatlarni ko'p hollarda to'g'ri bajarganlarida, mashq to'g'ri harakatlarni mustahkamlaydi.
+
+Agar ular ko'p xato qilayotgan bo'lsa, dona yurishlarini tezkor ko'rib chiqish yaxshi fikr. Shunchaki donalardan birini oling va uni ko'rib chiqing, keyin boshqasini oling va harakatlarni qaytadan ko'rib chiqing. Barcha bosqichlarni qilishingiz shart emas, faqat asosiy nuqtalarni qaytadan ko'ring.
+
+Muammo:
+Farzandim keyingi bobga o'tishni xohlamaydi. U bu mini-o'yinni juda yaxshi ko'radi!
+
+Yechim:
+Ularga bu mini-o'yinni bir muddat o'ynashga ruxsat bering. Ular undan ko'p narsa o'rganadi. Agar siz ularning davom etishlarini xohlasangiz, ularga keyingi bo'limda taxtadagi eng kuchli dona - farzin haqida o'rganishlarini ayting. Ular qiziqishi mumkin.

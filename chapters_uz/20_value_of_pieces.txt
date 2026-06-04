@@ -1,0 +1,128 @@
+Shaxmatda, agar boshqa o'yinchidan ko'proq donaga ega bo'lsangiz, katta ustunlikka erishishingiz mumkin. Bu yutishni osonlashtiradi.
+
+Qadam 1: Mini-o'yin: Kimda ko'proq?
+
+Birinchi qadam - farzandingizga kimda ko'proq dona borligini aniqlashga yordam berish.
+
+Agar ko'p donasi bo'lmagan pozitsiyalardan boshlasangiz, bola kim yutayotganini aniqlashi ancha oson.
+
+Mana bir misol:
+
+Bolalar instinktiv ravishda boshqa o'yinchidan ko'proq donaga ega bo'lish yaxshiroq ekanligini bilishadi. Bundan tashqari, dona olish qiziqarli!
+-Laura
+
+Minimal miqdordagi matematika bilan shaxmat o'rgating. Donalarni solishtirish batafsil matematik hisob-kitoblardan ko'ra yaxshiroq. Bu yerda farzandingiz Qorada Oqdan bitta ko'p tura borligini ko'rishi mumkin. Boshqa donalar bir xil. To'g'ridan-to'g'ri kuzatishni keng matematik hisob o'rniga ishlating.
+-Bill
+
+[Diagramma 20.1]
+
+Shunga o'xshash ko'plab pozitsiyalar joylashtiring. Siz taxtada ko'proq donalari bo'lgan pozitsiyalar ham joylashtirishingiz mumkin, masalan:
+
+Odatda farzandingizga taxtadagi donalarni sanashni o'rgatish eng yaxshi, chunki bu ularni pozitsiyaga qarashga o'rgatadi. Biroq, ular boshlaganlarida, o'yinning dastlabki bosqichlarida taxtadan olingan donalarni sezish ancha oson.
+-Laura va Bill
+
+[Diagramma 20.2]
+
+Bu yerda Qoraning fili etishmayapti.
+
+Bu mini-o'yinda bir tomon har doim qo'shimcha dona yoki piyodaga ega bo'lishiga ishonch hosil qiling. Hozircha nisbiy qiymatlar bilan shug'ullanmang (masalan bir tomon fil uchun tura almashgan paytda).
+
+Qadam 2: Har bir donaning qiymati shuncha
+
+Bir donani boshqasiga almashish kerakligini bilish uchun, ularni qanday solishtirishni bilishingiz kerak.
+
+Kattaroq bolalar uchun siz dunyo bo'ylab ko'plab o'yinchilar foydalanadigan ball tizimidan foydalanishingiz mumkin. Kichikroq bolalar uchun matematikadan butunlay qochish kerak. Qo'shishni o'rgatishga urinmang. Bu darslar faqat shaxmatga qaratilishi kerak.
+
+2a. Qo'shish bilan qulay bo'lgan kattaroq bolalar uchun: Farzandingizga har bir donaning ma'lum qiymati borligini tushuntiring. Shaxmatda biz ularning ma'lum ball qiymatiga ega ekanligini aytamiz.
+
+Piyodadan boshlang. Ularga piyoda bir ball qimmatligini ayting.
+
+Endi fil va otni chiqaring. Ularning har biri uch ball qimmatligini tushuntiring.
+
+Farzandingizdan fil qiymatiga yetish uchun nechta piyoda kerakligini ko'rsatishlarini so'rang. Ular fikrni ko'rsatish uchun haqiqatan ham uchta piyoda chiqarishlariga ishonch hosil qiling.
+
+Endi turni chiqaring va uning besh ball qimmatligini ayting.
+
+Turli piyodalardan foydalanib, farzandingizdan tura qiymatiga yetish uchun nechta piyoda kerakligini ko'rsatishlarini so'rang. Uchta piyoda bilan beshni solishtirishlarini so'rang.
+
+Farzandingizga agar Oqda qora tura bo'lsa va Qorada oq fil va ikkita piyoda bo'lsa, bu bir xil ball qiymati bo'lishini ko'rsating.
+
+Keyin farzinni chiqaring va uning to'qqiz ball qimmatligini tushuntiring.
+
+Farzandingizga farzin qiymatiga teng keladigan donalarning turli kombinatsiyalarini ko'rsating.
+
+Nihoyat, farzandingizga shoh o'yin qiymatiga ega ekanligini ayting. Siz boshqa qancha ball yutganingiz muhim emas. Agar mat qilinsangiz, o'yin tugaydi.
+
+2b. Kichikroq bolalar uchun: Agar farzandingiz matematika (qo'shish va ayirish) bilan qulay bo'lmasa, ularga ball tizimi haqida gapiarmang. Buning o'rniga, ularga qaysi donalar boshqalardan qimmatroq ekanligini ko'rsating. Ko'plab misollar bering.
+
+Masalan, ulardan piyoda yoki filning qaysi birini ko'proq xohlashlarini so'rang.
+
+Ba'zi donalarni guruhlang. Ularga uch piyoda guruhi taxminan bitta fil kuchiga ega ekanligini ko'rsating.
+
+Ularga otni filga yoki filni otga almashish odatda teng ekanligini ko'rsating.
+
+Buni ular bilan muhokama qiling. Piyoda farzinga aylanishi mumkin bo'lsa-da, o'yin boshida piyoda unchalik kuchli emas.
+
+Ularga fil piyodadan qancha yaxshiroq ekanligini ko'rsating. U ancha ko'proq ish qila oladi, ko'proq maydon qoplashi, boshqa donalarga yordam berishi mumkin va h.k.
+
+Shuningdek, otni piyoda bilan solishtiring va qiymatlarini muhokama qiling. Ot piyodadan yaxshiroqmi?
+
+Eslatma: Ba'zi odamlar filni otdan biroz yuqoriroq baholaydi, lekin bu farq bu bosqichda muhim emas. Narsalarni oddiy saqlash ancha muhimroq.
+
+Endi farzandingizga tura fil yoki otdan qimmatroq ekanligini eslatib qo'ying. Siz buni avvalroq bu kitobda ko'rib chiqqansiz (8-bob "Hujum va himoya"ning 8-qadamida), lekin yana eslatish yaxshi.
+
+Ikkita oq piyoda, oq ot va qora turani chiqaring. Ularga bu holda oq donalar qiymati qora donalar qiymatiga taxminan teng ekanligini ayting. Ularga tura fil yoki otdan taxminan ikki piyodaga yaxshiroq ekanligini tushuntiring.
+
+Endi oq fil, oq ot va qora turani chiqaring. Ularga ikki oq dona birgalikda qora turadan qimmatroq ekanligini ayting.
+
+Farzandingiz allaqachon farzin tura yoki fildan qimmatroq ekanligini biladi. Siz ularga farzin hatto fil va turaning birgalikdagi qiymatidan ham biroz yaxshiroq ekanligini aytishingiz mumkin.
+
+Agar siz ularga ko'plab misollar bersangiz, qayta-qayta, ular matematikasiz donalarning qiymatlari haqida o'rganishadi.
+
+Qadam 3: Mini-o'yin: Bu yaxshi almashish mi?
+
+Farzandingizdan turli donalar kombinatsiyalarini ko'rsatib so'rang.
+
+Teng almashishlar haqida so'rashdan boshlang. Masalan so'rashingiz mumkin: "Oq filni qora filga almashish yaxshimi?"
+
+Keyin so'rang: "Oq turani qora otga almashish-chi?"
+
+2-qadamda eslatilgan barcha kombinatsiyalar haqida ulardan so'rang.
+
+Qadam 4: Ballar muhim bo'lmagan vaqtlar ham bor
+
+Ballar muhim bo'lmagan vaqtlar ham borligini tushuntirish yaxshi fikr.
+
+Ball tizimi yaxshi umumiy qoida, lekin bu qoidalarga ko'plab istisnolar bor.
+
+Bu pozitsiyani joylashtiring:
+
+[Diagramma 20.3]
+
+Bu yerda Oq piyodani ko'tarish arafasida. Qorada ot bor. Farzandingiz bilan qaysi tomonni o'ynashni afzal ko'rishlarini muhokama qiling.
+
+Shuningdek, bitta dona taxtada joylashganligi sababli odatdagidan qimmatroq bo'ladigan boshqa vaqtlar ham bor. Bu istisnolarni tanib olish tajriba bilan keladi. Istisnolar bu yerda unchalik muhim emas, lekin qisqacha aytib o'tish kerak.
+
+Muammolar va yechimlar
+
+Muammo:
+Men farzandimga ball tizimini o'rgatdim, lekin ular matematikaga chalg'imoqda.
+
+Yechim:
+Ball qiymatlarini suratdan olib tashlashga harakat qiling. Buning o'rniga nisbiy qiymatlar haqida gaplashing. Fil piyodadan yaxshiroq va tura fil yoki otdan yaxshiroq ekanligini ta'kidlang.
+
+Ular qo'shish bilan qulay bo'lganlarida, ball tizimini qayta kiritishingiz mumkin. Biroq bu hozir unchalik muhim emas. O'ynaganlarida, ular turli pozitsiyalarda nisbiy dona qiymati tushunchalarini oshiradilar.
+
+Muammo:
+Farzandim taxtadan olingan donalarning ballarini sanashga ko'p vaqt sarflaydi.
+
+Yechim:
+Bu yosh bolaga ball tizimini o'rgatishning xavfi. Ularni taxtadan tashqaridagi donalarga emas, taxtadagi donalarga e'tibor qaratishga rag'batlantirish yaxshi.
+
+Muammo:
+Farzandim ma'lum almashishlar bilan qiynaladi.
+
+Yechim:
+Asosiylariga e'tibor qarating. Farzin turadan qimmatroqmi? Piyoda filga qanday solishtiriladi?
+
+Bu bosqichda ular uchun ikki tura farzindan biroz yaxshiroq ekanligini bilish unchalik muhim emas. Bu nozik farq ularning o'yinlariga bu darajada ta'sir qilmaydi.
