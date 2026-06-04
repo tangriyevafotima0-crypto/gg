@@ -48,7 +48,7 @@ Qadam 2: Endi siz taxtani joylashtiring
 
 Barcha donalarni taxta yoniga yana qo'ying va farzandingizdan taxtani o'zlari joylashtirishlarini so'rang. Kerak bo'lganda yordam bering. Keng tarqalgan xatolar:
 
-- Otlar va fillarning kataklerini almashtirish.
+- Otlar va fillarning kataklarini almashtirish.
 - Farzinni noto'g'ri katakka qo'yish.
 - Taxtani noto'g'ri yo'naltirib, pastki o'ng burchak to'q bo'lishi.
 

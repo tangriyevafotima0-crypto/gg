@@ -231,7 +231,7 @@ Muammo:
 Farzandim to'sish tushunchasini tushunmaydi.
 
 Yechim:
-Ularga "to'sish" shunchaki yo'lga biror narsa qo'yish ekanligini aytishingiz mumkin. Ularga ko'plab real hayotiy misollar ko'rsating. Masalan, ularning oldidagi stolga biror narsa qo'yishingiz va keyin qo'lingiz bilan to'sishingiz mumkin. Ularga qo'lingiz yo'lda turibdi, shuning uchun ular ob'ektning bir qismini ko'ra olmasligini ko'rishga erishtiing.
+Ularga "to'sish" shunchaki yo'lga biror narsa qo'yish ekanligini aytishingiz mumkin. Ularga ko'plab real hayotiy misollar ko'rsating. Masalan, ularning oldidagi stolga biror narsa qo'yishingiz va keyin qo'lingiz bilan to'sishingiz mumkin. Ularga qo'lingiz yo'lda turibdi, shuning uchun ular ob'ektning bir qismini ko'ra olmasligini ko'rishga erishing.
 
 Ularga shaxmatda ko'plab misollar ko'rsating. Farzandingizdan buni nima deb atashlarini so'rang. Bu nuqtada ular bilan maslahatlashing. Agar ular buni "yo'lga biror narsa qo'yish" deb atashni xohlasalar, yaxshi. Bu yerdagi yagona muhim narsa - ular bu donalarini himoya qilish usuli ekanligini haqiqatan ham tushunishlari.
 

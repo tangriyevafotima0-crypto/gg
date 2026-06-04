@@ -255,7 +255,7 @@ Quyidagi pozitsiyani joylashtiring:
 
 Buni yaxshi o'yin qiladigan narsa shundaki, bir tomon juda ko'p piyodalar oladi.
 
-Men ba'zan bu piyodalarni chumolilarqa o'xshataman. Bitta chumoli odatda unchalik qo'rqinchli emas, lekin armiya bo'lishi mumkin!
+Men ba'zan bu piyodalarni chumolilarga o'xshataman. Bitta chumoli odatda unchalik qo'rqinchli emas, lekin armiya bo'lishi mumkin!
 
 Bu yerda farzin yutishi kerak, lekin bu oson emas. Farzin boshqa piyodalarning taxtada juda uzoqqa borishiga yo'l qo'ymasdan, imkon qadar ko'proq piyodalarni oladi.
 -Bill
@@ -268,7 +268,7 @@ Farzandingizdan 9 piyoda yoki farzinni xohlashlarini so'rang. Ular xohlagan tomo
 
 Farzin birinchi yuradi.
 
-Agar piyodaalar tomoni piyodani farzinga ko'tarib, kamida bir navbat ushlab qolsa (ya'ni darhol yo'qotmasa), o'sha tomon yutadi. Aks holda, agar farzin barcha piyodalarni olsa, o'sha tomon yutadi.
+Agar piyodalar tomoni piyodani farzinga ko'tarib, kamida bir navbat ushlab qolsa (ya'ni darhol yo'qotmasa), o'sha tomon yutadi. Aks holda, agar farzin barcha piyodalarni olsa, o'sha tomon yutadi.
 
 Bu kuchli kichik mashq. Farzandingiz bu yerda o'rganishi mumkin bo'lgan juda ko'p strategiya bor.
 

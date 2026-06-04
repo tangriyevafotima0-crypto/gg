@@ -138,7 +138,7 @@ Agar ular fil va tura yurishlarini o'zlashtirganlari bo'lsa, lekin farzinni o'zl
 
 Farzandingiz bilan farzin bora oladigan barcha kataklarga ishora qilish uchun birgalikda ishlang. Siz ba'zilariga ishora qiling va ular ba'zilariga ishora qilsinlar.
 
-Buning yana bir variatsiyasi - farzin bora oladigan barcha kataklarga taxtaga donalar qo'yish. Bu shunga o'xshash ko'rinadi, bu markazdagi qora farzin bora oladigan barcha katakleryi ko'rsatadi:
+Buning yana bir variatsiyasi - farzin bora oladigan barcha kataklarga taxtaga donalar qo'yish. Bu shunga o'xshash ko'rinadi, bu markazdagi qora farzin bora oladigan barcha kataklarni ko'rsatadi:
 
 [Diagramma 9.11]
 
@@ -170,7 +170,7 @@ Agar ular tura harakatlarini o'tkazib yuborsa, ulardan tura bora oladigan barcha
 
 Agar ular fillar va turalar bilan qiynalsa, faqat o'sha ikki dona bilan mini-o'yinga qayting. Buni juda tez o'tib ketmaslik muhim.
 
-O'sha mini-o'yinni o'ynaganingizda, donani tanlang va farzandingizdan bitta dona bora oladigan barcha kataklarga ishora qilishlarini so'rang. Keyin yana bir necha yurish o'ynang va boshqa dona haqida so'rang. Agar ular katakleryi o'tkazib yuborsalar, ularga barchasini ko'rsatishga yordam bering.
+O'sha mini-o'yinni o'ynaganingizda, donani tanlang va farzandingizdan bitta dona bora oladigan barcha kataklarga ishora qilishlarini so'rang. Keyin yana bir necha yurish o'ynang va boshqa dona haqida so'rang. Agar ular kataklarni o'tkazib yuborsalar, ularga barchasini ko'rsatishga yordam bering.
 
 Ular o'sha mini-o'yin bilan ishonchli bo'lgandan keyin, taxtadagi farzinlar bilan bu mini-o'yinga qayting.
 

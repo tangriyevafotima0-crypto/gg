@@ -84,9 +84,9 @@ Qadam 2: Endi to'siqni kattaroq qilaylik
 
 Endi quyidagi pozitsiyani joylashtiring:
 
-Katakleryi belgilash
+Kataklarni belgilash
 
-Bolaga ular allaqachon tanlagan katakleryi eslatish ko'pincha yordam beradi, barmoqlaringizni ular topgan kataklarda ushlab. Shunday qilib ular topish uchun nechta katak qolganini bilishadi.
+Bolaga ular allaqachon tanlagan kataklarni eslatish ko'pincha yordam beradi, barmoqlaringizni ular topgan kataklarda ushlab. Shunday qilib ular topish uchun nechta katak qolganini bilishadi.
 -Bill
 
 Vaqti-vaqti bilan ularga otni boshqa rang katakka sakratishni eslatishingiz kerak bo'ladi. Bu ma'lumot unutilishi mumkin, lekin ot yurishini o'rganishda foydali vosita.
@@ -112,7 +112,7 @@ Qadam 3: Endi faqat otni sakrating
 
 Endi ular bu harakat bilan tanish bo'lganidan keyin, otni oxirgi mashqdagi pozitsiyada boshlang, lekin "to'siq"ni olib tashlang.
 
-Farzandingizdan otni borishi mumkin bo'lgan kataklerdan biriga sakratishlarini so'rang. Ular bu pozitsiya bilan tanish bo'lgani uchun, otni to'rtta to'g'ri katakdan biriga osonlik bilan sakratishi kerak.
+Farzandingizdan otni borishi mumkin bo'lgan kataklardan biriga sakratishlarini so'rang. Ular bu pozitsiya bilan tanish bo'lgani uchun, otni to'rtta to'g'ri katakdan biriga osonlik bilan sakratishi kerak.
 
 Endi farzandingizdan otni yana sakratishlarini so'rang (o'sha yangi joydan). Ular bir necha lahza o'ylashlari mumkin. Bu normal va kutilgan narsa.
 

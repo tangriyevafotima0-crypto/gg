@@ -114,7 +114,7 @@ Endi shohni burchakda, shoh ostida pozitsiya joylashtiring. Fil, farzin yoki tur
 
 Agar ular bu bilan qiynalsa, ulardan shoh nima degani aytishlarini so'rang. So'zni tushunishlariga ishonch hosil qiling. Kerak bo'lsa "Bu shoh mi?" mini-o'yinini biroz ko'proq o'ynang. Keyin yana ulardan shohni shohdan chiqarishlarini so'rang.
 
-Ular shoh bora oladigan barcha katakleryi ko'rsatishlariga ishonch hosil qiling.
+Ular shoh bora oladigan barcha kataklarni ko'rsatishlariga ishonch hosil qiling.
 
 Agar ular o'sha pozitsiyada biron qiyinchilikka duch kelsalar, boshqa burchakda shunga o'xshash pozitsiya joylashtiring va ulardan shohni shohdan chiqarishlarini so'rang.
 
@@ -126,11 +126,11 @@ Endi shohni taxtaning chetida biror joyga qo'ying va shoh ostiga qo'ying, masala
 
 Farzandingizdan shoh bora oladigan barcha kataklarga ishora qilishlarini so'rang.
 
-Bu biroz qiyinroq, chunki shoh xavfsiz yurishi mumkin bo'lgan ko'proq joylar bor. Boshida ularga katakleryi topishda yordam berish yaxshi.
+Bu biroz qiyinroq, chunki shoh xavfsiz yurishi mumkin bo'lgan ko'proq joylar bor. Boshida ularga kataklarni topishda yordam berish yaxshi.
 
 Shohni taxtaning markaziga qo'yishga o'tishdan oldin, shoh taxtaning chetida bo'lgan bir nechta pozitsiya joylashtiring, masalan:
 
-Bu qiyinroq, chunki shoh uchun borishi mumkin bo'lgan ko'proq joylar bor. Farzandingiz shoh bora oladigan barcha katakleryi aniqlay olganida, keyingi mini-o'yinga o'ting.
+Bu qiyinroq, chunki shoh uchun borishi mumkin bo'lgan ko'proq joylar bor. Farzandingiz shoh bora oladigan barcha kataklarni aniqlay olganida, keyingi mini-o'yinga o'ting.
 
 [Diagramma 11.6]
 
@@ -204,8 +204,8 @@ Biz "Shoh bu yerga borishi mumkinmi?" mini-o'yinidamiz va farzandim zerikmoqda.
 Yechim:
 Agar ular javoblarni to'g'ri olayotgan bo'lsa, mini-o'yinni tezlashtiring. Uni juda tez qiling va bu ularning qiziqishini jalb qiladi.
 
-Agar ular javoblarni noto'g'ri olayotgan bo'lsa, bu ular shoh haqida biror narsani tushunmasligi yoki oldingi mini-o'yinlar bilan ko'proq ishlash kerakligini anglatadi. Agar ular dona bilan shohga shoh berish uchun ishlata olsalar, ular bilan shoh bora oladigan va bora olmaydigan katakleryi aniqlashda ishlang.
+Agar ular javoblarni noto'g'ri olayotgan bo'lsa, bu ular shoh haqida biror narsani tushunmasligi yoki oldingi mini-o'yinlar bilan ko'proq ishlash kerakligini anglatadi. Agar ular dona bilan shohga shoh berish uchun ishlata olsalar, ular bilan shoh bora oladigan va bora olmaydigan kataklarni aniqlashda ishlang.
 
 Ularni juda uzoq o'tirib, shoh qayerga borishi mumkinligi haqida "o'ylab" ko'rishlariga ruxsat bermang. Agar ular shunday qilayotgan bo'lsa, bu mini-o'yin haqida biror narsani tushunmasliklari ehtimoli katta. Ularga "Shoh bu yerga borishi mumkinmi?" mini-o'yinida yordam bering va keyin oldingi mini-o'yinga qayting. Ular o'sha mini-o'yinlarni to'g'ri va tez bajara olishlariga ishonch hosil qiling.
 
-Agar farzandingiz shoh bora oladigan katakleryi to'g'ri aniqlay olmasa, shaxmat qiziqarli o'yin bo'lmaydi. Bu ular o'zlashtirishi kerak bo'lgan muhim qadam!
+Agar farzandingiz shoh bora oladigan kataklarni to'g'ri aniqlay olmasa, shaxmat qiziqarli o'yin bo'lmaydi. Bu ular o'zlashtirishi kerak bo'lgan muhim qadam!

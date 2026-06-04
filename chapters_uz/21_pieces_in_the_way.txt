@@ -44,7 +44,7 @@ Mana ba'zi misollar:
 
 Ko'plab misollar joylashtiring va farzandingizdan shoh borishi mumkin bo'lgan kataklarga ishora qilishlarini so'rang (21.7-diagrammada shoh o'z donalari tomonidan qamab qo'yilgan).
 
-Siz bu yerda faqat farzandingizni shoh borishi mumkin bo'lgan katakleryi sezishga o'rgatmoqchisiz. Ular buni aniq va juda tez bajara olganlarida, davom eting.
+Siz bu yerda faqat farzandingizni shoh borishi mumkin bo'lgan kataklarni sezishga o'rgatmoqchisiz. Ular buni aniq va juda tez bajara olganlarida, davom eting.
 
 Qadam 4: Qaysi dona yurishi mumkin?
 
@@ -68,9 +68,9 @@ Keling, shoh oldidagi piyodani yurgizishga qaraylik:
 
 [Diagramma 21.9]
 
-Farzandingizdan fil hozir yurishi mumkin bo'lgan barcha kataklarga ishora qilishlarini so'rang. Ularga bu dona qanday faol bo'lishi mumkinligini ko'rishga erishtiing.
+Farzandingizdan fil hozir yurishi mumkin bo'lgan barcha kataklarga ishora qilishlarini so'rang. Ularga bu dona qanday faol bo'lishi mumkinligini ko'rishga erishing.
 
-Keyin farzandingizdan hozir yurishi mumkin bo'lgan yana bir dona topishlarini so'rang. Ularga farzinning hozir borishi mumkin bo'lgan joylari borligini ko'rishga erishtiing.
+Keyin farzandingizdan hozir yurishi mumkin bo'lgan yana bir dona topishlarini so'rang. Ularga farzinning hozir borishi mumkin bo'lgan joylari borligini ko'rishga erishing.
 
 Garchi shoh yurishi mumkin bo'lsa-da, farzandingizga ehtimol qal'a qilishni xohlashlarini eslatib qo'ying, shuning uchun shohni yurgizmaslik kerak.
 

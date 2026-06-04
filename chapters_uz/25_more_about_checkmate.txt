@@ -31,14 +31,14 @@ Agar javob yo'q bo'lsa, bu yerda to'xtang. Esda tutingki, shoh bo'lmasa mat emas
 Agar hujum qilayotgan donani olish mumkin bo'lsa, bu mat emas.
 
 3) Shoh shohdan chiqishi mumkinmi?
-Bu qadam uchun shoh atrofidagi barcha kataklerning aqliy ro'yxatini ko'rib chiqishingiz kerak. Agar shoh hujum qilinmayotgan katakka yurishi mumkin bo'lsa, bu mat emas.
+Bu qadam uchun shoh atrofidagi barcha kataklarning aqliy ro'yxatini ko'rib chiqishingiz kerak. Agar shoh hujum qilinmayotgan katakka yurishi mumkin bo'lsa, bu mat emas.
 
 4) To'sish mumkinmi?
 Agar shohni to'sish mumkin bo'lsa, bu mat emas. Yangi boshlovchi o'yinchilar ko'pincha buni e'tiborsiz qoldiradi.
 
 Bu nazorat ro'yxatining yagona maqsadi - pozitsiya mat yoki mat emasligini aniqlash.
 
-Farzandingiz nazorat ro'yxatini sizga takrorlashiga erishtiing. Bu oson bo'lishi kerak, chunki ular oldingi "Shohdan chiqish" bobidan shohdan chiqishning asosiy usullarini bilishadi.
+Farzandingiz nazorat ro'yxatini sizga takrorlashiga erishing. Bu oson bo'lishi kerak, chunki ular oldingi "Shohdan chiqish" bobidan shohdan chiqishning asosiy usullarini bilishadi.
 
 Qadam 2: Keling, nazorat ro'yxatini sinab ko'raylik
 
@@ -70,7 +70,7 @@ Mana ikkita misol:
 
 Matni fil bilan to'sish yechimi farzandingiz nazorat ro'yxatini ishlatmagan bo'lsa e'tiborsiz qoldirilishi mumkin. Oq fil uzoqda, bu ko'rishni qiyinlashtiradi.
 
-Bu yerda mat ular ko'rganga o'xshash, lekin shoh qochish kataklerining qoplanishi biroz boshqacha. Boshqa donalar qo'shilishi uni yangi qiyinchilikka aylantiradi. Farzandingiz bular matga xalal beradimi yoki yo'qligini aniqlashi kerak.
+Bu yerda mat ular ko'rganga o'xshash, lekin shoh qochish kataklarining qoplanishi biroz boshqacha. Boshqa donalar qo'shilishi uni yangi qiyinchilikka aylantiradi. Farzandingiz bular matga xalal beradimi yoki yo'qligini aniqlashi kerak.
 
 Farzandingizga shunga o'xshash ko'proq misollar ko'rsating, shoh hali burchakda, lekin murakkablashtirish uchun yangi donalar qo'shilgan.
 
@@ -80,7 +80,7 @@ Qadam 3: Mana yana bir turdagi mat
 
 Endi biz boshqa mat mavzusini ko'rsatamiz. Bu pozitsiyani joylashtiring:
 
-Bu yerda shoh burchakda emas. Farzandingizga ko'proq qochish katakleri borligini, shuning uchun shohni mat qilish qiyinroq ekanligini ko'rsatishni xohlaysiz.
+Bu yerda shoh burchakda emas. Farzandingizga ko'proq qochish kataklari borligini, shuning uchun shohni mat qilish qiyinroq ekanligini ko'rsatishni xohlaysiz.
 
 Farzandingiz bilan nazorat ro'yxatini ko'rib chiqib, bu mat ekanligini ko'rishlariga yordam bering. Farzandingizga bu ular o'yinlarda ko'radigan keng tarqalgan mat ekanligini ayting.
 
@@ -98,7 +98,7 @@ Farzandingizga shunga o'xshash boshqa matlarni ko'rsating. Mana ba'zi misollar:
 
 [Diagramma 25.9] [Diagramma 25.10]
 
-Har safar barcha katakleryi tekshirishingiz shart emas, lekin nazorat ro'yxatini bir necha marta ko'rib chiqish yaxshi. Bu tanish naqsh. Farzandingizga shunga o'xshash ko'plab misollar ko'rsating.
+Har safar barcha kataklarni tekshirishingiz shart emas, lekin nazorat ro'yxatini bir necha marta ko'rib chiqish yaxshi. Bu tanish naqsh. Farzandingizga shunga o'xshash ko'plab misollar ko'rsating.
 
 Qadam 4: Mini-o'yin: Nima uchun bu mat emas?
 
@@ -302,7 +302,7 @@ Bu ko'pincha ular nima bo'layotganini haqiqatan ham tushunmasliklari belgisi.
 
 Ulardan mat nima degani so'rang va siz uchun mat joylashtirishlarini so'rang. Agar buni qila olmasalar, 12-bob "Mat"ni farzandingiz bilan ko'rib chiqing.
 
-Agar ular mat joylashtira olsalar, ular joylashtirgam mat uchun ular bilan Mat nazorat ro'yxatini ko'rib chiqishlariga erishtiing. Keyin mat bo'lmagan bir nechta boshqa pozitsiyalarda Mat nazorat ro'yxatini ko'rib chiqing.
+Agar ular mat joylashtira olsalar, ular joylashtirgani mat uchun ular bilan Mat nazorat ro'yxatini ko'rib chiqishlariga erishing. Keyin mat bo'lmagan bir nechta boshqa pozitsiyalarda Mat nazorat ro'yxatini ko'rib chiqing.
 
 Agar nazorat ro'yxatining har bir fikrini batafsil muhokama qilsangiz, oldingi bosqichlarda biron muammo yoki chalkashlikni topishingiz kerak, ularga o'sha fikrlar bilan yordam berish uchun tegishli mashqlar qilish imkonini beradi.
 
@@ -328,11 +328,11 @@ Farzandim nazorat ro'yxatining 3-qadami bilan qiynaladi (shoh matdan chiqishi mu
 Yechim:
 Bu mat bor yoki yo'qligini aniqlashning hiyla qismi. Bu ko'nikma mashq talab qiladi va odatda vaqt o'tishi bilan rivojlanadi. Biroq, agar ular qiynalayotganini ko'rsangiz, jalb qilingan ko'nikmalarni ajratish uchun ba'zi mashqlar qilishingiz mumkin.
 
-Birinchi qadam - farzandingiz shoh elementini hisobga olmasdan, shoh yurishi mumkin bo'lgan katakleryi aniqlashiga ishonch hosil qilish. 21-bob "O'z donalaringiz yo'lda bo'lishi mumkin"dagi "Qadam 3: Shoh borishi mumkin bo'lgan kataklarga ishora qiling"ni ko'rib chiqing.
+Birinchi qadam - farzandingiz shoh elementini hisobga olmasdan, shoh yurishi mumkin bo'lgan kataklarni aniqlashiga ishonch hosil qilish. 21-bob "O'z donalaringiz yo'lda bo'lishi mumkin"dagi "Qadam 3: Shoh borishi mumkin bo'lgan kataklarga ishora qiling"ni ko'rib chiqing.
 
 Hozirgi bobdagi mini-o'yinlarga yordam beradigan misollar joylashtiring.
 
-Mana ba'zi misollar. Har bir pozitsiya uchun farzandingizdan shoh borishi mumkin bo'lgan kataklerga ishora qilishlarini so'rang:
+Mana ba'zi misollar. Har bir pozitsiya uchun farzandingizdan shoh borishi mumkin bo'lgan kataklarga ishora qilishlarini so'rang:
 
 [Diagramma 25.37] [Diagramma 25.38]
 
@@ -344,6 +344,6 @@ Uchinchi qadam - 11-bob "Shoh"dagi "Qadam 6: Shoh bu yerga borishi mumkinmi?"ni 
 
 Masalan, bu pozitsiyani joylashtirishingiz mumkin:
 
-Farzandingizdan shoh atrofidagi barcha katakler haqida so'rang. Qora piyodalar egallagan katakleryi ham kiritishingiz mumkin, bu katakler Qoraning o'z donalari tomonidan olib qo'yilganligini ta'kidlash uchun. Farzandingiz surilgan piyoda tomonidan yaratilgan qochish katagini sezishlariga ishonch hosil qiling.
+Farzandingizdan shoh atrofidagi barcha kataklar haqida so'rang. Qora piyodalar egallagan kataklarni ham kiritishingiz mumkin, bu kataklar Qoraning o'z donalari tomonidan olib qo'yilganligini ta'kidlash uchun. Farzandingiz surilgan piyoda tomonidan yaratilgan qochish katagini sezishlariga ishonch hosil qiling.
 
 [Diagramma 25.39]

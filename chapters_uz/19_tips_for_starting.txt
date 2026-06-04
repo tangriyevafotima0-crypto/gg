@@ -48,7 +48,7 @@ Endi otni burchakda joylashtiring. Farzandingizdan ot hozir qayerga yurishi mumk
 
 [Diagramma 19.4]
 
-Farzandingiz bilan ot uchun taxtani nazorat qilishi uchun qaysi joy yaxshiroq ekanligini muhokama qiling. Ularga markazdagi ot ko'proq ish qila olishi va ko'proq katakleryi nazorat qilishini ko'rishga yordam bering.
+Farzandingiz bilan ot uchun taxtani nazorat qilishi uchun qaysi joy yaxshiroq ekanligini muhokama qiling. Ularga markazdagi ot ko'proq ish qila olishi va ko'proq kataklarni nazorat qilishini ko'rishga yordam bering.
 
 Eslatma: Bu farzandingizga ot bo'yicha biroz eslatma ham beradi, bu o'zlashtirilishi qiyin bo'lishi mumkin bo'lgan dona. Agar ular ot yurishi bilan qiynalsa, ot va to'siq mashqiga qayting. Bu ularga esga tushadi.
 
@@ -103,7 +103,7 @@ Qadam 6: Mini-o'yin: Boshqa ot va filni chiqaring
 
 Taxtani boshlang'ich pozitsiyada joylashtiring. Endi ulardan yetti yurish ichida otlar va fillarini chiqarib qal'a qilish uchun ishlashlarini so'rang. Yakuniy pozitsiya shunday ko'rinishi mumkin:
 
-Farzandingizdan hozir nazorat qilayotgan barcha markaz katakleryi ko'rsatishlarini so'rang.
+Farzandingizdan hozir nazorat qilayotgan barcha markaz kataklarni ko'rsatishlarini so'rang.
 
 Keyin taxtani boshlang'ich pozitsiyada joylashtiring va farzandingizdan Qora uchun shunga o'xshash yurishlar qilishlarini so'rang. Ularni taxtaning ikkala tomonida ham o'ynashga o'rgatish yaxshi.
 
@@ -134,7 +134,7 @@ Garchi bu qoida zarur bo'lmagan vaqtlar bo'lsa-da, yangi boshlovchi uchun bu ajo
 
 Ko'plab ajoyib variantlar
 
-Ko'plab tanlovlar bor. Bu yerdagi yagona muhim narsa - farzandingizga markaz katakleryi nazorat qiladigan yurishlar qilishga yordam berishdir.
+Ko'plab tanlovlar bor. Bu yerdagi yagona muhim narsa - farzandingizga markaz kataklarni nazorat qiladigan yurishlar qilishga yordam berishdir.
 -Laura va Bill
 
 [Diagramma 19.12]
@@ -145,7 +145,7 @@ Farzandingiz bilan o'yin o'ynang, donalar markaz tomon chiqarilishi kerakligini 
 
 O'yinni tugatishingiz shart emas. Siz haqiqatan ham ko'rmoqchi bo'lgan narsa - ular donalarni chiqara olishadimi, shunda ular markaz tomon yo'naltirilgan.
 
-Vaqti-vaqti bilan farzandingizdan donalari nazorat qilayotgan markaz kataklerga ishora qilishlarini so'rang.
+Vaqti-vaqti bilan farzandingizdan donalari nazorat qilayotgan markaz kataklarga ishora qilishlarini so'rang.
 
 Sizning yurishlaringiz ham markazni nazorat qilishiga ishonch hosil qiling. Ular sizning donalaringizni qayerga yurgizishingizni juda diqqat bilan kuzatishadi!
 
@@ -212,7 +212,7 @@ Ko'rib turganingizdek, bu yaxshi reja emas. Qora shunchaki oq turani olishi mumk
 
 [Diagramma 19.14]
 
-Qoraning navbati. Farzandingizdan so'rang: "Qora uchun yaxshi yurish nima?" Agar topishda qiynalsalar, Qoraning och katakli fili bora oladigan barcha katakleryi aytishlarini so'rang.
+Qoraning navbati. Farzandingizdan so'rang: "Qora uchun yaxshi yurish nima?" Agar topishda qiynalsalar, Qoraning och katakli fili bora oladigan barcha kataklarni aytishlarini so'rang.
 
 Yangi boshlovchilar ko'pincha turni erta chiqarish yaxshi reja deb o'ylashadi, chunki u kuchli donani faollashtiradi. Muammo shundaki, bu tura uchun yaxshi joy emas. U ko'pincha darhol olinishi mumkin (bu pozitsiyadagi kabi), lekin uning harakati boshqa donalar chiqishi bilan ham to'siladi.
 
