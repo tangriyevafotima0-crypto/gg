@@ -1,0 +1,191 @@
+Qadam 1: Farzin shunday yuradi
+
+Taxtani farzinni taxtaning markaziga qo'yib joylashtiring:
+
+[Diagramma 9.1]
+
+1a. Farzandingizga qanday yurishini ayting: Farzandingizga farzin oldinga, orqaga, yon tomonlarga va diagonal bo'ylab yurishi mumkinligini ayting.
+
+1b. Men kataklarga ishora qilaman: Farzin bora oladigan barcha kataklarga ishora qiling.
+
+Farzin ham fil, ham tura kabi yurgani uchun, uni hozir o'rganish yaxshi dona. Barcha kataklarga ishora qilganingizda, farzandingizga farzin taxtadagi eng kuchli dona ekanligini ayting.
+
+1c. Men farzinni yurgizaman: Farzinni taxta atrofida yurgizing, uni barcha yo'nalishlarda yurgizganingizga ishonch hosil qilib. Masalan, farzinni uch katak yuqoriga, keyin diagonal ikki katak, bir katak pastga, yon tomonga to'rt katak, diagonal bo'ylab taxta bo'ylab va h.k. yurgizishingiz mumkin.
+
+Albatta, har bir yurishdan keyin donadan qo'lingizni olishni unutmang.
+
+Farzinni bir necha marta yurgizganingizdan keyin, yangi pozitsiyasidan bora oladigan barcha kataklarga tezda ishora qiling.
+
+[Diagramma 9.2]
+
+Qadam 2: Mini-o'yin: Men yurgizaman, sen yurgizasan
+
+Taxtaning markaziga bitta farzin qo'ying. Bitta farzindan foydalanib farzandingiz bilan navbatma-navbat yurgizing, oldinga va orqaga, oldinga va orqaga.
+
+Bu mini-o'yin farzandingiz uchun oson bo'lishi mumkin, chunki ular fil va tura bilan puxta mashq qilishgan. Ular farzinning asosiy harakatlari bilan tanish bo'lishadi. Shunga qaramay, ba'zi bolalar farzinni faqat yuqoriga va pastga (tura kabi) yurgizishadi yoki faqat diagonal bo'ylab (fil kabi) yurgizishadi, farzinning to'liq harakat doirasini unutib.
+
+Farzin bilan yurish qiling va ularni yurgizishga taklif qiling. Bu mini-o'yinning boshida faqat to'g'ri yurishlarni qidiring.
+
+Ular bajara oladigan sur'atda yurgizganingizga ishonch hosil qiling. Ular belgilagan tezlikka moslashing.
+
+Agar ular farzinni faqat tura kabi yurgizsa, farzin diagonal bo'ylab ham yurishi mumkinligini eslatib qo'ying. Ularni ba'zi diagonal yurishlar qilishga rag'batlantiring.
+
+Xuddi shunday, agar ular farzinni faqat diagonallarda yurgizsa, oldinga va orqaga hamda yon tomonlarga ham yurgizish mumkinligini eslatib qo'ying.
+
+Siz ular harakatlarini turlicha qilayotganini (taxta bo'ylab qisqaroq va uzunroq masofalarni ham) ko'rganingizda, yurishlaringizni tezlashtira boshlang. Ikkalangiz farzinni taxta atrofida qanchalik tez yurgiza olishingizni ko'ring.
+
+Qadam 3: Farzin har qayerga ham bora olmaydi
+
+Ba'zan bolalarga farzin har qayerga borishi mumkindek tuyulishi mumkin. U juda kuchli, lekin aniq chegaralari bor.
+
+Farzandingizga to'g'ri yurishlarni ko'rsatishdan boshlang, keyin noto'g'ri yurish qiling va "Farzin bu yerga bora olmaydi" deng.
+
+Mana noto'g'ri yurish misoli:
+
+[Diagramma 9.3]
+
+Farzandingizga farzin hali ham chiziqqa amal qilishi kerakligini ayting. 9.3-diagrammada u chiziqqa amal qilmayapti.
+
+Farzinning taxta bo'ylab yurishini ko'rsatadigan, lekin noto'g'ri bo'lgan boshqa misollar bering, masalan:
+
+Ularga ko'p to'g'ri yurishlar va bir nechta noto'g'ri yurishlar ko'rsating.
+
+[Diagramma 9.4]
+
+Qadam 4: Mini-o'yin: Farzin bu yerga borishi mumkinmi?
+
+Bu mini-o'yinda siz farzandingizning farzin qila oladigan va qila olmaydigan yurishlarni to'g'ri ko'rsatish qobiliyatini sinaysiz. Sekin boshlang, bir nechta to'g'ri yurishlar qilib.
+
+Farzinni oldinga, keyin yon tomonlarga va keyin orqaga yurgizing. Keyin diagonal yurish aralashtiring va ularning buni to'g'ri yurish deb o'ylashlarini ko'ring. Keyin noto'g'ri yurish aralashtiring, oldingi bosqichda muhokama qilganingiz.
+
+Farzandingizdan yurishlar haqida so'rashda davom eting, tezligingizni asta-sekin oshirib, savollaringizga to'g'ri javob berishda ularning ergashish qobiliyatiga moslashib.
+
+Qadam 5: Farzin juda qimmatli
+
+Farzandingiz uchun aniq bo'lishi mumkin bo'lsa-da, farzin fil yoki turadan qimmatroq ekanligini aytish arziydi. Aslida, u ikkala donaning birgalikdagi qiymatidan ham ko'proq, lekin faqat ozgina.
+
+Siz farzandingizga bermoqchi bo'lgan xabar - farzinni tura yoki filga almashish yaxshi bo'lmasligini anglatadi.
+
+Qadam 6: Mini-o'yin: Siz to'rtta dona olasiz, men farzin olaman
+
+Bu pozitsiyani joylashtiring:
+
+Farzandingizga siz farzinni o'ynashingizni va ular ikkita fil va ikkita tura olishlarini ayting. Ularning to'rtta donasi birgalikda farzindan yaxshiroq ekanligini tushuntiring.
+
+[Diagramma 9.5]
+
+Farzandingizga imkon qadar ko'proq donalarini saqlab qolishga harakat qilishlari kerakligini bildiring. Agar ular faqat bitta donagacha tushib qolsa, bu unchalik o'yin emas, shuning uchun qaytadan boshlashingiz kerak.
+
+Oq birinchi yuradi. Farziningizni turalardan biriga hujum qilguncha oldinga yurgizing, masalan:
+
+[Diagramma 9.6]
+
+Agar farzandingiz turalariga hujum qilinayotganini sezmasa (bu o'yin birinchi marta o'ynalganda juda keng tarqalgan), so'rang: "Men biror narsaga hujum qilayapmanmi?"
+
+Agar ular farziningiz turalariga hujum qilayotganini ko'rishda qiynalsa, ulardan farzin bora oladigan barcha kataklarga ishora qilishlarini so'rang (bunda ularga yordam berishingiz mumkin). Bu vaqti-vaqti bilan qilish uchun yaxshi mashq, chunki u ularni dona to'liq doirasiga qaratadi.
+
+Endi ular turni qanday saqlash kerakligini aniqlab olishlari kerak. Ular uni xavfsiz katakka yurgizganlariga ishonch hosil qiling.
+
+Keyin boshqa donaga hujum qiling va ular buni o'zlari sezyaptimi ko'ring. Yana, ularga hujumni topishda yordam bering.
+
+Bir muncha vaqtdan keyin, ularning donalarini ola boshlashingiz mumkin, bundan o'yin yasab.
+
+Ularga farzin bir vaqtning o'zida ikkita donaga hujum qilishi mumkinligini ko'rsating. Masalan, farzin yuqoridagi kabi turaga hujum qildi va tura shunday yurdi deylik:
+
+[Diagramma 9.7]
+
+Endi siz farziningizni bu yerga yurgizishingiz mumkin:
+
+Ularga pozitsiyaga bir lahza qarab ko'rishga vaqt bering va keyin so'rang: "Mening farzinnim nechta donaga hujum qilmoqda?" Ularga ikkala turani ko'rsatishlarini so'rang.
+
+[Diagramma 9.8]
+
+Endi ulardan muammoni hal qilishlarini so'rang, shunda ular hech qaysi turani yo'qotmaslik. Bitta to'g'ri yechim - bir turani boshqasi bilan himoya qilish, bitta yechim:
+
+[Diagramma 9.9]
+
+Bu faqat bitta misol, lekin siz farzin bilan bir vaqtning o'zida ikkita donaga hujum qilishning boshqa usullarini ham ko'rasiz.
+
+Farzandingiz donalarini himoya qilsalar, farzin ularni olmasligi kerakligini o'rganadi. Yuqoridagi misolda, agar farzin turani olsa, u qaytarib olinadi. Bu yomon almashish bo'ladi (va bu holda mini-o'yin tugaydi, chunki Oqda taxtada yurgizadigan dona qolmaydi).
+
+Bu mini-o'yin orqali ular shuningdek farzin qanday hujum qilishini tushunishadi va uning kuchidan ko'proq xabardor bo'lishadi.
+
+Farzandingiz donalarini himoya qilib saqlab qolishni tushungunlariga qadar o'ynashda davom eting.
+
+Qadam 7: Mini-o'yin: Men yurgizaman, sen yurgizasan, turalar, fillar va farzinlar bilan
+
+Bu pozitsiyani joylashtiring:
+
+[Diagramma 9.10]
+
+Odatda farzinlar taxtada bir-birining qarshisida o'tiradi, lekin bu mini-o'yinda biz qora farzinni birinchi yurishda olinmasligi uchun boshqa joyga qo'ydik. Turalar bilan ham shunday qildik.
+
+Bu yerdagi diqqat - farzandingiz o'rgangan barcha ko'nikmalarni bitta mini-o'yinda birgalikda mashq qilish. Avvaliga diqqat barcha donalarni to'g'ri yurgizishga qaratiladi. Bu muhim qadam.
+
+Ular harakatlarni o'zlashtiganini ko'rganingizda, ularning donalariga hujum qila boshlang, ularni xavfdan chiqishga rag'batlantiring. Shuningdek, vaqti-vaqti bilan o'z donalaringizni xavf ostiga qo'ying va ular olishlari mumkinligini sezayotganlarini ko'ring.
+
+Farzandingiz bu uch donani osonlik bilan yurgizsa, sizning donalaringizga hujum qilsa, donalarni olsa va o'z donalarini himoya qilsa, davom etishingiz mumkin.
+
+Bu qayta-qayta o'ynash mumkin bo'lgan mini-o'yin. Hatto kitobda oldinga o'qiganingizda ham unga qaytish yaxshi fikr. Bu bir qator asosiy tushunchalarning ajoyib ko'rib chiqishi.
+
+Muammolar va yechimlar
+
+Muammo:
+Farzandim farzinni yurgizishda qiynaladi.
+
+Yechim:
+Agar ular fil va tura yurishlarini o'zlashtirganlari bo'lsa, lekin farzinni o'zlashtirishda qiynalayotgan bo'lsalar, ular bilan "Men yurgizaman, sen yurgizasan" mini-o'yinida biroz ko'proq ishlang.
+
+Farzandingiz bilan farzin bora oladigan barcha kataklarga ishora qilish uchun birgalikda ishlang. Siz ba'zilariga ishora qiling va ular ba'zilariga ishora qilsinlar.
+
+Buning yana bir variatsiyasi - farzin bora oladigan barcha kataklarga taxtaga donalar qo'yish. Bu shunga o'xshash ko'rinadi, bu markazdagi qora farzin bora oladigan barcha kataklarni ko'rsatadi:
+
+[Diagramma 9.11]
+
+Muammo:
+Farzandim hali ham farzin taxtaning istalgan joyiga borishi mumkin deb o'ylaydi.
+
+Yechim:
+Farzandingizga farzin shunchaki har qayerga bora olmasligini aytish muhim. Bu bolalar orasida keng tarqalgan noto'g'ri tushuncha, chunki farzin ko'plab turli kataklarga yurishi mumkin. Ular donani hamma narsaga qodir super qahramon deb o'ylay boshlashadi!
+
+3 va 4-bosqichlarga biroz vaqt sarflang. Ularga ko'plab noto'g'ri farzin yurish misollari, shuningdek to'g'ri farzin yurishlarini ko'rsating.
+
+Muammo:
+Mini-o'yinlarda farzandim donalarini xavf ostiga qo'yishda davom etadi.
+
+Yechim:
+Agar farzandingiz donalarini sizning donangiz yo'liga yurgizsa, ulardan so'rang: "Men o'sha donani ola olamanmi?" Agar ular xavf ostiga yurishda davom etsalar, ulardan taxtadagi har bir dona yurishi mumkin bo'lgan barcha kataklarga ishora qilishlarini so'rang.
+
+Agar hali ham qiynalsalar, "Hujum va himoya" mini-o'yiniga qayting. Shu bilan ko'proq vaqt o'tkazing.
+
+Muammo:
+Farzandim men donasiga hujum qilganimni sezmaydi.
+
+Yechim:
+Agar farzandingiz hujumni o'tkazib yuborsa, ularga xavfdan chiqishga yana bir imkoniyat bering. O'yinda keyinroq o'sha turdagi hujumni qayta yaratishga harakat qiling va ular buni sezadimi ko'ring.
+
+Ehtimol siz kuzatishingiz mumkin bo'lgan naqsh bor. Ular uzoq diagonal hujumlarni o'tkazib yuborayaptimi? Agar shunday bo'lsa, ulardan fil (yoki farzin) bora oladigan barcha kataklarga ishora qilishlarini so'rang.
+
+Agar ular tura harakatlarini o'tkazib yuborsa, ulardan tura bora oladigan barcha kataklarga ishora qilishlarini so'rang.
+
+Agar ular fillar va turalar bilan qiynalsa, faqat o'sha ikki dona bilan mini-o'yinga qayting. Buni juda tez o'tib ketmaslik muhim.
+
+O'sha mini-o'yinni o'ynaganingizda, donani tanlang va farzandingizdan bitta dona bora oladigan barcha kataklarga ishora qilishlarini so'rang. Keyin yana bir necha yurish o'ynang va boshqa dona haqida so'rang. Agar ular kataklarni o'tkazib yuborsalar, ularga barchasini ko'rsatishga yordam bering.
+
+Ular o'sha mini-o'yin bilan ishonchli bo'lgandan keyin, taxtadagi farzinlar bilan bu mini-o'yinga qayting.
+
+Muammo:
+Farzandim mening donamni olishi mumkinligini sezmaydi.
+
+Yechim:
+Siz donangizni hujum ostiga qo'yganingizda va farzandingiz sezmasa, ularga yurishni qaytarib olishga ruxsat bering. Ulardan so'rang: "Mening donalarimdan birortasini ola olasanmi?" Agar ular donani topa olmasalar, bir vaqtda bitta donaga ishora qilib so'rang: "Bu dona menikini ola oladimi?"
+
+Agar ular ishonch bilan "yo'q" desalar (va to'g'ri bo'lsa), keyingi donaga o'ting. Agar ular ishonchsiz bo'lsa, ulardan dona bora oladigan barcha kataklarga ishora qilishlarini so'rang. Bu ularga dona siznikini ola olmasligiga ishonch beradi.
+
+Oxir-oqibat ular to'g'ri donani topadilar. Topganlaridan keyin, ularga donangizni olishga ruxsat bering. G'alaba hali ham shirin bo'ladi.
+
+Muammo:
+Farzandim bu mini-o'yindan zerikkan, lekin uni tushunmayotgandek tuyuladi.
+
+Yechim:
+Fil va tura mini-o'yiniga qayting va farzandingiz sizning donalaringizni olishi va siz ularnikini olishingiz bilan tahdid qilishingiz mumkin bo'lgan ko'proq pozitsiyalar joylashtiring. Agar ular o'sha mashqni o'zlashtirishmagan bo'lsa, farzinli mini-o'yinni yoqtirmaydi. Farzinni tushunish qiyinroq va turalar va fillar tushunilmasa, haddan tashqari og'ir bo'lishi mumkin.

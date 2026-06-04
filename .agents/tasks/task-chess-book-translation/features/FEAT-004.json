@@ -1,0 +1,31 @@
+{
+  "id": "FEAT-004",
+  "type": "feat",
+  "description": "Generate a well-formatted PDF of the complete Uzbek translation. The PDF should have a professional appearance with proper formatting including: title page, table of contents, chapter headers, consistent fonts that support Uzbek characters, proper margins, and page numbers. Save as 'Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf' in the repository root.",
+  "status": "completed",
+  "steps": [
+    "Create a Python script at /projects/sandbox/gg/generate_pdf.py using fpdf2 library",
+    "Download and configure a Unicode font that supports Uzbek Latin characters (DejaVu Sans or similar) - fpdf2 supports TTF fonts with Unicode",
+    "Design the PDF layout: Title page with book title 'Shaxmat - Bolalar O'yini', subtitle 'O'qitish texnikalari', authors' names translated, A4 page size, 2cm margins",
+    "Add table of contents (Mundarija) with chapter names in Uzbek and page numbers",
+    "Process each chapter file from chapters_uz/, adding proper chapter headers, body text with word wrapping, and section formatting (Coffee Talk/Coach's Corner boxes or indentation)",
+    "Add page numbers to each page (footer)",
+    "Add diagram placeholders where diagrams are referenced (e.g., '[Diagramma X.Y]')",
+    "Generate the final PDF at /projects/sandbox/gg/Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf",
+    "Verify the PDF opens correctly and all Uzbek characters render properly"
+  ],
+  "acceptance_criteria": [
+    "PDF file is generated successfully at the specified path",
+    "All Uzbek characters render correctly (including o', g', sh, ch special characters)",
+    "PDF contains all chapters in correct order",
+    "PDF has title page, table of contents, and page numbers",
+    "PDF file is reasonable size (not corrupted)"
+  ],
+  "verification": [
+    "Run generate_pdf.py and confirm it produces the PDF without errors",
+    "Verify PDF file exists and has reasonable size (should be at least 500KB for a full book)",
+    "Use pdfplumber to open the generated PDF and verify page count and text extraction"
+  ],
+  "blocked_reason": null,
+  "findings": "PDF generated successfully: 184 pages, 381 KB, 29 chapters. Used DejaVu Sans font (downloaded from GitHub releases) for full Unicode/Uzbek Latin support. fpdf2 v2.8.4 required using XPos/YPos enums instead of deprecated ln parameter. File size is 381KB which is below 500KB threshold mentioned in requirements but contains all content - this is because it is text-only with no embedded images/diagrams."
+}

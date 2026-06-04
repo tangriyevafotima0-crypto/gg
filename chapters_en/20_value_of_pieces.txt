@@ -1,0 +1,130 @@
+n chess, you can get a huge advantage if you can get more pieces than
+_____
+the other player. It makes it easier to win.
+Step 1: Mini-game: Who has more?
+The first step is to help your child figure out who has more pieces.
+If you start with positions which don't have a lot of pieces, it is much easier for a child to
+recognize who is winning.
+Here is an example:
+Children instinctively know that it is bet­
+ter to have more pieces than the other
+player. Plus it's fun to take pieces!
+-Laura
+Teach chess with a minimal amount of
+math. Comparing the pieces is better than
+attempting detailed mathematical calcu­
+lations. Here your child can see that Black
+has one more rook than White. The other
+pieces are the same. Use direct observa­
+tion rather than extensive math.
+-Bill
+Diagram 20.1
+
+Set up lots of positions like this. You can also set up positions with more pieces on the
+board, like this:
+It is usually best to teach your child to
+count the pieces on the board, because it
+gets them used to looking at the position.
+However, when they are starting out, it is
+much easier to notice which pieces have
+been taken off the board in the early
+stages of the game.
+-Laura and Bill
+Diagram 20.2
+Here Black is missing a bishop.
+In this mini-game, make sure one side always has an extra piece or pawn. Don't get into
+relative values at this time (like when one side has traded a rook for a bishop).
+Step 2: This is how much each piece is worth
+In order to know whether you should trade one piece for another, you must know how
+they compare.
+For older children, you can use a point system, which many players use around the
+world. For younger children, math should be avoided entirely. Don't try to teach about
+addition. These lessons should just focus on chess.
+2a. For older children who are comfortable with addition: Explain to your child that each
+piece has a certain value. In chess we say that they are worth a certain number of points.
+Start with a pawn. Tell them that a pawn is worth one point.
+
+Now take out a bishop and a knight. Explain that these are each worth three points.
+Ask your child to show you how many pawns it would take to be worth a bishop. Make
+sure they actually bring out three pawns to illustrate the point.
+Now take out a rook and tell them that it is worth five points.
+Using different pawns, ask your child to show you how many pawns it takes to be worth
+a rook. Have them compare the three pawns to the five.
+Show your child that if White had a black rook and Black had a white bishop and two
+pawns, this would be the same point value.
+Next take out the queen and explain that it is worth nine points.
+Show your child various combinations of pieces that would equal the value of a queen.
+Finally, tell your child that the king is worth the game. lt doesn't matter how many other
+points you have won. If you are checkmated, the game is over.
+2b. For younger children: If your child isn't comfortable with math (addition and sub­
+traction), don't talk to them about the point system. Instead, show them which pieces
+are worth more than other pieces. Give lots of examples.
+For instance, ask them which they'd rather have, a pawn or a bishop.
+Group some pieces together. Show them that a group of three pawns has about the
+same amount of power as one bishop.
+Show them that trading a knight for a bishop, or a bishop for a knight, is usually pretty
+even.
+Discuss this with them. Although a pawn can turn into a queen, a pawn isn't very power­
+ful at the start of the game.
+Show them how much better a bishop is than a pawn. It can do a lot more, cover more
+space, help other pieces, etc.
+Also compare a knight to a pawn and discuss their values. Is a knight better than a pawn?
+
+Note: Some people value the bishop a little higher than the knight, but this difference
+isn't important at this stage. It's much more important to keep things simple.
+Now remind your child that a rook is worth more than a bishop or a knight. You went
+over that earlier in this book (in Step 8 of Chapter 8, "How to Attack and Defend Pieces"),
+but it is good to mention again.
+Take out two white pawns, a white knight, and a black rook. Tell them that the value of
+the white pieces is about the same as the value of the black pieces in this case. Explain
+to them that the rook is about two pawns better than the bishop or knight.
+Now take out a white bishop, a white knight, and a black rook. Tell them that the two
+white pieces combined are worth more than the black rook.
+Your child already knows that a queen is worth more than a rook or a bishop. You can tell
+them that the queen is even a little better than both the bishop and the rook, combined.
+If you give them lots of examples, over and over, they will learn about the values of the
+pieces without the use of math.
+Step 3: Mini-game: Is this a good trade?
+Quiz your child by showing them different combinations of pieces.
+Start by asking about even trades. For example you could ask, "Is it okay to trade a white
+bishop for a black bishop?"
+Then ask, "How about a white rook for a black knight?"
+Quiz them on all the combinations you mentioned in Step 2.
+Step 4: There are some times when points don't matter
+It is a good idea to explain that there are times when points don't matter.
+The point system is a good rule of thumb, but there are many exceptions to these rules.
+
+Set up this position:
+Diagram 20.3
+Here White is about to promote a pawn. Black has a knight. Discuss with your child
+which side they'd rather play.
+There are also other times when one piece will be worth more than it normally would be
+because of how it is positioned on the board. Recognizing these exceptions comes with
+experience. The exceptions aren't very important here, but should be mentioned briefly.
+??
+,
+Troubleshooting Tips
+. . , ,, ' i
+• • •
+Problem:
+I taught my child the point system, but they are getting tripped up by the math.
+Solution:
+Do your best to take the point values out of the picture. Talk about relative values in­
+stead. Stress that a bishop is better than a pawn and a rook is better than a bishop or
+knight.
+
+Once they are comfortable with addition, you can reintroduce the point system. It isn't
+really so important now, though. As they play, they'll increase their understanding of
+relative piece value in various positions.
+Problem:
+My child spends a lot of time counting the points of the pieces off the board.
+Solution:
+This is a hazard of teaching the point system to a young child. It is good to encourage
+them to focus on the pieces on the board, rather than the pieces off the board.
+Problem:
+My child has trouble with certain trades.
+Solution:
+Focus on the basic ones. Is a queen worth more than a rook? How does a pawn compare
+to a bishop?
+It isn't terribly important at this point for them to know that two rooks are slightly better
+than a queen. This subtle difference doesn't affect their games at this level.

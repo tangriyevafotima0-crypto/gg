@@ -1,0 +1,339 @@
+e touched on checkmate earlier, but there's a lot more for your child to
+___
+learn about this concept.
+Checkmate is tricky. It takes time and practice to master.
+Since you can only win by checkmating the other player, it's important to fully under­
+stand this concept.
+Now that your child has a good understanding of the subjects covered in the previous
+chapters, they will be able to grasp the concept of checkmate much easier.
+Once you know they have these elements down, you can really explore checkmate!
+Review checkmate
+Do a rapid review of Chapter 12,"Checkmate:'lt's important for your child to understand
+all these concepts well before starting on this chapter.
+Step 1:T his is how you figure out if a position is checkmate
+Your child must learn to be able to tell when a position is checkmate. You can give your
+child a tool to help them figure out, for themselves, if they really have checkmate.
+1a: Why is this so important? Explain the importance of knowing when a king is check­
+mated. If it's your king, you need to know if there's a threat. You need to know if the
+other player is about to win the game.
+If you are analyzing the other player's position, you need to know that your plan will end
+in victory. Is the final position you're envisioning actually checkmate?
+Let your child know that spotting checkmates takes practice. It's not going to be an
+overnight process.
+1 b: The Checkmate Checklist: Go over this Checkmate Checklist with your child:
+
+1) Is the king in check?
+If the answer is no, stop here. Remember, it isn't checkmate if it isn't check!
+2) Can the attacker be taken?
+If the attacking piece can be taken, it isn't checkmate.
+3) Can the king move out of check?
+For this step, you need to run through a mental list of all the squares surrounding
+the king. If the king can move to a square that isn't being attacked, it isn't checkmate.
+4) Is it possible to block?
+If you can block the check, it isn't checkmate. Beginning players often overlook this.
+The only purpose of this checklist is to determine if a position is or is not checkmate.
+Have your child repeat the checklist back to you. It should be easy, as they know the ba­
+sic ways to get out of check from the previous chapter, "Getting out of Check:'
+Step 2: Let's try out the checklist
+Now work with your child to figure out if the following positions are checkmate, using
+the checklist. Start with positions where the king is in the corner of the board, like so:
+Some of these positions will be checkmate, some will not.
+Your child will be familiar with this check­
+mate position, so this will be easier for
+them.
+Still, go through the checklist with them, as
+it will give them practice using it.
+Diagram 25. 7
+
+In Chapter 12, "Checkmate;' we stuck with
+rooks and queens. Now you should add in
+other pieces.
+Here the king is in check, and the attacker
+cannot be taken, but it can move out of
+check.
+Diagram 25.2
+Diagram 25.3 Diagram 25.4
+This is similar to a position from the early This is a good one to add, because it
+chapter, "Checkmate:' Adding a bishop comes up a lot. Children think it is check­
+makes it a little more complicated, but it mate, because the king can't move.
+is still checkmate. When they do the checklist, they see that
+the king isn't in check. All you want to
+do here is get them to see that this isn't
+checkmate.
+
+Now add a few more pieces into the position, keeping the king in the corner.
+Here are two examples:
+Diagram 25.5 Diagram 25.6
+The solution of blocking the checkmate Here, the checkmate is similar to what
+with the bishop might be overlooked if they have seen, but the way the king's
+your child didn't use the checklist. The escape squares are covered is a bit dif­
+white bishop is far away, which makes it ferent. Adding in the other pieces makes
+harder to see. it a new challenge. Your child will need
+to figure out if these interfere with the
+checkmate.
+Show your child more examples like this, where the king is still in the corner, but you're
+adding in new pieces to make it more complex.
+When your child is comfortable using this checkmate checklist, go to the next step.
+
+Step 3: Here's another kind of checkmate
+Now we're going to show a different checkmate theme. Set up this position:
+Here the king is not in the corner. You'll
+want to point out to your child that there
+are more escape squares, so it is harder to
+checkmate the king.
+Run through the checkmate checklist
+with your child, to help them see that this
+is checkmate. Tell your child that this is a
+common checkmate that they will see in
+games.
+Discuss with your child why this check-
+Diagram 25.7
+mate works. Point out that the queen is
+protected, so the king can't take it. Then look at all the other squares around the king.
+Show your child that the queen covers each square.
+Now take the rook off the board, like so:
+Diagram 25.8
+
+Discuss with your child how this position is very different now. Why? What did taking the
+rook off the board do?
+Show your child other checkmates similar to this. Here are some examples:
+Diagram 25.9 Diagram 25. 10
+You don't need to check all of the squares each time, but it is good to go through the
+checklist a few times. This is a familiar pattern. Show your child many examples like
+these.
+Step 4: Mini-game: Why isn't this
+checkmate?
+Now show your child positions similar to
+the ones in the previous step, but which
+aren't actually checkmate. Using the check­
+list, have them tell you why it isn't.
+Here are some examples:
+Diagram 25.11
+Here Black can move out of check.
+
+Diagram 25.12 Diagram 25. 13
+Here White is not in check, so it isn't Here Black can move out of check.
+checkmate.
+This one is good to reinforce with many ex­
+amples. Beginners often make the mistake
+of putting their queen next to a king, think­
+ing that they have checkmated.
+It is very disappointing to lose one's queen
+in a winning position.
+Diagram 25.14
+Step 5: Mini-game: Is this checkmate?
+Now quiz your child on whether a position is or isn't checkmate, based on these new
+kinds of checkmates. Here are some examples, similar to the positions just discussed:
+
+Diagram 25.15 Diagram 25.16
+This is checkmate. This is not checkmate.
+Diagram 25.17
+This is not checkmate.
+Come up with more examples, until your child can quickly spot them correctly.
+Step 6: Mini-game: You set up checkmate
+
+Now have your child set up similar positions of checkmate. They can be any style, using
+any number of pieces. It's fine if they stick with the two themes you just went over. These
+are common and useful.
+If your child sets up a position that isn't checkmate, have them go through their check­
+list.
+Then have them correct the position, so that it is checkmate.
+Step 7: Here's how it might look in a game
+Show your child a few examples of this type of checkmate in a position they might see
+in a game.
+Diagram 25.18 Diagram 25.79
+This checkmate theme is very common in It is important to show examples for
+a game. both sides (White and Black).
+Step 8: Let's play!
+Now that you've gone over these fundamental checkmates, it is a good idea to play a
+few games. It is possible that the checkmate themes that we have discussed will come
+up, especially if your child is looking out for them.
+
+Step 9: Here's another checkmate you'll see a lot
+Let your child know that there are other checkmates that are very common.
+Set up this position:
+Discuss this kind of checkmate with your
+child. Go through the checklist.
+Diagram 25.20
+Point out that this is checkmate. Have your child look at all the squares around the king.
+Show your child that Black's pawns block three squares in front of the king.
+Now show them more checkmates along
+this line. Here is another example that is
+slightly different:
+Pawns aren't the only piece that can get in
+the way. Here the white rook stops the king
+from getting away. You can point out that
+it cannot move to block the queen's attack.
+Diagram 25.21
+
+Step 10: Mini-game: Why isn't this checkmate?
+Now show your child similar positions which are not checkmate. Here's an example:
+Diagram 25.22 Diagram 25.23
+If you go through the Checkmate Check­ Show your child how the king can move
+list, your child will see that the king can out of danger, because one of the pawns
+move out of check. has been pushed. This is a common way
+to avoid checkmate.
+Here Black can block the check with the
+rook.
+Diagram 25.24
+
+Show your child more positions similar to these. Make sure to alternate between put­
+ting the black and white kings in check.
+Step 11: Is this checkmate?
+Set up positions, similar to the ones we went over in Step 9 and 10, asking, "Is this check­
+mate?"
+Here are some examples:
+Diagram 25.25 Diagram 25.26
+This is not checkmate. This is checkmate.
+Step 12: You set up checkmate
+Now have your child set up positions like this on their own. Run through the Checkmate
+Checklist with them, helping them to make sure their checkmates work.
+Step 13: This is how it might look in a game
+Now show your child a few examples of this type of checkmate, which might appear in
+a game. Here are two examples:
+
+Diagram 25.27 Diagram 25.28
+Here the white rook is checkmating the Here the black rook is checkmating the
+black king. white king.
+Show your child more examples like this.
+Step 14: Mini-game: Can you find checkmate in one move?
+Now using the different kinds of checkmates that we went over, set up positions where
+they need to find the correct move to checkmate the other player.
+Start with ones that are very simple, sticking with the last theme discussed.
+Tell your child which side can be checkmated.
+Then give them time to look over the position. Don't let them puzzle over any one posi­
+tion for too long. Instead, show them the correct answer and set up another one similar
+to it.
+Here are some examples of simple checkmate-in-one positions:
+
+Tell your child that Black can be checkmat­
+ed in one move. Since there are fewer piec­
+es on the board, it will be easier for them to
+spot the right answer.
+Diagram 25.29
+Then you can begin to add more and more pieces to the position.
+Here White can be checkmated in one
+move.
+It will be easier for your child to spot the
+correct answer if you create a position
+where the queen moves straight down the
+board, rather than on the diagonal.
+Diagram 25.30
+
+Let your child know that White can be
+checkmated in one move. Here you have
+simply moved the queen to a different
+square. They will need to find the check­
+mate by moving the queen along the diag­
+onal. Since they solved a similar position in
+the last diagram, it will be easier for them to
+spot this now.
+Diagram 25.31
+Show them a few more examples like this, which are simple checkmate-in-one posi­
+tions.
+Next, quiz them on the other theme you went over. Set up simple positions like these:
+Let them know that White can checkmate
+Black in one move.
+Your child might need help remembering
+this checkmate pattern. The white queen
+can take the pawn to checkmate Black.
+Diagram 25.32
+
+Here Black can checkmate White in one
+move. Since this is the same theme as the
+previous puzzle, they are likely to get it.
+Diagram 25.33
+Start adding in more and more pieces until you have one that looks like this:
+Let your child know that Black can check­
+mate White in one move.
+If they need help, point out the black bish­
+op to your child. Since it is far away from
+the white king, it can get forgotten.
+Diagram 25.34
+Come up with as many positions like this as you can. They are invaluable for your child's
+chess education!
+
+Step 1 5: Let's Play!
+Now play a few more games. If you see these positions come up, point them out to your
+child.
+' .
+.rf;roubJ��hootii1Q Tips
+· ·
+.l( """"--.; • ";. " > **"" "<;> � *' l:(,'¢���
+Problem:
+My child cannot figure out why a position isn't checkmate.
+Solution:
+Help your child run through the Checkmate Checklist. Discuss each point as necessary.
+If they have trouble with a particular point, go back over the appropriate section in this
+book. For instance, if they have trouble spotting how a piece can block to get out of
+checkmate, review sections covering this in Chapter 24, "Getting out of Check:'
+Problem:
+My child cannot figure out if a position is checkmate.
+Solution:
+Help your child run through the Checkmate Checklist. Go through it point by point,
+working with them to see if the position is checkmate.
+Start with very simple positions.
+If your child has trouble with this, make sure they understand what checkmate is. If they
+have trouble with that, go back to Chapter 12, "Checkmate;' earlier in this book.
+Remember that it takes a while to get this down. You may need to run through dozens
+of positions in each mini-game of this chapter. Even though the positions are similar,
+these exercises will help your child to become skilled in correctly identifying checkmate.
+Problem:
+When we play, "Is this checkmate?" my child always answers "yes:'
+
+Solution:
+This is often a sign that they don't really understand what is going on.
+Ask them what checkmate means and have them set up a checkmate for you. If they
+can't do this, review Chapter 12, "Checkmate;' with your child.
+If they can set up a checkmate, have them run through the Checkmate Checklist with
+you for the particular checkmate that they set up. Then run through the Checkmate
+Checklist on a few other positions which are not checkmate.
+If you discuss each point of the checklist with them in detail, you should uncover any
+problems or confusion they may have on the earlier steps, allowing you to do appropri­
+ate exercises to help them with those points.
+Problem:
+My child is having trouble figuring out checkmate-in-one positions.
+Solution:
+Start with positions which have fewer pieces on the board. Positions with more pieces
+are harder. For instance, this position is more difficult:
+Diagram 25.35
+A similar position, with many pieces taken off, is easier:
+
+Diagram 25.36
+The concept of the checkmate is the same, but one is much easier to figure out than the
+other.
+Keep creating positions that are very similar to this, until they can spot the answers eas­
+ily. Repetition is key here. You cannot overdo these exercises.
+Problem:
+My child is having trouble with Step 3 of the checklist (figuring out if the king can move
+out of checkmate).
+Solution:
+This is a tricky part of figuring out if you have checkmate. This skill takes practice, and
+usually develops over time. However, if you see that they are struggling, there are some
+exercises that you can do to isolate the skills involved.
+The first step is to make sure your child can figure out the squares where the king can
+move, disregarding the element of check. Review "Step 3: Point to the squares where
+the king can go" in Chapter 21, "Your Own Pieces Can Get in the Way:'
+Set up examples that will help them with the mini-games in the present chapter.
+Here are some examples. For each position, have your child point out the squares where
+the king can go:
+
+Diagram 25.37 Diagram 25.38
+It is good for your child to recognize that
+there is an extra escape square offered
+by the pushed pawn.
+The second step is to make sure that they can quickly tell if the king is in check. Review
+"Step 3: Is this check?" from Chapter 11, "Check;' to be sure they can quickly identify
+when the king is in check.
+The third step is to review "Step 6: Can the
+king go here?" in Chapter 11, "Check:' Add in
+positions that relate to this current chapter.
+For instance, you can set up this position:
+Ask your child about all the squares around
+the king. You can also include the squares
+occupied by the black pawns, just to drive
+home the point that these squares were
+taken away by Black's own pieces. Make
+sure your child spots the escape square cre­
+ated by the pushed pawn.
+Diagram 25.39

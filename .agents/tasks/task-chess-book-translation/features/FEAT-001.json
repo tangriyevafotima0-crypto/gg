@@ -1,0 +1,24 @@
+{
+  "id": "FEAT-001",
+  "type": "feat",
+  "description": "Extract all text from the source PDF and organize it by chapters into a structured format ready for translation. Create a Python script that extracts text from each page, identifies chapter boundaries, and saves the organized text into separate chapter files.",
+  "status": "completed",
+  "steps": [
+    "Create a Python script at /projects/sandbox/gg/extract_chapters.py that reads the source PDF using pdfplumber",
+    "Parse the extracted text to identify chapter boundaries based on 'Chapter N.' pattern and other structural elements (Preface, Authors' biographies, Afterword, Contents)",
+    "Save each chapter's text into /projects/sandbox/gg/chapters_en/ directory as separate .txt files (e.g., chapter_00_preface.txt, chapter_01_why_chess.txt, ... chapter_26_stalemate_and_draw.txt, chapter_27_afterword.txt)",
+    "Run the script and verify all chapters are correctly separated",
+    "The book structure based on TOC: Preface (p9), Authors' bios (p10), Ch1-Why Chess (p11), Ch2-What You Should Expect (p19), Ch3-Tips on Teaching (p23), Ch4-Special Exercises 2-4 Year Olds (p35), Ch5-The Rook (p49), Ch6-How to Take Pieces (p61), Ch7-The Bishop (p71), Ch8-Attack and Defend (p79), Ch9-The Queen (p97), Ch10-The King (p109), Ch11-Check (p113), Ch12-Checkmate (p125), Ch13-The Knight (p133), Ch14-The Pawn (p143), Ch15-Legal and Illegal Moves (p165), Ch16-Set Up Chessboard (p169), Ch17-The First Game (p177), Ch18-Castling (p183), Ch19-Tips for Starting a Game (p199), Ch20-Value of Pieces (p217), Ch21-Pieces Can Get in Way (p225), Ch22-More About Attacking (p233), Ch23-More About Defending (p241), Ch24-Getting Out of Check (p257), Ch25-More About Checkmate (p269), Ch26-Stalemate and Draw (p291), Afterword (p302)"
+  ],
+  "acceptance_criteria": [
+    "All 26 chapters plus preface, bios, and afterword are extracted into separate text files",
+    "Chapter files contain clean readable text",
+    "No chapter content is lost or duplicated between files"
+  ],
+  "verification": [
+    "Run extract_chapters.py and confirm it creates all expected files in chapters_en/",
+    "Verify total character count across all chapter files is close to the 272,245 characters in extracted_text.txt"
+  ],
+  "blocked_reason": null,
+  "findings": "PDF page offset is not fixed - it varies due to image/title pages that have no extractable text. Built a printed-to-PDF page mapping by reading page numbers from the bottom of each page's text. The offset starts at -2 (PDF page = printed page - 2) for early pages but increases as more image pages accumulate. Total extracted content is ~260K chars across 29 files, accounting for front matter, page numbers, and back cover being excluded. All chapter boundaries verified correct with no content gaps or duplications."
+}

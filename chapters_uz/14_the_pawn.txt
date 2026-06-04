@@ -1,0 +1,401 @@
+Piyodaning harakatlari hayratlanarli darajada murakkab, chunki tushuntirish kerak bo'lgan juda ko'p qismlar bor.
+
+Ko'p odamlar o'rgatishda piyoda bilan boshlash xatosini qilishadi, chunki u taxtadagi eng zaif dona.
+
+Bu birinchi darsni muvaffaqiyatsizlikka tayyorlaydi, chunki bu yangi boshlovchi uchun juda ko'p bo'lishi mumkin.
+
+Barcha donalarni ko'rib chiqsangiz, nima uchun donalarni shu tartibda o'rgatish eng yaxshi ekanligini tushunasiz. Tura boshlash uchun ajoyib joy, chunki harakatlar to'g'ri. Uni darhol tushunish oson.
+
+Fil diagonal harakat tushunchasini tanishtiradi, bu biroz mashq talab qilishi mumkin. Filning yaxshi tomoni shundaki, uning faqat bitta harakat turi bor (diagonal).
+
+Keyin farzin ham to'g'ri, ham diagonal harakatlardan foydalanadi, buni farzandingiz endi tushunadi, shuning uchun uni keyingi o'rgatish mantiqiy.
+
+Shohni tushuntirish osonroq, lekin murakkab nozikliklari bor (shoh, mat va shoh boshqa shohning yoniga yura olmasligi). Shuning uchun shohni farzindan keyin ko'rib chiqish yaxshiroq, oldin emas.
+
+Otning murakkab harakati bor, shuning uchun u keyingi. U hali ham piyodadan osonroq, chunki uning faqat bitta qoidalar to'plami bor.
+
+Demak, endi farzandingiz tura, fil, farzin, shoh va otni o'zlashtiganidan keyin, ularga piyoda haqida o'rgatish vaqti keldi.
+
+Qadam 1: Mana o'yin boshida piyodani qanday yurgizasiz
+
+Diagrammalar Oq pastda va Qora tepada joylashtirilgan.
+
+Farzandingizga oq piyodalar ikkinchi qatorda va qora piyodalar yettinchi qatorda boshlanishini tushuntiring. Piyodaning boshlang'ich joyidan u bir yoki ikki katak oldinga yurishi mumkin, masalan:
+
+[Diagramma 14.1] [Diagramma 14.2]
+
+Ular bu tanlov faqat har bir piyodaning birinchi yurishi uchun mavjud ekanligini tushunishlariga ishonch hosil qiling. Har bir piyoda birinchi yurishi uchun bu imkoniyatga ega.
+
+Qadam 1a: Siz boshlash uchun piyodani yurgizing: Oq piyodani ikkinchi qatorga qo'ying va farzandingiz birinchi yurishni qilsin. Ular shunchaki piyodani bir yoki ikki katak oldinga yurgizmoqdalar.
+
+Ular bu yurishni qilganlaridan keyin, piyodani ikkinchi qatordagi boshqa joyga suring va ulardan uning birinchi yurishini yana qilishlarini so'rang.
+
+Keyin qora piyodani yettinchi qatorga qo'ying va ulardan Qora uchun boshlang'ich yurish qilishlarini so'rang (yana uni bir yoki ikki katak oldinga yurgizib).
+
+Qadam 2: Birinchi yurishdan keyin piyoda shunday yuradi
+
+Farzandingizga birinchi yurishdan keyin piyoda asosiy yurishi sifatida faqat bir katak oldinga yurishi mumkinligini ko'rsating.
+
+U hech qachon yon tomonga yoki orqaga yura olmaydi. Piyoda faqat oldinga yuradi.
+
+Ulardan buni mashq qildiring, piyodani taxta bo'ylab bir vaqtda bir katak qilib yurgizib, faqat bitta katak qolguncha. Ularni bu nuqtada to'xtating.
+
+Qadam 3: Endi ajoyib narsa sodir bo'ladi
+
+Farzandingizga piyoda narigi tomonga yetganida haqiqatan ham ajoyib narsa sodir bo'lishini ayting. Bu haqda katta gap qilishingiz mumkin.
+
+Bu shaxmatda bolalar orasida eng mashhur yurishlardan biri. Kichkina piyoda boshqa donaga almashtiriladi!
+
+3a. "Ko'tarilish"ni aniqlash: Farzandingizga shaxmatda "ko'tarilish" so'zi piyoda oxirgi qatorga yetganida farzin, tura, fil yoki otga aylanishi mumkinligini anglatishini ayting. (U shoh bo'la olmaydi yoki piyoda bo'lib qola olmaydi.)
+
+Shaxmat taxtasida hech qachon bir xil rangdagi ikkita shoh bo'lmasligi mumkin.
+
+Biroq, bir rangning ikkita (yoki undan ko'p) farzini bo'lishi mumkin.
+
+Ba'zi to'plamlar ikkala tomon uchun qo'shimcha farzin bilan keladi. Buning sababi shuki, agar o'yinchi oxirgi qatorga yetib piyodani ko'tarsa, odatda farzinga ko'tarishni tanlaydi. Agar ularning allaqachon o'yinda farzini bo'lsa, boshqasiga muhtoj bo'ladi.
+
+Piyodani faqat taxtadan olingan donaga ko'tarish mumkin degan keng tarqalgan noto'g'ri tushuncha bor. Bu to'g'ri emas. Qoida shuki, piyodani shohdan tashqari har qanday donaga ko'tarish mumkin.
+
+3b: Men piyodani ko'taraman: Piyodani taxta bo'ylab yurgizing va u oxirgi qatorga yetganida farzinga aylantiring. Bu piyodani taxtadan olib, boshqa dona bilan almashtirish orqali amalga oshiriladi.
+
+Keyin boshqa piyodani taxta bo'ylab yuborib, turaga aylantiring. Boshqasini filga va yana boshqasini otga aylantiring.
+
+Qahva suhbati
+Bu piyoda emas
+
+Bir ikki yoshli qizcha donalar haqida o'rganayotgan edi. U fil, ot, farzin, shoh va turani "piyoda emas" deb aniqlardi.
+
+U piyodalarni qanchalik yaxshi ko'rishini ta'kidlamoqda edi!
+
+Qadam 4: Sen piyodani yurgiz
+
+Farzandingiz ikkinchi qatorda piyoda bilan boshlasin. Ulardan piyodani taxta bo'ylab yurgizishlarini so'rang. Har bir yurish bilan piyodadan qo'llarini olishlariga ishonch hosil qiling. Ular oxirgi katakka yetganlarida, piyodalarini xohlagan donaga ko'tarishlarini so'rang.
+
+Ko'p hollarda farzandingiz boshqa farzin xohlaydi, lekin boshqa dona yaxshiroq bo'lishi mumkin bo'lgan vaqtlar ham bor.
+
+Ulardan buni xohlagancha o'ynashlariga ruxsat bering.
+
+Qadam 5: Piyoda yurganidan boshqacha oladi
+
+Farzandingizga piyoda olganida, diagonal bo'ylab olishini ko'rsating. U bir katak oldinga, diagonal bo'ylab hujum qiladi va oladi. U hech qachon orqaga olmaydi. Va u to'g'ri oldida turgan donalarni hech qachon olmaydi.
+
+Bu biroz hiyla, chunki bu yurganidan boshqacha oladigan yagona dona. Shu sababli piyodani bola o'zlashtirishi ba'zan qiyin.
+
+Mana piyoda qanday olishining ikkita misoli:
+
+Oq piyoda qora filni olishi mumkin.
+
+[Diagramma 14.3] [Diagramma 14.4]
+
+14.5-diagrammada qora piyoda oq turani olishi mumkin, chunki u oq piyodalardan teskari yo'nalishda yuradi.
+
+[Diagramma 14.5] [Diagramma 14.6]
+
+Farzandingizga piyoda boshqa donalarni (otlar, turalar, fillar, farzinlar yoki boshqa piyodalarni) qanday olishi mumkinligining ko'plab misollarini ko'rsating.
+
+Bir necha misoldan keyin, farzandingiz piyoda bilan dona olsin, ularga mashq bering.
+
+Qadam 6: Piyodalar to'xtaydi
+
+Piyoda yurganidan boshqacha olgani uchun, g'alati vaziyat paydo bo'ladi.
+
+Bu pozitsiyani joylashtiring (bitta qora piyoda va bitta oq piyoda):
+
+[Diagramma 14.7]
+
+Farzandingizga piyodalar bir-biriga shunday qarashib turganida, oq piyoda yura olmasligini tushuntiring. U oldinga yura olmaydi, chunki qora piyoda yo'lida turibdi. U qora piyodani ham ola olmaydi, chunki u bunday olmaydi. U to'xtagan.
+
+Qora piyoda ham xuddi shu sababga ko'ra to'xtaganini ko'rsating.
+
+Qahva suhbati
+Sumo kurashchilari
+
+Bir ota-ona bloklangan piyodalarni sumo kurashchilariga o'xshatdi. Ular bir-biriga qarab o'tirishadi, boshqasining yonidan o'ta olmaydi.
+
+Uning besh yoshli qizi shaxmat taxtasining o'rtasida o'tirgan ikkita ulkan erkak tasvirini juda kulgili deb hisobladi!
+
+Bu tushunchaga biroz vaqt sarflash muhim. Ko'pchilik yangi boshlovchilar buni g'alati deb topadi va oldidagi piyodani olishni xohlaydi.
+
+Piyodaning oldida turgan bo'lsa, donalar ham piyodani to'sishi mumkin. Bu misolni ko'rsating:
+
+[Diagramma 14.8]
+
+Endi quyidagi pozitsiyani joylashtiring (ikkita qora piyoda va bitta oq piyoda):
+
+[Diagramma 14.9]
+
+Farzandingizga oq piyoda endi yurishi mumkinligini ko'rsating, chunki u bir katak diagonal bo'ylab qora piyodani olishi mumkin. Bu o'sha piyoda qilishi mumkin bo'lgan yagona yurish.
+
+Farzandingiz qora piyodani olsin.
+
+Endi sizda bu pozitsiya bo'ladi:
+
+Farzandingizga oq piyoda endi oldinga yurishi mumkinligini ko'rsating.
+
+Qora piyoda ham yurishi mumkin, chunki oq piyoda endi uni to'smayapti.
+
+[Diagramma 14.10]
+
+Shunga o'xshash ko'proq pozitsiyalar joylashtiring, ularga piyoda oldinga yurishdan qanday to'xtatilishi, lekin olishi mumkinligining ko'plab misollarini bering.
+
+Misollaringizda piyodalar bilan bir qatorda donalardan ham foydalanganingizga ishonch hosil qiling. 14.11 va 14.13-diagrammalar ikkita misol:
+
+[Diagramma 14.11] [Diagramma 14.12]
+
+Bu yerda Oqning yurish navbati. Farzandingizdan oq piyoda biror narsa qila oladimi so'rang.
+
+[Diagramma 14.13] [Diagramma 14.14]
+
+Bu yerda Qoraning navbati. Farzandingizdan qora piyoda bu yerda nima qila olishini so'rang.
+
+Qadam 7: Mini-o'yin: Piyoda bu donani olishi mumkinmi?
+
+Endi farzandingizdan piyoda qachon olishi va qachon olishi mumkin emasligini so'rang.
+
+Piyoda qarama-qarshi rangdagi donani olishi mumkin bo'lgan oddiy pozitsiyalar joylashtirishdan boshlang. Farzandingizdan so'rang: "Piyoda bu donani olishi mumkinmi?"
+
+Keyin aniq to'g'ri bo'lmaganlarni qo'shing. Aniq noto'g'ri joylashtirishlardan boshlang, masalan:
+
+[Diagramma 14.15]
+
+Shuningdek, dona to'g'ridan-to'g'ri piyodaning oldida bo'lgan pozitsiyalar joylashtiring.
+
+Ular javoblarni to'g'ri olganlarida, qo'shimcha donalar qo'shib pozitsiyalarni murakkablashtirishingiz mumkin. Masalan, bu pozitsiyani joylashtirishingiz mumkin:
+
+Bu yerda qora piyoda Oqning piyodasini yoki filini olishi mumkin (lekin to'g'ri oldidagi piyodani emas).
+
+Agar farzandingiz ikkinga, har bir donaga ishora qilib so'rang: "Qora piyoda bu donani olishi mumkinmi?"
+
+[Diagramma 14.16]
+
+Farzandingizdan so'rashda davom eting, ular savollarni to'g'ri javob berganlarida tezlikni oshirib (yoki xato qila boshlaganlarida sekinlashtiring), ular piyoda qanday olishini haqiqatan ham tushungunlariga qadar.
+
+Qadam 8: Mini-o'yin: Piyoda shunday yurishi mumkinmi?
+
+Endi siz ulardan to'g'ri va noto'g'ri piyoda yurishlari haqida so'rashni xohlaysiz, oldinga yurish va diagonal olishni birlashtiring. Aniq to'g'ri yurishlardan so'rashdan boshlang, masalan bo'sh taxtada piyodani bir katak oldinga yurgizish, "Piyoda shunday yurishi mumkinmi?" deb so'rab.
+
+Piyoda bilan donani bir katak diagonal olsin va so'rang: "Piyoda shunday yurishi mumkinmi?"
+
+Keyin noto'g'ri yurish aralashtiring (masalan piyodani bir katak orqaga yurgizish) va so'rang: "Piyoda shunday yurishi mumkinmi?"
+
+Bir nechta to'g'ri yurish qiling, keyin piyodani noto'g'ri yurgizing (ehtimol yon tomonga) va xuddi shu savolni so'rang.
+
+To'g'ri va noto'g'ri yurishlarni muvozanatlang. Bu noto'g'ri yurishlarni kiritganingizga ishonch hosil qiling:
+
+- Piyodani orqaga yurgizish.
+- Piyodani boshlang'ich katakidan tashqari bir katakdan ko'p oldinga yurgizish.
+- Piyodani yon tomonga yurgizish.
+- To'g'ri oldidagi piyodani olish.
+- Ikki katak uzoqdagi donani olish.
+- Olish uchun hech narsa yo'q paytda bir katak diagonal yurgizish.
+
+Bular yangi boshlovchilar piyoda haqida o'rganayotganlarida qiladigan keng tarqalgan xatolar. Ular javoblarni to'g'ri olganlarida, o'yinni tezlashtiring. Ular savollarni tez javob bera olganlarida, keyingi mini-o'yinga o'tishingiz mumkin.
+
+Qadam 9: Mini-o'yin: Piyoda yurishi mumkin bo'lgan barcha usullar qanday?
+
+Bu so'rovda siz turli pozitsiyalar joylashtib, farzandingizdan piyoda yurishi mumkin bo'lgan barcha usullarni so'rashni xohlaysiz.
+
+Masalan, bu pozitsiyani joylashtirishingiz mumkin:
+
+Farzandingizdan oq piyoda yurishi mumkin bo'lgan barcha usullarni aytishlarini so'rang. Ular otni olishlari mumkinligini ko'rishlari ehtimoli katta, lekin piyodani to'g'ri oldinga ham yurgizish mumkinligini o'tkazib yuborishlari mumkin.
+
+[Diagramma 14.17]
+
+Shunga o'xshash ko'plab pozitsiyalar joylashtiring va farzandingizdan so'rang. Ba'zi pozitsiyalar piyoda oldinga yurishdan to'sib qo'yilgan bo'lsin. Mana bir misol:
+
+Bu yerda oq piyoda oldinga yura olmaydi, chunki u tura tomonidan to'silgan. Biroq, farzandingiz piyoda otni olishi mumkinligini ko'rishiga ishonch hosil qiling.
+
+[Diagramma 14.18]
+
+Mana ulardan so'rashingiz mumkin bo'lgan yana bir pozitsiya:
+
+Bu pozitsiyani berganingizda, farzandingizga piyoda boshlang'ich katakda turganini eslatib qo'ying.
+
+Farzandingizni "aldashga" urinishning hech qanday foydasi yo'q, lekin ular boshida piyodani bir yoki ikki katak yurgizish mumkinligini eslab qolishlariga ishonch hosil qilish muhim.
+
+Ular tobora ko'proq javoblarni to'g'ri ola boshlaganlarida, ular haqiqatan ham tushungunilariga qadar o'yinni tezlashtiring.
+
+[Diagramma 14.19]
+
+Qadam 10: Mini-o'yin: Piyodalar piyodalarga qarshi
+
+Quyidagi uchta mini-o'yin shaxmat murabbiylar orasida o'nlab yillar davomida mashhur o'qitish vositalari bo'lgan. Biz bu mini-o'yinlarni yaratmadik, lekin ular qiziqarli va o'rgatuvchi bo'lgani uchun siz bilan baham ko'lishni xohladik.
+
+Piyodalarni taxtaga boshlang'ich kataklariga qo'ying:
+
+[Diagramma 14.20]
+
+G'oya piyodalarni oldinga yurgizishni, shuningdek boshqa o'yinchining piyodalarini diagonal bo'ylab olishni mashq qilish.
+
+Bu mashqni qilganingizda, farzandingizning ba'zi piyodalarini oling va ularga siznikini olishga yordam bering. Imkon qadar teng saqlang. Yo'l bo'ylab farzandingizga maslahatlar berishingiz mumkin.
+
+Ularning kamida bitta piyodasini taxtaning oxiriga yetib, donaga ko'tarishni mashq qilishlariga ruxsat bering. Yangi dona hamda piyodalardan foydalanib o'yinni davom ettiring.
+
+Agar muvozanat buzilsa, istalgan vaqtda o'yinni qaytadan boshlashingiz mumkin.
+
+Bu o'yinni tugatish uchun belgilangan joy yo'q. Agar siz ancha oldinda bo'lsangiz, qaytadan boshlashingiz mumkin. Yagona haqiqiy maqsad piyodaning barcha jihatlarini mashq qilish.
+
+Qadam 11: Mini-o'yin: Besh piyoda turaga qarshi
+
+Bu pozitsiyani joylashtiring:
+
+Bu mashq turaning kuchini va shaxmat o'yinlarida uning qiymat turini ko'rsatadi.
+-Laura
+
+Bu piyodalarni yon tomondan hujum qilsangiz to'xtatish oson. Lekin agar siz faqat piyodalar guruhiga tura bilan to'g'ridan-to'g'ri hujum qilmoqchi bo'lsangiz, muammolar bo'lishi mumkin. Bu tura haqida o'rganish uchun yaxshi saboq.
+-Bill
+
+[Diagramma 14.21]
+
+Turalik tomon birinchi yuradi. Farzandingiz bu mini-o'yinni ikkala tomondan ham o'ynashi kerak.
+
+Qadam 12: Mini-o'yin: To'qqiz piyoda farzinga qarshi
+
+Quyidagi pozitsiyani joylashtiring:
+
+Buni yaxshi o'yin qiladigan narsa shundaki, bir tomon juda ko'p piyodalar oladi.
+
+Men ba'zan bu piyodalarni chumolilarga o'xshataman. Bitta chumoli odatda unchalik qo'rqinchli emas, lekin armiya bo'lishi mumkin!
+
+Bu yerda farzin yutishi kerak, lekin bu oson emas. Farzin boshqa piyodalarning taxtada juda uzoqqa borishiga yo'l qo'ymasdan, imkon qadar ko'proq piyodalarni oladi.
+-Bill
+
+[Diagramma 14.22]
+
+Eslatma: Sizning to'plamingizda faqat 8 piyoda bor bo'lgani uchun, to'qqizinchi qora piyoda yaratish uchun oq piyodani "qarz olishingiz" kerak bo'ladi.
+
+Farzandingizdan 9 piyoda yoki farzinni xohlashlarini so'rang. Ular xohlagan tomonni olishlariga ruxsat bering.
+
+Farzin birinchi yuradi.
+
+Agar piyodalar tomoni piyodani farzinga ko'tarib, kamida bir navbat ushlab qolsa (ya'ni darhol yo'qotmasa), o'sha tomon yutadi. Aks holda, agar farzin barcha piyodalarni olsa, o'sha tomon yutadi.
+
+Bu kuchli kichik mashq. Farzandingiz bu yerda o'rganishi mumkin bo'lgan juda ko'p strategiya bor.
+
+Tomonlarni almashtiring va farzandingizga farzin tomoni hamda piyodalar tomonini ham o'ynashga ruxsat bering.
+
+Qadam 13: Ixtiyoriy: G'alati kichik qoida
+
+Bu piyodalar haqida yana bir qoida bo'lib, u paydo bo'ladi, lekin tez-tez emas. U bu yerda piyoda yurishi haqidagi barcha qoidalarga ega bo'lishingiz uchun kiritilgan.
+
+Agar farzandingiz shaxmat klubida kuchli o'yinchilar bilan o'ynamasa, bu bosqichni ular bilan ko'rib chiqmasligingiz kerak.
+
+Asosiy tushuntirish
+
+"En passant" frantsuzcha "o'tib ketayotganida" degani. Bu ko'pincha noto'g'ri tushunilgan qoida (va yangi boshlovchilar uchun juda chalkash).
+
+Bolalar nima deyishadi
+
+En passant bolalar uchun hiyla tushuncha. Bizning o'quvchilarimiz ko'pincha "o'sha g'alati frantsuzcha narsa"ni ular bilan bir necha marta ko'rib chiqishni so'rashadi.
+
+Bu ko'pchilik bolalar uchun tushunishga biroz vaqt oladigan tushuncha.
+
+Mana qanday ishlaydi. Aytaylik sizda bu pozitsiya bor:
+
+Eslatma: Oqning beshinchi qatorda piyodasi bor. Qoraning boshlang'ich qatorida bir vertikal yondagi piyodasi bor.
+
+[Diagramma 14.23]
+
+Agar Qora piyodasini ikki katak oldinga yurgizsa, masalan:
+
+[Diagramma 14.24]
+
+Oq uni aslida olishi mumkin! Bu shunday ko'rinadi:
+
+Bu yerda Oq Qoraning piyodasini en passant oldi.
+
+[Diagramma 14.25]
+
+Sizda faqat bitta imkoniyat bor
+
+Yuqoridagi misolda Oq qora piyodani faqat Qora uni ikki katak oldinga yurgizganidan keyin darhol olishi mumkin. Bu Oqning yagona imkoniyati.
+
+O'yin vaziyatida, agar Oq boshqa yurish qilsa, bu maxsus piyodani en passant olish imkoniyati yo'qoladi.
+
+Mantiq
+
+Bu g'alati ko'rinadigan yurish, lekin o'ylab ko'rsangiz, bu juda mantiqiy.
+
+Esda tutish kerak bo'lgan birinchi narsa shuki, piyoda har doim bir katak oldinga, diagonal bo'ylab oladi. Bu qoida hali ham bu vaziyatga tegishli.
+
+Shuningdek, qora piyoda "o'tib ketayotganida" olingan deb hisoblashingiz mumkin. U ikkinchi qatordan boshlagan va to'rtinchiga tushgan, lekin uchinchi qatordan o'tayotganida olingan.
+
+Bu qoida nima uchun mavjud
+
+Shaxmat qoidalari vaqt o'tishi bilan rivojlangan. Piyodalar bir vaqtda faqat bitta katak yurishi mumkin bo'lgan vaqt bo'lgan.
+
+Qoida piyodani birinchi yurishda bir yoki ikki katak yurgizish o'rtasida tanlashga imkon berish uchun o'zgarganida, bitta muammo bor edi.
+
+Bu joylashuvda beshinchi qatordagi piyoda hech qachon ikkinchi qatordagini olish imkoniyatiga ega bo'lmas edi.
+
+[Diagramma 14.26]
+
+Bu vaziyatdan qochish uchun en passant ishlab chiqildi, o'yinchiga bitta imkoniyat (va faqat bitta imkoniyat) berib piyodani olish.
+
+Muammolar va yechimlar
+
+Muammo:
+Farzandim piyoda oldidagi donalarni olishga harakat qilishda davom etmoqda.
+
+Yechim:
+Bu keng tarqalgan xato va mashq orqali hal qilinadi. Farzandingizga piyoda yurganidan boshqacha olishini eslatib qo'ying. Keyin ularga qanday olishi va qanday yurishi mumkinligining ko'plab misollarini ko'rsating. Ularga piyoda qanday to'xtatilishini ham ko'rsatganingizga ishonch hosil qiling.
+
+Shunga o'xshash pozitsiyalar joylashtiring:
+
+[Diagramma 14.27]
+
+Farzandingizdan 14.27-diagrammada piyoda nima qilishi mumkinligini so'rang.
+
+Mana yana biri:
+
+[Diagramma 14.28]
+
+Farzandingizdan oq piyodaning qanday tanlovlari borligini so'rang.
+
+Ularga shunga o'xshash ko'plab pozitsiyalar bering va ular to'g'ri oldidagi piyodani ola olmasliklarini ko'rishlariga ishonch hosil qiling.
+
+Muammo:
+Farzandim piyodani orqaga va yon tomonga yurgizadi.
+
+Yechim:
+Farzandingizga piyoda hech qachon orqaga yoki yon tomonga bora olmasligini, faqat oldinga yurishini eslatib qo'ying.
+
+Agar bu ular unutishi mumkin bo'lgan nuqta deb hissangiz bo'lsa, ulardan "Piyoda yon tomonga yurishi mumkinmi? Bir katak oldinga-chi? Orqaga-chi?" kabi savollar beradigan kichik mini-o'yin yasang.
+
+Keyin siz ularni xuddi shu savollardan foydalanib, sizni "so'rashga" qo'yishingiz mumkin.
+
+Keyin farzandingizga piyoda qanday yurishini ko'rsating va ularga piyoda qanday yura olmasligi misollarini bering. Ularga ko'plab to'g'ri va noto'g'ri yurish misollarini bering.
+
+Endi 8-qadam mini-o'yiniga qayting, "Piyoda shunday yurishi mumkinmi?" Keyin ulardan bu bo'lim bo'yicha ko'proq so'rang.
+
+Muammo:
+Farzandim piyodani bir vaqtda bir katakdan ko'p yurgizmoqchi.
+
+Yechim:
+Ularga piyodani faqat piyodaning birinchi yurishida ikki katak yurgizish mumkinligini eslatib qo'ying. U bu tanlovga faqat bir marta ega.
+
+Farzandingizdan piyodani taxta bo'ylab bir vaqtda bir katak qilib yurgizishlarini so'rang. Ular har safar to'g'ri shaklda ekanliklariga ishonch hosil qiling (har bir yurishda piyodadan qo'llarini olib).
+
+Keyin ulardan shu bitta tushunchani yodda tutib to'g'ri va noto'g'ri piyoda yurishlari haqida so'rang. Piyodani bir katak oldinga yurgizing, "Piyoda shunday yurishi mumkinmi?" deb so'rab. Keyin piyodani uch katak yurgizing va yana so'rang.
+
+Muammo:
+Farzandim piyoda yurishi mumkin bo'lgan barcha turli usullarni ko'rishda qiynaladi.
+
+Yechim:
+Piyoda faqat bitta tanlovi bo'lgan oddiy pozitsiyalardan boshlang. Farzandingiz bilan yurishni topishda ishlab, ular ishonchli o'zlari bajara olgunilariga qadar bularning ko'plab misollarini bering.
+
+Keyin piyoda ikkita tanlovi bo'lgan pozitsiyalar joylashtiring. Ular o'zlari qila olgunilariga qadar boshqotirmani hal qilishda farzandingizga yana yordam bering.
+
+Agar ular ma'lum bir yurish naqshini ko'rishda qiynalayotganini ko'rsangiz, o'sha harakatni ko'rsatib misollar bilan shu ustida ishlang.
+
+Keyin siz ularga ko'proq imkoniyatli boshqotirmalarni ko'rsata boshlashingiz mumkin.
+
+Muammo:
+Farzandim "To'qqiz piyoda farzinga qarshi" mini-o'yinidan hafsalasi pir bo'lmoqda.
+
+Yechim:
+Garchi bu mini-o'yin bo'lsa-da, bu ham mashq. Farzandingiz bu mini-o'yinni yutishni boshdan kechirishi muhim. Farzandingiz bilan ishlang, ularga yurishlarni qaytarib olishga ruxsat bering, shunda ular yuta olsinlar.
+
+Ularga ko'rsatmalar bering. Ularga piyodalar bir-birini himoya qilganida qimmatroq ekanligini tushunishga yordam bering. Farzandingizga agar piyodani yolg'iz taxta bo'ylab jo'natsa, u omon qolmasligini ko'rsating.
+
+Ular farzin tomonini o'ynaganlarida, piyodalarga e'tibor berishlari va ularning juda uzoqqa borishlariga yo'l qo'ymaslik kerakligini tushunishlariga yordam bering. Biroq, buni yutish uchun ular deyarli har bir navbatda piyoda olishlari kerak.

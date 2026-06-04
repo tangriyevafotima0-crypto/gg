@@ -1,0 +1,112 @@
+Kimdir shaxmat o'ynashni o'rganganida, ba'zan donalariga hujum qilinganini e'tiborsiz qoldiradi. Ular boshqa o'yinchining donalarini olish imkoniyatlarini ham o'tkazib yuborishi mumkin.
+
+Ikkala nuqtani ham sezish mashq qilish muhim.
+
+Qadam 1: Mini-o'yin: Mening qaysi donamga hujum qilayapsiz?
+
+Taxtani shunday joylashtiring:
+
+[Diagramma 22.1]
+
+Farzandingizdan so'rang: "Qora tura mening qaysi donamga hujum qilmoqda?" Agar ular bu bilan qiynalsa, 6-bob "Boshqa o'yinchining donasini qanday olish kerak"ni tezkor ko'rib chiqing.
+
+Siz ulardan tura yurishi mumkin bo'lgan barcha kataklarga ishora qilishlarini ham so'rashingiz mumkin. Bu tura qaysi donaga hujum qilayotganini ochib beradi.
+
+Ular ishonchli to'g'ri javob bera olgunlariga qadar shunga o'xshash bir nechta pozitsiya bering (faqat uchta dona bilan).
+
+Endi uchta oq dona va qora tura qo'ying va ulardan tura qaysi donalarni olishi mumkinligini so'rang. Tura olishi mumkin bo'lgan donalar sonini o'zgartiring (bir, ikki yoki hatto uchtasi).
+
+O'yin davom etganida donalar qo'shishda davom eting va tezlashtirib boring. Mana qiyinroq pozitsiya misoli:
+
+[Diagramma 22.2]
+
+Turli hujum qiluvchi donalardan foydalanib turli pozitsiyalar sinab ko'ring. Agar farzandingiz biror nuqtada qiynalsa, kamroq dona ishlating. Esda tutingki, taxtada qancha ko'p dona bo'lsa, mashq shuncha qiyin.
+
+Qadam 2: Mini-o'yin: Qaysi dona qaysi donaga hujum qilmoqda?
+
+Faqat bitta dona boshqasiga hujum qilayotgan pozitsiyalardan boshlang. Mana bir misol:
+
+Bu mini-o'yinda pozitsiyalarni boshlash uchun oddiy saqlash muhim.
+
+Faqat bitta dona boshqasiga hujum qilayotgan pozitsiyalar joylashtirish hiyla bo'lishi mumkin. O'zingizga oson qiling va kamroq dona ishlating.
+-Laura
+
+[Diagramma 22.3]
+
+Farzandingizdan ikkala tomondan biror dona boshqa donani olishi mumkinligini so'rang.
+
+Farzandingizga pozitsiyaga bir lahza qarab ko'rish uchun vaqt bering. Agar qiynalsa, bir nechta donalarni chiqarib tashlashga yordam berishingiz mumkin.
+
+Shohlar hech narsani olishi mumkin emasligini ko'rsatishdan boshlang. Keyin Qoraning turalaridan biri yura olmasligini ko'rsating. Barcha piyodalarga qarab, ularning hech biri hech narsani ola olmasligini ko'rishlarini ham so'rashingiz mumkin. Toraytirishda davom eting.
+
+Avvaliga bu farzandingiz uchun hiyla bo'lishi mumkin. Shunga o'xshash ko'proq pozitsiyalar joylashtiring.
+
+Uzoq diagonallarni bolalar uchun sezish qiyinroq bo'lishi mumkin, shuning uchun fil uzoqdan piyodaga hujum qilayotgan misolni berishdan oldin biroz kuting.
+
+Ular tayyor ekanliklarini his qilganingizda, mana foydalanishingiz mumkin bo'lgan misol:
+
+Bolalar odatda uzoq diagonallardagi hujumlarni sezishda ko'proq qiynalishadi. Vaqt o'tishi bilan qiyinlikni oshiring.
+-Bill
+
+[Diagramma 22.4]
+
+Farzandingizdan qaysi dona qaysi donaga hujum qilayotganini aytishlarini so'rang.
+
+22.4-diagramma uchun to'g'ri javob - oq fil qora piyodaga hujum qilmoqda.
+
+Agar farzandingizga ko'proq mashq kerak bo'lsa, shunga o'xshash pozitsiyalar joylashtiring, faqat bitta dona boshqasiga hujum qilayotganiga ishonch hosil qiling.
+
+Endi ikkita donaga hujum qilingan pozitsiya joylashtiring.
+
+Bu yerda qora farzin oq otga hujum qilmoqda va qora fil oq piyodaga hujum qilmoqda.
+
+[Diagramma 22.5]
+
+Farzandingiz tobora yaxshilangani sari, ko'proq hujumchilar qo'shishingiz mumkin. Ular buni o'zlashtiganlarida, ularga shunday pozitsiya ko'rsatishingiz mumkin:
+
+Farzandingiz tanlovlarini seza boshlashi yaxshi. Shaxmatda ko'p tanlovlar bor va to'g'risini tanlash matni ko'rish yoki bepul dona yutish bo'lishi mumkin.
+
+To'g'ri tanlovni tanlashning birinchi qadami - variantlaringiz nima ekanligini ko'rish.
+
+Bu mini-o'yin o'sha yo'nalishda yaxshi qadam.
+-Laura va Bill
+
+[Diagramma 22.6]
+
+22.6-diagrammada qora ot oq farzinga hujum qilmoqda va oq fil qora piyodaga hujum qilmoqda. Oq farzin ham ikkita qora piyodaga hujum qilmoqda.
+
+Bu mini-o'yinning maqsadi uchun ma'lum bir donani olish yaxshi yurish yoki yo'qligi muhim emas. Masalan, yuqoridagi pozitsiyada oq farzin hech qaysi qora piyodani olishni xohlamaydi. Bu yomon almashish bo'lardi. Baribir, farzandingiz bu olishlar mumkin ekanligini sezishi yaxshi.
+
+Bu mashqda farzandingiz qilishini xohlagan yagona narsa - dona olinishi mumkinligini sezish. O'yinchi har doim variantlarini bilishi kerak.
+
+Mashq bilan donangizga qachon hujum qilinganini va boshqa donani qachon olish mumkinligini ko'rish qobiliyati keladi.
+
+Bu shaxmatda sizga katta ustunlik berishi mumkin, chunki raqibingizdan ko'proq donangiz bo'lganda yutish osonroq.
+
+Qadam 3: Keling, o'ynaylik!
+
+Farzandingiz bilan dona olishlarning ikki usuli borligini muhokama qiling. Ular donaga hujum qilishlari mumkin yoki boshqa o'yinchi shunchaki donasini siz himoya qilayotgan katakka yurgizishi mumkin.
+
+Farzandingiz bilan o'yin o'ynang. O'yinda ma'lum bir nuqtaga yetganingizda, farzandingizdan so'rang: "Mayli, hozir qaysi donalarga hujum qilinmoqda?" Ulardan barcha donalarga ishora qilishlarini so'rang. Ehtimol ko'p bo'ladi!
+
+O'ynashda davom eting va yana olti-yetti yurishdan keyin ulardan hujum ostidagi barcha donalarni ko'rsatishlarini so'rang.
+
+O'yin davomida bu mashq bilan davom eting. Ular osonlik bilan hujum qilinayotgan barcha donalarga ishora qila olganlarida, hech birini o'tkazib yubormasdan, keyingi bobga o'tishingiz mumkin.
+
+Muammolar va yechimlar
+
+Muammo:
+Farzandim hujum qilinayotgan barcha donalarni topishda qiynaladi.
+
+Yechim:
+Taxtada kamroq dona bilan boshlang. Ular qaysi donalar boshqa donalarga hujum qilayotganini osonlik bilan aniqlay oladigan nuqtani toping. Keyin bir nechta dona qo'shing va bu pozitsiyalar haqida so'rang. Faqat osonroq mashqlar bilan ishonchli bo'lganlarida dona qo'shing.
+
+Muammo:
+Farzandim hujum qilinmagan donalarni tanlayapti.
+
+Yechim:
+Farzandingizdan ular tanlagan donaga qaysi dona hujum qilayotganini so'rang. Agar dona nomini aytishlari, o'sha dona qanday yurishini tushunishlariga ishonch hosil qiling. Agar ular o'sha dona yurishlari bilan qiynalayotgan bo'lsa, bu mini-o'yinlar juda qiyin bo'ladi.
+
+Agar ular yelka qisalarsa, ular faqat taxmin qilayotgan bo'lishi mumkin. Muammo nima ekanligini aniqlab olishingiz kerak. Agar 3-qadamda bo'lsangiz, 2-qadamga qayting va ko'proq misollar joylashtiring. Agar ular 2-qadam bilan qiynalsa, 1-qadamga qayting. Bu yerda ko'proq vaqt o'tkazing, faqat bir nechta dona bo'lgan pozitsiyalardan boshlang.
+
+Agar ular 1-qadam bilan qiynalsa, ulardan hujum qilayotgan dona yurishi mumkin bo'lgan barcha kataklarga ishora qilishlarini so'rang. Agar ular bu dona borishi mumkin bo'lgan kataklarni o'tkazib yuborsa, o'sha dona bobini ko'rib chiqing.

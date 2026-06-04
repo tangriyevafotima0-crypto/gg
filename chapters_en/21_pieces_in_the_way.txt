@@ -1,0 +1,92 @@
+Put a rook in the center of the board and point to all the squares where it can go.
+Now set up this position:
+Diagram21.1
+Show your child that the white rook's movement is now blocked by the white pawn.
+Point to all the squares where it can go. Now place another white piece on the board, so
+that it further blocks the rook.
+It is important that your child understands that their own pieces can get in the way of
+the movement of their other pieces. The more blocked a piece is, the less valuable it is
+to you because it can't do as much.
+
+Keep adding pieces until you get a position similar to this:
+Diagram 21.2
+Now point to the squares where the rook can move.
+Do this exercise with the queen and bishop, as well. Start with the piece in the center of
+the board and then restrict the movement more and more, showing your child how that
+piece becomes blocked.
+Also, remind your child how easily a pawn
+gets blocked.
+Although the knight can hop over pieces, it
+too can be blocked in. Set up this position:
+In diagram 21.3, the knight cannot move!
+Diagram 21.3
+
+Step 2: Mini-game: Point to the squares where the piece can go
+Set up positions, similar to the ones in the previous step, for the other pieces, where one
+player's pieces get in the way of their own piece. Have your child point to the squares
+where that piece can go.
+Set up positions where the piece can go to many squares, and others where it can only
+go to a few (or none at all).
+Step 3: Mini-game: Point to the squares where the king can go
+The king's movements can be blocked as well. This is an important concept to get across.
+When your king's movements are restricted, it's much easier to get checkmated.
+Set up various positions where the king's movements are blocked by its own pieces.
+Have your child point to the squares where the king can go.
+Here are some examples:
+Diagram 21.4 Diagram 21.5
+
+Diagram 21.6 Diagram 21.7
+Set up many examples and have your child point to the squares where the king can go
+(in diagram 21.7, the king is trapped by its own pieces).
+All you want to do here is to get your child used to spotting the squares where the king
+can go. When they can do this accurately and very quickly, move on.
+Step 4: What piece can move?
+Set up the starting position.
+The only pieces that can move at the start
+of the game are the knights and the pawns.
+Help your child to see that the bishops,
+rooks, queen, and king are blocked in.
+Diagram 21.8
+
+It is good to go over how blocking relates to the start of the game. With this new infor­
+mation it will help to reinforce the importance of getting the pieces out quickly.
+Ask your child if the white rook can move in diagram 21.8. Make sure they see that the
+rook has nowhere to go.
+Now ask your child to find another piece that cannot move. And another. Have them
+find all the pieces that are blocked.
+Next ask your child to show you the pieces that can move.
+Work with your child to figure out how to get the light-squared bishop out. Have them
+spot the two pawns they could move to get that bishop out.
+Let's look at moving the pawn in front of the king:
+Diagram 21.9
+Ask your child to point to all the squares where the bishop can now move. Get them to
+see how this piece can now become active.
+Next, ask your child to find another piece that can now move. Get them to see that the
+queen now has places to go.
+Although the king is able to move, remind your child that they will probably want to
+castle, so they shouldn't move the king.
+
+??
+, Troubleshooting Tips
+. . , ,,
+• • •
+Problem:
+In the mini-game, "Point to the squares where the king can go;' my child is missing some
+of the moves the king can make.
+Solution:
+Go back to a position where the king can only move to one square. Come up with sev­
+eral positions like that and then progress to a position where the king can move to two
+squares.
+As you progress, you can start putting the king on the edge of the board or in the center.
+But understand that this mini-game gets harder when there are more places that the
+king can go.
+Problem:
+In the mini-game, "Point to the squares where the king can go;' my child is picking moves
+that are two squares away.
+Solution:
+If your child points to a square next to the king and then to a square two squares away,
+it is likely that they are thinking two moves ahead. Remind your child that you are just
+looking for choices for the king for right now, not next move (even though visualizing a
+series of moves is wonderful).
+If they are confused by how the king moves, thinking that it moves two squares at a
+time, simply review the king's movements with them.
