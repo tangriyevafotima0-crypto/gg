@@ -25,5 +25,5 @@
     "Run: ls -la \"Shaxmat - bolalar o'yini (O'zbek tilida tarjima).pdf\" | awk '{print $5}'  (should be >2000000 bytes)"
   ],
   "blocked_reason": null,
-  "findings": "All 256 chess diagrams extracted successfully (210 small + 46 wide). 26 chapter dividers and 13 icons also extracted. Final PDF is 302 pages, 39.4 MB with 262 embedded images. Some dividers may share identical image data in the PDF (fpdf2 deduplication). The extraction used PyMuPDF xref-based approach which is fast and reliable. The diagram count per chapter matches exactly with [Diagramma X.Y] placeholders in Uzbek text."
+  "findings": "All 256 chess diagrams extracted successfully (210 small + 46 wide). 26 chapter dividers and 13 icons also extracted. Final PDF is 314 pages, 42.2 MB with 295 embedded images (after fixing 33 dropped diagrams from multi-placeholder lines). Fixed chapter 11 title from 'Shoh' to 'Shah'. Fixed unconditional ln(4) after page breaks. The extraction used PyMuPDF xref-based approach which is fast and reliable."
 }
